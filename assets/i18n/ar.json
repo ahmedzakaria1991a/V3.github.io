@@ -2,9 +2,9 @@
   "LANGUAGE": "العربية",
   "readmore": "اقرأ المزيد",
   "readLess": "إقرأ أقل",
-  "toggleExpandreadmore":"Read More",
-  "toggleExpandreadLess":"Read Less",
-  "close":"إغلاق",
+  "toggleExpandreadmore": "Read More",
+  "toggleExpandreadLess": "Read Less",
+  "close": "إغلاق",
   "contactus": "تواصل معنا",
   "contactusLink": "/contact/",
   "serviceLink": "/service",
@@ -17,97 +17,214 @@
     "contact": "تواصل معنا"
   },
 
-
   "home": {
     "header-title": "مؤسسة محمد عاطف ",
     "details-title": "إعداد الدراسات الاقتصادية والتخطيطية للمنطقة الصناعية. إعداد الدراسات الاقتصادية والهندسية والتكنولوجية للمشاريع. إنشاء البنية التحتية ومصادر البنية التحتية الخارجية للمنطقة الصناعية. تسويق وترويج أراضي المنطقة الصناعية لجذب رؤوس الأموال والمشاريع الصناعية إلى المناطق الصناعية. إنشاء مباني المصانع في هذه المنطقة الصناعية جاهزة للمشاريع. إدارة المنطقة الصناعية وصيانة المرافق",
-    "Short-details-details1": ["يسعدنا أن نقدم لكم مؤسسة المحاماة لشركات في جمهورية مصر العربية، وهي مؤسسة متميزة تسعى لتقديم أفضل الخدمات القانونية للشركات والمؤسسات التجارية.", "نحن نفخر بتقديم مجموعة متكاملة من الخدمات القانونية التي تلبي احتياجات الشركات في مختلف القطاعات. فريقنا من المحامين المتخصصين يتمتع بخبرة واسعة في التعامل مع القضايا التجارية والقانونية المعقدة، ويحرص دائماً على تقديم حلول مبتكرة ومناسبة لكل عميل.", "تشمل خدماتنا القانونية ما يلي:"],
-    "sup-details1": ["تأسيس الشركات: تقديم الاستشارات القانونية والإجرائية اللازمة لتأسيس الشركات بجميع أنواعها.", "العقود التجارية: إعداد ومراجعة العقود التجارية لضمان حماية مصالح عملائنا.", "الاستشارات القانونية: تقديم المشورة القانونية المستمرة لحل النزاعات وتجنبها قبل حدوثها.", "الامتثال التنظيمي: مساعدة الشركات على الامتثال للقوانين واللوائح المحلية والدولية.", "التحكيم التجاري: تمثيل الشركات في قضايا التحكيم والنزاعات التجارية لضمان أفضل النتائج."],
-    "end-details1": ["نلتزم بتقديم خدمات قانونية عالية الجودة ومهنية تتماشى مع أعلى المعايير القانونية، ونسعى لبناء علاقات طويلة الأمد مع عملائنا تقوم على الثقة والاحترام المتبادل.", "نرحب بكم في مؤسسة المحاماة لشركات في جمهورية مصر العربية، ونتطلع لخدمتكم ومساعدتكم على تحقيق النجاح والتفوق في أعمالكم التجارية."],
+    "Short-details-details1": [
+      "إعداد الدراسات الاقتصادية والتخطيطية للمنطقة الصناعية يشمل مجموعة من المهام والأنشطة الأساسية التي تهدف إلى تحقيق نجاح هذه المناطق من خلال التخطيط الجيد وتحليل الجوانب الاقتصادية والهندسية والتكنولوجية. إليك نظرة شاملة على خطوات تنفيذ هذه المهام:"
+    ],
+    "sup-details1": [{
+        "title": "إعداد الدراسات الاقتصادية والتخطيطية للمنطقة الصناعية",
+        "subtitle": [
+          "دراسة الجدوى الاقتصادية: تحديد مدى ملاءمة المنطقة الصناعية من الناحية الاقتصادية عبر تحليل الأسواق، تكاليف الإنتاج، مصادر التمويل، وتوقعات العائد. تحليل الفوائد الاقتصادية: من خلال دراسة العوائد على الاستثمار، وخلق فرص العمل، وتحقيق التنوع الاقتصادي.",
+          "التخطيط المكاني: تنظيم المنطقة بشكل يحقق أقصى استفادة من الموارد المتاحة ويوفر بنية تحتية مناسبة لجميع الأنشطة الصناعية."
+        ]
+      },
+      {
+        "title": "إعداد الدراسات الهندسية والتكنولوجية للمشاريع",
+        "subtitle": [
+          "دراسة الجدوى الهندسية: تحديد البنية التحتية المطلوبة (المرافق، الطرق، شبكات المياه والكهرباء، الصرف الصحي)، وتصميم المواقع التي يتم تخصيصها للمصانع والمستودعات.",
+          "التكنولوجيا الصناعية: دراسة التكنولوجيا التي تحتاجها المصانع المزمع إنشاؤها في المنطقة، مثل الآلات والمعدات الحديثة وأساليب الإنتاج المتطورة."
+        ]
+      },
+      {
+        "title": " إنشاء البنية التحتية ومصادر البنية التحتية الخارجية للمنطقة الصناعية",
+        "subtitle": [
+          "البنية التحتية الأساسية: إنشاء شبكات الطرق، شبكات الكهرباء والمياه، الاتصالات، وشبكات الصرف الصحي التي تدعم العمليات الصناعية في المنطقة.",
+          "الربط مع البنية التحتية الخارجية: التأكد من وجود وسائل نقل مباشرة إلى الطرق الرئيسية والموانئ والمطارات لتسهيل حركة البضائع."
+        ]
+      },
+      {
+        "title": "تسويق وترويج أراضي المنطقة الصناعية لجذب رؤوس الأموال والمشاريع الصناعية",
+        "subtitle": [
+          "استراتيجية التسويق: إنشاء حملات تسويقية لجذب الاستثمارات الأجنبية والمحلية، وذلك من خلال عرض التسهيلات والمزايا التي تقدمها المنطقة مثل الضرائب المخفضة، الأراضي بأسعار تنافسية، وجودة البنية التحتية.",
+          "مشاركة في المعارض والمؤتمرات: للتعريف بالمنطقة الصناعية وفرص الاستثمار فيها.",
+          "التعاون مع الشركات الاستشارية: للاستفادة من خبراتها في الترويج وجذب المستثمرين."
+        ]
+      },
+      {
+        "title": "إنشاء مباني المصانع في المنطقة الصناعية",
+        "subtitle": [
+          "إنشاء مباني جاهزة للمصانع: تصميم وتنفيذ مباني للمصانع ذات مواصفات مرنة يمكن تعديلها بحسب احتياجات مختلف الصناعات.",
+          "التركيز على الكفاءة والطاقة: تجهيز المباني بمرافق للطاقة المستدامة مثل الطاقة الشمسية أو أنظمة إعادة التدوير لتقليل التأثير البيئي."
+        ]
+      },
+      {
+        "title": "إدارة المنطقة الصناعية وصيانة المرافق",
+        "subtitle": [
+          "إدارة المنطقة الصناعية: يجب أن تتولى جهة مسؤولة إدارة المنطقة الصناعية لضمان سير العمليات بشكل منتظم، مع توفير بيئة استثمارية محفزة.",
+          "الصيانة الدورية: الحفاظ على جميع المرافق والتأكد من عملها بكفاءة، مثل شبكات المياه والصرف الصحي والكهرباء والطرق الداخلية.",
+          "التحديث والتطوير: يجب أن تواكب المنطقة التطورات التكنولوجية، والعمل على تحديث البنية التحتية بشكل دوري.",
+          "التحديات التي قد تواجه تنفيذ هذه الخطط: التنسيق بين الجهات المختلفة: لضمان التوافق بين مختلف الأطراف المعنية (الحكومات، الشركات، المستثمرين، المجتمعات المحلية).",
+          "البحث عن تمويل مستدام: خاصة في بداية المشاريع الكبيرة والتي قد تتطلب استثمارات ضخمة.",
+          "الاستدامة البيئية: من خلال بناء منطقة صناعية صديقة للبيئة توازن بين التطور الصناعي وحماية الموارد الطبيعية."
+        ]
+      }
+    ],
+    "end-details1": [
+      "من خلال تنفيذ هذه الخطوات بشكل منظم، يمكن تطوير منطقة صناعية ناجحة تدعم الاقتصاد المحلي وتخلق فرص عمل، مع المحافظة على الاستدامة البيئية والتكنولوجية."
+    ],
 
-    "Short-details-details2": ["We are pleased to introduce the Corporate Law Firm in the Arab Republic of Egypt, a distinguished institution dedicated to providing top-tier legal services to companies and business entities.", "Our firm prides itself on offering a comprehensive range of legal services tailored to meet the needs of companies across various sectors. Our team of specialized lawyers possesses extensive experience in handling complex commercial and legal matters, always striving to deliver innovative and suitable solutions for each client.", "Our legal services include the following:"],
+    "Short-details-details2": [
+      "The preparation of economic and planning studies for the industrial zone includes a set of essential tasks and activities aimed at ensuring the success of these areas through proper planning and analysis of the economic, engineering, and technological aspects. Here is an overview of the steps involved in implementing these tasks:"
+    ],
 
-    "sup-details2": ["Company Formation: Providing legal and procedural consultations necessary for establishing companies of all types.", "Commercial Contracts: Drafting and reviewing commercial contracts to ensure the protection of our clients' interests.", "Legal Consultancy: Offering continuous legal advice to resolve and prevent disputes before they arise.", " Regulatory Compliance: Assisting companies in complying with local and international laws and regulations.", "Commercial Arbitration: Representing companies in arbitration cases and commercial disputes to secure the best possible outcomes."],
-
-    "end-details2": ["We are committed to delivering high-quality, professional legal services that adhere to the highest legal standards. Our goal is to build long-term relationships with our clients based on trust and mutual respect.", "Welcome to the Corporate Law Firm in the Arab Republic of Egypt. We look forward to serving you and assisting you in achieving success and excellence in your business endeavors."]
+    "sup-details2": [{
+        "title": "Preparation of Economic and Planning Studies for the Industrial Zone",
+        "subtitle": [
+          "Feasibility Study: Determining the economic suitability of the industrial zone by analyzing markets, production costs, funding sources, and return forecasts. Economic benefits analysis: through studying return on investment, job creation, and achieving economic diversification.",
+          "Spatial Planning: Organizing the area in a way that maximizes the use of available resources and provides appropriate infrastructure for all industrial activities."
+        ]
+      },
+      {
+        "title": "Preparation of Engineering and Technological Studies for Projects",
+        "subtitle": [
+          "Engineering Feasibility Study: Determining the required infrastructure (facilities, roads, water and electricity networks, sewage), and designing the sites allocated for factories and warehouses.",
+          "Industrial Technology: Studying the technology needed by the factories to be established in the zone, such as modern machines, equipment, and advanced production methods."
+        ]
+      },
+      {
+        "title": "Creating Infrastructure and External Infrastructure Sources for the Industrial Zone",
+        "subtitle": [
+          "Basic Infrastructure: Establishing road networks, electricity and water networks, telecommunications, and sewage systems that support industrial operations in the area.",
+          "Connection with External Infrastructure: Ensuring direct transport links to main roads, ports, and airports to facilitate the movement of goods."
+        ]
+      },
+      {
+        "title": "Marketing and Promoting the Industrial Zone's Land to Attract Capital and Industrial Projects",
+        "subtitle": [
+          "Marketing Strategy: Creating marketing campaigns to attract foreign and local investments by showcasing the facilities and benefits offered by the zone, such as reduced taxes, competitive land prices, and quality infrastructure.",
+          "Participation in Exhibitions and Conferences: To promote the industrial zone and its investment opportunities.",
+          "Collaboration with Consulting Firms: To benefit from their expertise in promoting and attracting investors."
+        ]
+      },
+      {
+        "title": "Building Factory Buildings in the Industrial Zone",
+        "subtitle": [
+          "Creating Ready-to-use Factory Buildings: Designing and constructing factory buildings with flexible specifications that can be modified according to the needs of various industries.",
+          "Focus on Efficiency and Energy: Equipping buildings with facilities for sustainable energy, such as solar power or recycling systems to reduce environmental impact."
+        ]
+      },
+      {
+        "title": "Managing the Industrial Zone and Maintaining Facilities",
+        "subtitle": [
+          "Managing the Industrial Zone: A responsible entity must manage the industrial zone to ensure smooth operations, while providing an attractive investment environment.",
+          "Routine Maintenance: Keeping all facilities functioning efficiently, such as water, sewage, electricity networks, and internal roads.",
+          "Updating and Development: The zone should keep up with technological developments, working to periodically update the infrastructure.",
+          "Challenges in Implementing These Plans: Coordination Between Different Entities: To ensure alignment among the various stakeholders (governments, companies, investors, local communities).",
+          "Seeking Sustainable Financing: Especially in the early stages of large projects which may require substantial investments.",
+          "Environmental Sustainability: By building an environmentally friendly industrial zone that balances industrial development and the protection of natural resources."
+        ]
+      }
+    ],
+    "end-details2": [
+      "By implementing these steps in an organized manner, a successful industrial zone can be developed that supports the local economy, creates job opportunities, while maintaining environmental and technological sustainability."
+    ]
   },
 
   "sectionhourshome": [{
     "title": "ساعات العمل",
     "day": [{
-      "paragraph": "السبت:",
-      "prim": false
-    }, {
-      "paragraph": "الاحد:",
-      "prim": false
-    }, {
-      "paragraph": "الاثنين:",
-      "prim": false
-    }, {
-      "paragraph": "الثلاثاء:",
-      "prim": false
-    }, {
-      "paragraph": "الاربعاء:",
-      "prim": false
-    }, {
-      "paragraph": "<span>الخميس:</span>",
-      "prim": true
-    }, {
-      "paragraph": "<span>الجمعه:</span>",
-      "prim": true
-    }],
+        "paragraph": "السبت:",
+        "prim": false
+      },
+      {
+        "paragraph": "الاحد:",
+        "prim": false
+      },
+      {
+        "paragraph": "الاثنين:",
+        "prim": false
+      },
+      {
+        "paragraph": "الثلاثاء:",
+        "prim": false
+      },
+      {
+        "paragraph": "الاربعاء:",
+        "prim": false
+      },
+      {
+        "paragraph": "<span>الخميس:</span>",
+        "prim": true
+      },
+      {
+        "paragraph": "<span>الجمعه:</span>",
+        "prim": true
+      }
+    ],
     "time": [{
-      "paragraph": "09:00 ص - 5:00 م",
-      "prim": false
-    }, {
-      "paragraph": "09:00 ص - 5:00 م",
-      "prim": false
-    }, {
-      "paragraph": "09:00 ص - 5:00 م",
-      "prim": false
-    }, {
-      "paragraph": "09:00 ص - 5:00 م",
-      "prim": false
-    }, {
-      "paragraph": "09:00 ص - 5:00 م",
-      "prim": false
-    }, {
-      "paragraph": "<span>اجازة اسبوعية </span>",
-      "prim": true
-    }, {
-      "paragraph": "<span>اجازة اسبوعية </span>",
-      "prim": true
-    }]
+        "paragraph": "09:00 ص - 5:00 م",
+        "prim": false
+      },
+      {
+        "paragraph": "09:00 ص - 5:00 م",
+        "prim": false
+      },
+      {
+        "paragraph": "09:00 ص - 5:00 م",
+        "prim": false
+      },
+      {
+        "paragraph": "09:00 ص - 5:00 م",
+        "prim": false
+      },
+      {
+        "paragraph": "09:00 ص - 5:00 م",
+        "prim": false
+      },
+      {
+        "paragraph": "<span>اجازة اسبوعية </span>",
+        "prim": true
+      },
+      {
+        "paragraph": "<span>اجازة اسبوعية </span>",
+        "prim": true
+      }
+    ]
   }],
   "sectioncontacthome": [{
     "title": "تواصل",
     "contactcontent": [{
-      "paragraph": "<span>01027760000</span>",
-      "prim": true
-    }, {
-      "paragraph": "البريد الإلكتروني للتواصل",
-      "prim": false
-    }, {
-      "paragraph": "<span>info@egyptlaw.net</span>",
-      "prim": true
-    }, {
-      "paragraph": "44 المريوطيه  فيصل - برج الساعه- الدور الخامس - وحده 501 ",
-      "prim": false
-    }, {
-      "paragraph": "الهرم - الجيزه",
-      "prim": false
-    }]
+        "paragraph": "<span>01027760000</span>",
+        "prim": true
+      },
+      {
+        "paragraph": "البريد الإلكتروني للتواصل",
+        "prim": false
+      },
+      {
+        "paragraph": "<span>info@egyptlaw.net</span>",
+        "prim": true
+      },
+      {
+        "paragraph": "44 المريوطيه  فيصل - برج الساعه- الدور الخامس - وحده 501 ",
+        "prim": false
+      },
+      {
+        "paragraph": "الهرم - الجيزه",
+        "prim": false
+      }
+    ]
   }],
 
-
   "specializedlawyerstitlehome": "محامين خبراء في مجالات القانون والقضايا المختلفة ",
-  "specializedlawyerscontentehome": "ما يميز مكتبنا عن مكاتب المحاماة الأخرى، هو انفرادنا بالتخصصات القانونية التي تتطلب خبرة قانونية وفكر استراتيجي من الدرجة الأولى. حيث نفخر بوجود شركائنا المتخصصين في مجالات القانون المختلفة، والمستعدون لدعم عملائنا الكرام بكل السبل الممكنة لتحقيق أهدافهم بأسرع وقت وبأعلى جودة ممكنة؛ سعياً منا لنصبح أفضل شركة محاماة في مصر في المستقبل القريب.  ",
-
+  "specializedlawyerscontentehome": "القانون التجاري والشركات: تقديم استشارات قانونية متخصصة في تأسيس الشركات، عقود الأعمال، التسوية التجارية، وحل النزاعات.القانون المدني: معالجة القضايا المدنية مثل العقود، الملكية، والمسؤولية المدنية، مع التركيز على تقديم حلول عملية وفعّالة.القانون الجنائي: الدفاع عن المتهمين في القضايا الجنائية، وتقديم استراتيجيات قانونية متكاملة لضمان حقوق العميلالملكية الفكرية: حماية حقوق الملكية الفكرية بما في ذلك براءات الاختراع، والعلامات التجارية، وحقوق المؤلفالقضايا العمالية: تمثيل الشركات والموظفين في القضايا العمالية، بما في ذلك عقود العمل، الفصل من العمل، والمنازعات العماليةالقضايا الأسرية: تقديم استشارات قانونية في القضايا الأسرية مثل الطلاق، وحضانة الأطفال، والمواريث لماذا تختارنا؟خبرة متعمقة: لدينا فريق من المحامين المتخصصين في كل مجال من مجالات القانون لضمان تقديم أفضل الحلول القانونية النتائج الممتازة: نحن ملتزمون بتحقيق أفضل النتائج من خلال استراتيجيات قانونية مدروسة تضمن حقوق عملائناالالتزام بالاحترافية: نتمتع بسجل حافل من النجاح في معالجة القضايا القانونية المختلفة بمهارة وحرفية عالية",
   "specializedlawyershome": [{
-      "src": "assets/images/home/icon_11.webp",
-      "titleicon": "القضايا الدولية ",
-      "titlecontent": " نقدم الدعم الكافي من الدراسات والاستشارات لجميع عملائنا المحليين والدوليين في التقاضي عبر المحاكم الدولية. فمن خلال الخبرة في القانون الدولي، سندعمك بمحامي دولي متمرس مستعد لتولي قضاياك الدولية والعمل على تحقيق غاياتك في التحكيم التجاري الدولي."
-    },
+    "src": "assets/images/home/eco.png",
+    "titleicon": "القضايا الاقتصادية ",
+    "titlecontent": " نقدم الدعم الكافي من الدراسات والاستشارات لجميع عملائنا المحليين والدوليين في التقاضي عبر المحاكم الدولية. فمن خلال الخبرة في القانون الدولي، سندعمك بمحامي دولي متمرس مستعد لتولي قضاياك الدولية والعمل على تحقيق غاياتك في التحكيم التجاري الدولي."
+  },
     {
       "src": "assets/images/home/icon_12.webp",
       "titleicon": "القضايا التجارية",
@@ -132,13 +249,16 @@
       "src": "assets/images/home/icon_16.webp",
       "titleicon": "القضايا المدنية",
       "titlecontent": "لدى مكتبنا محامون متخصصون في القضايا المدنية مستعدون لتولي كافة أنواع القضايا الناشئة عن العقود والمعاملات المدنية مع تقديم الدعم الكافي من المرافعة والدفاع أمام المحاكم لنصرة موكلينا. فمن خلال التعاقد معنا، سيتولى أشهر محامي مدني في مكتبنا قضيتك ويحقق لك النصر من خلال خبراته ومعارفه."
+    },
+    {
+      "src": "assets/images/home/icon_11.webp",
+      "titleicon": "القضايا الدولية ",
+      "titlecontent": " نقدم الدعم الكافي من الدراسات والاستشارات لجميع عملائنا المحليين والدوليين في التقاضي عبر المحاكم الدولية. فمن خلال الخبرة في القانون الدولي، سندعمك بمحامي دولي متمرس مستعد لتولي قضاياك الدولية والعمل على تحقيق غاياتك في التحكيم التجاري الدولي."
     }
   ],
 
-
-
-  "legalservicestitlehome": "خدمات قانونية عالمية المستوى منذ 2008  ",
-  "legalservicescontentehome": "ينفرد مكتب محامي مصر الأول بتقديم أكثر من 30 خدمة قانونية بخبرات عالمية وفهم واسع للبيئة القانونية. لتقديم أفضل مستوى من الحلول القانونية على الصعيد المحلي والدولي في مكتبنا بقلب مدينة القاهرة. فمن خلال دمج خبرات فريق العمل المكون من أكثر من 40 محامي متخصصين في مجالات القانون المختلفة، تكمن قوتنا في تقديم خدمات قانونية بمعايير أداء عالمية ومستوى فاعلية ممتاز في الجودة والوقت.  ",
+  "legalservicestitlehome": "خدمات قانونية عالمية المستوى منذ  عام 2008  ",
+  "legalservicescontentehome": "يلتزم مكتب محاماة محمد عاطف بتقديم خدمات قانونية استثنائية تلبي احتياجات عملائنا في مختلف الأسواق المحلية والدولية. نحن نقدم استشارات وحلولًا قانونية عالمية المستوى تجمع بين الاحترافية العالية والفهم العميق للأسواق المتغيرة  نحن نقدم لك: خبرة قانونية واسعة: تجربة متكاملة في مجالات متعددة مثل الشركات، والعقارات، والملكية الفكرية، والنزاعات التجارية، والتكنولوجيا، والمزيد. حلول قانونية مبتكرة: تقديم استراتيجيات قانونية تناسب بيئة الأعمال العالمية المتطورة، مدعومة بفهم عميق للتحديات القانونية الدولية. تمثيل عالمي: تقديم خدمات قانونية شاملة تشمل الشركات المحلية والدولية، مع ضمان احترام التشريعات واللوائح في أسواق متعددة. التزام بالجودة والنتائج: نحن نركز على تقديم الحلول الأكثر فعالية لتحقيق نتائج قانونية ممتازة تلبي تطلعات عملائنا.",
 
   "legalserviceshome": [{
       "src": "assets/images/home/icon_7.webp",
@@ -185,10 +305,8 @@
     }
   ],
 
-
   "chooseustitlehome": "لماذا تختارنا وبكل ثقة؟ ",
   "chooseuscontenthome": "يمتاز مكتبنا عن غيره من مكاتب المحاماة المعتمدة الأخرى في الأخلاقيات التي تسيّر آلية العمل داخل مكتبنا، بالإضافة إلى مبادئ المحامين والشركاء العاملين في المكتب والمؤمنين بأهمية تطوير الذات على المستوى العملي والقانوني سعيًا منهم لتحويل مكتبنا لشركة محاماة دولية في مصر. فقد شهد عملاؤنا بقوة مكتبنا وثقة التعامل معنا، والمبادئ التالية ما ستجدها عند التعامل معنا:",
-
 
   "chooseushome": [{
       "src": "assets/images/home/icon_3.webp",
@@ -209,7 +327,6 @@
   ],
 
   "infocardhome": [{
-
       "title": "<span>محامي مصر الأول</span> وشركائه من خبراء القانون",
       "content": "هل فكرت يوماً وقلت لنفسك ابحث عن محامي متخصص ولكن لا أعرف من أين أبدأ، لا حاجة لذلك بعد الآن. فمع <span>مؤسسه محمد عاطف صابر</span> للمحاماة ستجد غايتك مع نخبة من أكبر وأشهر محامين مصر يعملون بروح الفريق لدمج خبراتهم وتحقيق أهداف موكليهم على المستوى المحلي والدولي .بمستوى جديد من الحلول القانونية",
       "btnclick": "تواصل معنا",
@@ -240,15 +357,15 @@
       "src": "assets/images/home/icon-3.png",
       "title": "الخبرات",
       "subtitle": "عملائنا",
-      "contentdetails": "سعداء بكوننا جزءاً من قصة نجاح تلك العلامات التجارية العملاقة، ونسعى للعطاء القانوني على نطاق أكبر ليشتمل علامات تجارية عالمية ",
+      "contentdetails": "مكتب محاماة محمد عاطف يفتخر بسجل حافل من الخبرات والإنجازات في تقديم الاستشارات القانونية وحلول النزاعات للشركات بمختلف أحجامها وقطاعاتها. نحن متخصصون في تقديم خدمات قانونية متكاملة للشركات المحلية والدولية، حيث نقدم دعمًا قانونيًا شاملاً لحماية مصالح عملائنا في جميع جوانب أعمالهم.",
       "link": "/experience",
       "arrow": "assets/images/home/arrow.png"
     },
     {
       "src": "assets/images/home/icon-1.png",
       "title": "من نحن",
-      "subtitle": "placeholder text for use",
-      "contentdetails": "أسس المحامي محمد عاطف صابر مكتبه الأول للمحاماة والاستشارات القانونية عام 2008 كمكتب محامي حر في مدينة القاهره. ومع مرور الوقت، بدئت نجاحات المكتب تتزايد بين العملاء في القضايا المختلفة؛ والذي بدوره ساهم في بناء قاعدة جماهيرية من العملاء والموكلين من محافظتي الجيزه والقاهرة. ومع زيادة طلبات الخدمات القانونية كالتقاضي وفض المنازعات والتطوير العقاري، قام الإستاذ محمد عاطف صابر بتوسيع مكتبه بضم نخبة من الكوادر البشرية القانونية لتلبية خدمة عملائنا الكرام. ومع مرور بضع سنين، أصبح المكتب يحمل سجل حافل من النجاحات القانونية؛  وفي تلك اللحظة ومع زيادة عدد المحامين والمستشارين القانونيين بالمكتب، نشأت فكرة ورؤية مؤسسه محمد عاطف صابر.",
+      "subtitle": "",
+      "contentdetails": "مكتب المحاماة محمد عاطف هو مكتب قانوني رائد ومتخصص يقدم خدمات قانونية استثنائية للعملاء في مجالات متنوعة. منذ تأسيسه، يسعى المكتب إلى تقديم استشارات قانونية وحلول مبتكرة، مما يجعله شريكًا موثوقًا لعملائنا في مختلف القضايا القانونية. نحن فريق من المحامين ذوي الخبرات الواسعة والمتخصصة، حيث نلتزم بتقديم أعلى مستويات الخدمة القانونية بما يتماشى مع أحدث المعايير القانونية الدولية. نحن نؤمن بأهمية تقديم المشورة القانونية التي تراعي مصالح عملائنا وتدعم حقوقهم، سواء على الصعيدين المحلي والدولي.",
       "link": "/about-us",
       "arrow": "assets/images/home/arrow.png"
     }
@@ -273,13 +390,13 @@
       "jobTitle": "قسم القضايا"
     },
     {
-      "src": "assets/images/home/avatar4.png",
+      "src": "assets/images/home/avatar4.jpeg",
       "details": "دينا احمد",
       "person": "مدير اداره الموارد البشريه",
       "jobTitle": "الموارد البشريه"
     },
     {
-      "src": "assets/images/home/avatar4.png",
+      "src": "assets/images/home/avatar4.jpeg",
       "details": "حبيبه شريف",
       "person": "مدير قسم الشركات",
       "jobTitle": "قسم الشركات"
@@ -292,22 +409,69 @@
     }
   ],
 
-  "headerAboutusparagraph_1": "فريق المحامين المتخصصين في مكتب محمد عاطف صابر ",
-  "headerAboutusparagraph_2": "ما يميز الهيكلة الإدارية لمكتب محمد عاطف صابر للمحاماة والاستشارات القانونية أنه يضم نخبة من افضل المحامين المتخصصين في مجالات القانون المختلفة؛ والذي بدوره خلق تكاملاً من الخبرات والمعارف القانونية في التخصصات المختلفة. وبفضل هذا التكامل بين أفراد المجموعة والتعاون والمشاركة المهنية بينهم،وما يحفزنا هي تقييمات العملاء الإيجابية حول المهنية العالية لأفراد المكتب من افضل المحامين والمستشارين القانونيين. ",
-  "personInfo": [{
-      "_comment": "about-us.component",
-      "src": "assets/images/home/avatar4.png",
-      "person": "محمد عاطف صابر",
-      "jobTitle": "مالك ورئيس مجلس الاداره للمكتب "
+  "headerAboutusparagraph_1": "من نحن؟",
+  "headerAboutusparagraph_2": [{
+      "title": "مكتب المحاماة محمد عاطف هو مكتب قانوني رائد ومتخصص يقدم خدمات قانونية استثنائية للعملاء في مجالات متنوعة. منذ تأسيسه،",
+      "subtitle": [
+        " يسعى المكتب إلى تقديم استشارات قانونية وحلول مبتكرة، مما يجعله شريكًا موثوقًا لعملائنا في مختلف القضايا القانونية."
+      ]
+    },
+    {
+      "title": "نحن فريق من المحامين ذوي الخبرات الواسعة والمتخصصة، حيث نلتزم بتقديم أعلى مستويات الخدمة القانونية بما يتماشى مع أحدث المعايير القانونية الدولية. نحن نؤمن بأهمية تقديم المشورة القانونية التي تراعي مصالح عملائنا وتدعم حقوقهم، سواء على الصعيدين المحلي والدولي.",
+      "subtitle": []
+    },
+    {
+      "title": "رؤيتنا:",
+      "subtitle": [
+        "أن نكون المكتب القانوني الرائد الذي يعتمد عليه الأفراد والشركات في حل جميع القضايا القانونية بكفاءة واحترافية."
+      ]
+    },
+    {
+      "title": "مهمتنا:",
+      "subtitle": [
+        "تقديم استشارات قانونية مهنية وحلول قانونية مبتكرة لعملائنا، مع الحفاظ على أعلى درجات النزاهة والمصداقية."
+      ]
+    },
+    {
+      "title": "خدماتنا:",
+      "subtitle": [
+        "الاستشارات القانونية في مختلف المجالات.",
+        "تمثيل العملاء في القضايا المدنية، التجارية، والعقوبات.",
+        "صياغة ومراجعة العقود.",
+        "تسوية المنازعات التجارية."
+      ]
     }
   ],
+
+
+
+  "headerserviceparagraph_1": "منذ عام 2008، يلتزم مكتب محاماة محمد عاطف بتقديم خدمات قانونية استثنائية تلبي احتياجات عملائنا في مختلف الأسواق المحلية والدولية. نحن نقدم استشارات وحلولًا قانونية عالمية المستوى تجمع بين الاحترافية العالية والفهم العميق للأسواق المتغيرة.",
+  "headerserviceparagraph_2": [{
+      "title": "نحن نقدم لك:",
+      "subtitle": [
+        "خبرة قانونية واسعة: تجربة متكاملة في مجالات متعددة مثل الشركات، والعقارات، والملكية الفكرية، والنزاعات التجارية، والتكنولوجيا، والمزيد. حلول قانونية مبتكرة: تقديم استراتيجيات قانونية تناسب بيئة الأعمال العالمية المتطورة، مدعومة بفهم عميق للتحديات القانونية الدولية."
+      ,"تمثيل عالمي: تقديم خدمات قانونية شاملة تشمل الشركات المحلية والدولية، مع ضمان احترام التشريعات واللوائح في أسواق متعددة." , "التزام بالجودة والنتائج: نحن نركز على تقديم الحلول الأكثر فعالية لتحقيق نتائج قانونية ممتازة تلبي تطلعات عملائنا."]
+    }
+  ],
+"headerserviceparagraph_3":["مكتب محاماة محمد عاطف هو الخيار المثالي للحصول على خدمات قانونية استثنائية تلبي أعلى المعايير الدولية، مدعومًا بخبرة تمتد لأكثر من 15 عامًا في تقديم استشارات قانونية استراتيجية عبر مختلف القطاعات والأسواق."],
+
+
+
+
+  "personInfo": [{
+    "_comment": "about-us.component",
+    "src": "assets/images/home/avatar4.jpeg",
+    "person": "محمد عاطف صابر",
+    "jobTitle": "مالك ورئيس مجلس الاداره للمكتب "
+  }],
 
   "headerContactparagraph": "عنوان ومكان مؤسسه محمد عاطف صابر",
   "contact": [{
       "_comment": "contact.component",
       "title": "العنوان",
       "info": [
-        "44 المريوطيه  فيصل - برج الساعه- الدور الخامس - وحده 501 ", "الهرم - الجيزه"
+        "44 المريوطيه  فيصل - برج الساعه- الدور الخامس - وحده 501 ",
+        "الهرم - الجيزه"
       ],
       "copy": false
     },
@@ -317,8 +481,15 @@
       "copy": true
     }
   ],
-  "headerExperienceparagraph_1": "لماذا صُنِّفنا بأننا أفضل مكتب استشارات قانونية في مصر؟ ",
-  "headerExperienceparagraph_2": "يوجد لدينا مجموعة مختارة ومدربة على أعلى المستويات ومتخصصين في مجالات القانون المختفلة وذلك لتقديم استشارة قانونية فورية بمستوى جديد من الحلول القانونية لعملاءنا الكرام عن طريق مستشار قانوني متخصص في قضية الموكل. كما يعمل فريقنا القانوني طبقاً لمبادئ معينة، سعداء بكوننا جزءاً من قصة نجاح تلك العلامات التجارية العملاقة،<br> ونسعى للعطاء القانوني على نطاق أكبر ليشتمل علامات تجارية عالمية ",
+  "headerExperienceparagraph_1": "خبراتنا في مجال قضايا الشركات",
+  "headerExperienceparagraph_2": [{
+    "title": "مكتب محاماة محمد عاطف يفتخر بسجل حافل من الخبرات والإنجازات في تقديم الاستشارات القانونية وحلول النزاعات للشركات بمختلف أحجامها وقطاعاتها. نحن متخصصون في تقديم خدمات قانونية متكاملة للشركات المحلية والدولية، حيث نقدم دعمًا قانونيًا شاملاً لحماية مصالح عملائنا في جميع جوانب أعمالهم.",
+    "subtitle": []
+  }, {
+    "title": "مجالات الخبرة:",
+    "subtitle": ["الاستشارات القانونية للشركات: تقديم استشارات شاملة فيما يتعلق بتأسيس الشركات، هيكلتها، وعمليات الدمج والاستحواذ.", "صياغة ومراجعة العقود: إعداد ومراجعة العقود التجارية والتعاقدات المتخصصة لضمان حماية الحقوق وتفادي المخاطر القانونية.", "النزاعات التجارية: تمثيل الشركات في النزاعات التجارية، تسوية المنازعات، والتحكيم التجاري.", "الامتثال والتشريعات: تقديم المشورة بشأن الامتثال للقوانين المحلية والدولية، والتأكد من التزام الشركات بالتشريعات ذات الصلة.", "قضايا الملكية الفكرية: حماية حقوق الملكية الفكرية وبراءات الاختراع والعلامات التجارية للشركات."]
+  }],
+  "headerExperienceparagraph_3": "لقد عملنا مع مجموعة واسعة من الشركات الكبرى في مختلف الصناعات، وتمكنا من تزويدهم بالحلول القانونية الاستباقية التي تضمن استمرارية أعمالهم ونجاحهم في الأسواق التنافسية.",
   "boxtotalparagraph_1": "بعض احصائيات شركائنا وعملائنا",
   "boxtotalparagraph_2": "نفخر بسجل نجاحاتنا في كسب رضاء العملاء الكرام داخل وخارج مصر من ما يقارب من 20 عامًا من العطاء القانوني والمشورة المُوفقة .  ",
   "products": [{
@@ -332,19 +503,18 @@
       "logo": "شركه بيتي"
     },
 
-
     {
-      "src": "assets/images/swiper/logo3.png",
+      "src": "assets/images/swiper/logo5.png",
       "logo": "شركه طارق حنفي"
     },
 
     {
-      "src": "assets/images/swiper/logo3.png",
+      "src": "assets/images/swiper/logo5.png",
       "logo": "شركه اي دي ايه للتنميه الصناعيه"
     },
 
     {
-      "src": "assets/images/swiper/logo3.png",
+      "src": "assets/images/swiper/logo5.png",
       "logo": "شركه البيطاش للنظافه والتجميل"
     },
 
@@ -354,7 +524,7 @@
     },
 
     {
-      "src": "assets/images/swiper/logo3.png",
+      "src": "assets/images/swiper/logo5.png",
       "logo": "شركه سراج الدين سيد عبده"
     },
 
@@ -369,464 +539,516 @@
     },
 
     {
-      "src": "assets/images/swiper/logo3.png",
+      "src": "assets/images/swiper/logo5.png",
       "logo": "شركه عبد الخالق صديق عبد الباقي"
     },
 
     {
-      "src": "assets/images/swiper/logo3.png",
+      "src": "assets/images/swiper/logo5.png",
       "logo": "شركه عاصم علي محمد"
     },
 
     {
-      "src": "assets/images/swiper/logo3.png",
+      "src": "assets/images/swiper/logo5.png",
       "logo": "شركه رءؤف ادوارد ميخائيل"
     },
 
     {
-      "src": "assets/images/swiper/logo3.png",
+      "src": "assets/images/swiper/logo5.png",
       "logo": "شركه الندى"
     },
 
     {
-      "src": "assets/images/swiper/logo3.png",
+      "src": "assets/images/swiper/logo5.png",
       "logo": "شركه البيك للمواد الغذائيه"
     },
 
     {
-      "src": "assets/images/swiper/logo3.png",
+      "src": "assets/images/swiper/logo5.png",
       "logo": "شركه علاء الدين محمد السيد"
     },
 
     {
-      "src": "assets/images/swiper/logo3.png",
+      "src": "assets/images/swiper/logo5.png",
       "logo": "شركه لايفلي"
     },
 
     {
-      "src": "assets/images/swiper/logo3.png",
+      "src": "assets/images/swiper/logo5.png",
       "logo": "شركه فوزي حلمي داود"
     },
 
     {
-      "src": "assets/images/swiper/logo3.png",
+      "src": "assets/images/swiper/logo5.png",
       "logo": "شركه تشغيل المعادن"
     },
 
     {
-      "src": "assets/images/swiper/logo3.png",
+      "src": "assets/images/swiper/logo5.png",
       "logo": "شركه الاسلاميه لسباكه المعادن"
     },
 
     {
-      "src": "assets/images/swiper/logo3.png",
+      "src": "assets/images/swiper/logo5.png",
       "logo": "شركه رخصه تشغيل"
     },
 
     {
-      "src": "assets/images/swiper/logo3.png",
+      "src": "assets/images/swiper/logo5.png",
       "logo": "شركه شريف حامد حنفي"
     },
 
     {
-      "src": "assets/images/swiper/logo3.png",
+      "src": "assets/images/swiper/logo5.png",
       "logo": "شركه جرجس بخيت سمعان "
     },
 
     {
-      "src": "assets/images/swiper/logo3.png",
+      "src": "assets/images/swiper/logo5.png",
       "logo": "شركه كوكي بلاست"
     },
 
     {
-      "src": "assets/images/swiper/logo3.png",
+      "src": "assets/images/swiper/logo5.png",
       "logo": "شركه بلاست ميكر"
-    }, {
-      "src": "assets/images/swiper/logo3.png",
+    },
+    {
+      "src": "assets/images/swiper/logo5.png",
       "logo": "الشركه المصريه المتحده لصناعه الصابون"
-    }, {
-      "src": "assets/images/swiper/logo3.png",
+    },
+    {
+      "src": "assets/images/swiper/logo5.png",
       "logo": "شركه احمد عبدالسلام"
-    }, {
-      "src": "assets/images/swiper/logo3.png",
+    },
+    {
+      "src": "assets/images/swiper/logo5.png",
       "logo": "شركه الهندسيه للفبير جلاس"
-    }, {
-      "src": "assets/images/swiper/logo3.png",
+    },
+    {
+      "src": "assets/images/swiper/logo5.png",
       "logo": "شركه الجيزه للمركبات الكهربائيه"
-    }, {
-      "src": "assets/images/swiper/logo3.png",
+    },
+    {
+      "src": "assets/images/swiper/logo5.png",
       "logo": "شركه نيو كايرو"
-    }, {
-      "src": "assets/images/swiper/logo3.png",
+    },
+    {
+      "src": "assets/images/swiper/logo5.png",
       "logo": " مصنع زجمار للدراجات البخاريه"
-    }, {
-      "src": "assets/images/swiper/logo3.png",
+    },
+    {
+      "src": "assets/images/swiper/logo5.png",
       "logo": "مصنع البلاستيك"
-    }, {
-      "src": "assets/images/swiper/logo3.png",
+    },
+    {
+      "src": "assets/images/swiper/logo5.png",
       "logo": "شركه جاما"
-    }, {
-      "src": "assets/images/swiper/logo3.png",
+    },
+    {
+      "src": "assets/images/swiper/logo5.png",
       "logo": "مصنع جمال احمد عطا"
-    }, {
-      "src": "assets/images/swiper/logo3.png",
+    },
+    {
+      "src": "assets/images/swiper/logo5.png",
       "logo": "شركه علي عبد الله"
-    }, {
-      "src": "assets/images/swiper/logo3.png",
+    },
+    {
+      "src": "assets/images/swiper/logo5.png",
       "logo": "المجموعه الالمانيه هيرميس القابضه"
-    }, {
-      "src": "assets/images/swiper/logo3.png",
+    },
+    {
+      "src": "assets/images/swiper/logo5.png",
       "logo": "شركه العربيه للبيئه الاساسيه والمقاولات"
-    }, {
-      "src": "assets/images/swiper/logo3.png",
+    },
+    {
+      "src": "assets/images/swiper/logo5.png",
       "logo": "شركه النجار لصناعه الهواء المضغوط"
-    }, {
-      "src": "assets/images/swiper/logo3.png",
+    },
+    {
+      "src": "assets/images/swiper/logo5.png",
       "logo": "مصنع توشكى"
-    }, {
-      "src": "assets/images/swiper/logo3.png",
+    },
+    {
+      "src": "assets/images/swiper/logo5.png",
       "logo": "شركه السفير مهدي فتح الله"
-    }, {
-      "src": "assets/images/swiper/logo3.png",
+    },
+    {
+      "src": "assets/images/swiper/logo5.png",
       "logo": "شركه ريموندينا لانتاج الحلوى الجافه والشيكولاته"
-    }, {
-      "src": "assets/images/swiper/logo3.png",
+    },
+    {
+      "src": "assets/images/swiper/logo5.png",
       "logo": "شركه مجدي فؤاد جرجس"
-    }, {
-      "src": "assets/images/swiper/logo3.png",
+    },
+    {
+      "src": "assets/images/swiper/logo5.png",
       "logo": "شركه السيد احمد اسماعيل"
-    }, {
-      "src": "assets/images/swiper/logo3.png",
+    },
+    {
+      "src": "assets/images/swiper/logo5.png",
       "logo": "شركه العربيه للجوارب والملابس ديما"
-    }, {
-      "src": "assets/images/swiper/logo3.png",
+    },
+    {
+      "src": "assets/images/swiper/logo5.png",
       "logo": "مصنع البلاستيك"
-    }, {
-      "src": "assets/images/swiper/logo3.png",
+    },
+    {
+      "src": "assets/images/swiper/logo5.png",
       "logo": "شركه ام بي للصناعه"
-    }, {
-      "src": "assets/images/swiper/logo3.png",
+    },
+    {
+      "src": "assets/images/swiper/logo5.png",
       "logo": "شركه ماجد محمد بليغ"
-    }, {
-      "src": "assets/images/swiper/logo3.png",
+    },
+    {
+      "src": "assets/images/swiper/logo5.png",
       "logo": "مصنع لتصنيع المنتجات الجبسيه"
-    }, {
-      "src": "assets/images/swiper/logo3.png",
+    },
+    {
+      "src": "assets/images/swiper/logo5.png",
       "logo": "شركه منتجات حجريه وخشبيه خاصه بالحدائق"
-    }, {
-      "src": "assets/images/swiper/logo3.png",
+    },
+    {
+      "src": "assets/images/swiper/logo5.png",
       "logo": "مخزن ادوات منزليه وخردوات"
-    }, {
-      "src": "assets/images/swiper/logo3.png",
+    },
+    {
+      "src": "assets/images/swiper/logo5.png",
       "logo": "شركه زجمار"
-    }, {
-      "src": "assets/images/swiper/logo3.png",
+    },
+    {
+      "src": "assets/images/swiper/logo5.png",
       "logo": "مصنع للملابس الجاهزه والتريكو"
-    }, {
-      "src": "assets/images/swiper/logo3.png",
+    },
+    {
+      "src": "assets/images/swiper/logo5.png",
       "logo": "مخزن"
-    }, {
-      "src": "assets/images/swiper/logo3.png",
+    },
+    {
+      "src": "assets/images/swiper/logo5.png",
       "logo": "تشكيل معادن"
-    }, {
-      "src": "assets/images/swiper/logo3.png",
+    },
+    {
+      "src": "assets/images/swiper/logo5.png",
       "logo": "شركه محمود محمد المرسي"
-    }, {
-      "src": "assets/images/swiper/logo3.png",
+    },
+    {
+      "src": "assets/images/swiper/logo5.png",
       "logo": "شركه اكرم عبد الحميد مصطفى"
-    }, {
-      "src": "assets/images/swiper/logo3.png",
+    },
+    {
+      "src": "assets/images/swiper/logo5.png",
       "logo": "الشركه العربيه البلجيكيه للمعدات الكهربائيه "
-    }, {
-      "src": "assets/images/swiper/logo3.png",
+    },
+    {
+      "src": "assets/images/swiper/logo5.png",
       "logo": "شركه شريف ناهد حلمي"
-    }, {
-      "src": "assets/images/swiper/logo3.png",
+    },
+    {
+      "src": "assets/images/swiper/logo5.png",
       "logo": "شركه فاروق مدبولي حنفي"
-    }, {
-      "src": "assets/images/swiper/logo3.png",
+    },
+    {
+      "src": "assets/images/swiper/logo5.png",
       "logo": "شركه رافت فنجري"
-    }, {
-      "src": "assets/images/swiper/logo3.png",
+    },
+    {
+      "src": "assets/images/swiper/logo5.png",
       "logo": "شركه ناهد ابو الذهب"
-    }, {
-      "src": "assets/images/swiper/logo3.png",
+    },
+    {
+      "src": "assets/images/swiper/logo5.png",
       "logo": "شركه ايمن عبد الفتاح"
-    }, {
-      "src": "assets/images/swiper/logo3.png",
+    },
+    {
+      "src": "assets/images/swiper/logo5.png",
       "logo": "شركه محمد كمال علي"
-    }, {
-      "src": "assets/images/swiper/logo3.png",
+    },
+    {
+      "src": "assets/images/swiper/logo5.png",
       "logo": "شركه مسعد الجوهري وشريكه"
-    }, {
-      "src": "assets/images/swiper/logo3.png",
+    },
+    {
+      "src": "assets/images/swiper/logo5.png",
       "logo": "المصريه الالمانيه للتجاره - جاليكا"
-    }, {
-      "src": "assets/images/swiper/logo3.png",
+    },
+    {
+      "src": "assets/images/swiper/logo5.png",
       "logo": "شركه اعمار للاستثمار العقاري"
-    }, {
-      "src": "assets/images/swiper/logo3.png",
+    },
+    {
+      "src": "assets/images/swiper/logo5.png",
       "logo": "مصنع خراطيم"
-    }, {
-      "src": "assets/images/swiper/logo3.png",
+    },
+    {
+      "src": "assets/images/swiper/logo5.png",
       "logo": "مخزن قطع غيار سيارات"
-    }, {
-      "src": "assets/images/swiper/logo3.png",
+    },
+    {
+      "src": "assets/images/swiper/logo5.png",
       "logo": "شركه عمرو الشبراوي محمد"
-    }, {
-      "src": "assets/images/swiper/logo3.png",
+    },
+    {
+      "src": "assets/images/swiper/logo5.png",
       "logo": "شركه محمد حسن وشركاه"
-    }, {
-      "src": "assets/images/swiper/logo3.png",
+    },
+    {
+      "src": "assets/images/swiper/logo5.png",
       "logo": "شركه انتر لصناعات الكمر ومكانيكه"
-    }, {
-      "src": "assets/images/swiper/logo3.png",
+    },
+    {
+      "src": "assets/images/swiper/logo5.png",
       "logo": "مصنع تعبئه وتغليف وورشه المونيوم"
-    }, {
-      "src": "assets/images/swiper/logo3.png",
+    },
+    {
+      "src": "assets/images/swiper/logo5.png",
       "logo": "شركه ام او تي للاستثمار والمشروعات"
-    }, {
-      "src": "assets/images/swiper/logo3.png",
+    },
+    {
+      "src": "assets/images/swiper/logo5.png",
       "logo": "شركه محمد فتحي احمد وشركاه"
-    }, {
-      "src": "assets/images/swiper/logo3.png",
+    },
+    {
+      "src": "assets/images/swiper/logo5.png",
       "logo": "شركه محمود شاكر عبد العزيز"
-    }, {
-      "src": "assets/images/swiper/logo3.png",
+    },
+    {
+      "src": "assets/images/swiper/logo5.png",
       "logo": "شركه سامي محمد سالم"
-    }, {
-      "src": "assets/images/swiper/logo3.png",
+    },
+    {
+      "src": "assets/images/swiper/logo5.png",
       "logo": "مصنع سعيد عبد الباقي لتصنيع معدات المياه"
-    }, {
-      "src": "assets/images/swiper/logo3.png",
+    },
+    {
+      "src": "assets/images/swiper/logo5.png",
       "logo": "شركه عادل يوسف قارس"
-    }, {
-      "src": "assets/images/swiper/logo3.png",
+    },
+    {
+      "src": "assets/images/swiper/logo5.png",
       "logo": "شركه بلاست ميكر للطباعه"
     },
 
     {
-      "src": "assets/images/swiper/logo3.png",
+      "src": "assets/images/swiper/logo5.png",
       "logo": "شركه محمد عبد الفتاح"
     },
     {
-      "src": "assets/images/swiper/logo3.png",
+      "src": "assets/images/swiper/logo5.png",
       "logo": "شركه احمد السيد جمعه"
     },
     {
-      "src": "assets/images/swiper/logo3.png",
+      "src": "assets/images/swiper/logo5.png",
       "logo": "شركه سما للكيماويات والمخصبات الزراعيه"
     },
     {
-      "src": "assets/images/swiper/logo3.png",
+      "src": "assets/images/swiper/logo5.png",
       "logo": "شركه الشرق الاوسط - ميكو"
     },
     {
-      "src": "assets/images/swiper/logo3.png",
+      "src": "assets/images/swiper/logo5.png",
       "logo": "شركه العبيد لصناعه الملابس"
     },
     {
-      "src": "assets/images/swiper/logo3.png",
+      "src": "assets/images/swiper/logo5.png",
       "logo": "شركه شريف احمد علي حسن"
     },
 
     {
-      "src": "assets/images/swiper/logo3.png",
+      "src": "assets/images/swiper/logo5.png",
       "logo": "شركه طارق محمد صابر"
     },
     {
-      "src": "assets/images/swiper/logo3.png",
+      "src": "assets/images/swiper/logo5.png",
       "logo": "شركه محمد احمد مهنا"
     },
     {
-      "src": "assets/images/swiper/logo3.png",
+      "src": "assets/images/swiper/logo5.png",
       "logo": "الشركه المصريه الالمانيه لخدمه وصيانه السيارات"
     },
     {
-      "src": "assets/images/swiper/logo3.png",
+      "src": "assets/images/swiper/logo5.png",
       "logo": "شركه ابو المعاطي عنتر "
     },
     {
-      "src": "assets/images/swiper/logo3.png",
+      "src": "assets/images/swiper/logo5.png",
       "logo": "شركه اسباير للزراعه"
     },
     {
-      "src": "assets/images/swiper/logo3.png",
+      "src": "assets/images/swiper/logo5.png",
       "logo": "شركه ابو رواش للثلج"
     },
     {
-      "src": "assets/images/swiper/logo3.png",
+      "src": "assets/images/swiper/logo5.png",
       "logo": "شركه ملاكيت للاثاث والديكور"
     },
     {
-      "src": "assets/images/swiper/logo3.png",
+      "src": "assets/images/swiper/logo5.png",
       "logo": "مصنع تعبئه مواد غذائيه ومخبوزات"
     },
     {
-      "src": "assets/images/swiper/logo3.png",
+      "src": "assets/images/swiper/logo5.png",
       "logo": "ترخيص عماره سكنيه "
     },
     {
-      "src": "assets/images/swiper/logo3.png",
+      "src": "assets/images/swiper/logo5.png",
       "logo": "مصنع همتو للاستيراد والتصدير"
     },
     {
-      "src": "assets/images/swiper/logo3.png",
+      "src": "assets/images/swiper/logo5.png",
       "logo": "ترخيص فيلا سكنيه"
     },
     {
-      "src": "assets/images/swiper/logo3.png",
+      "src": "assets/images/swiper/logo5.png",
       "logo": "مخازن فتحي عدلي احمد"
     },
     {
-      "src": "assets/images/swiper/logo3.png",
+      "src": "assets/images/swiper/logo5.png",
       "logo": "شركه محمد عبد العزيز محمود وشركاه"
     },
     {
-      "src": "assets/images/swiper/logo3.png",
+      "src": "assets/images/swiper/logo5.png",
       "logo": "شركه بركه لانتاج الباب والشباك"
     },
     {
-      "src": "assets/images/swiper/logo3.png",
+      "src": "assets/images/swiper/logo5.png",
       "logo": "شركه ايه ام انترناشونال"
     },
     {
-      "src": "assets/images/swiper/logo3.png",
+      "src": "assets/images/swiper/logo5.png",
       "logo": "مؤسسه دعاء عبد الرحمن لليتيمات"
     },
     {
-      "src": "assets/images/swiper/logo3.png",
+      "src": "assets/images/swiper/logo5.png",
       "logo": "شركه رضا ادور"
     },
     {
-      "src": "assets/images/swiper/logo3.png",
+      "src": "assets/images/swiper/logo5.png",
       "logo": "مشروع مطبعه"
     },
     {
-      "src": "assets/images/swiper/logo3.png",
+      "src": "assets/images/swiper/logo5.png",
       "logo": "شركه وحيد يحيي عبد الواحد"
     },
     {
-      "src": "assets/images/swiper/logo3.png",
+      "src": "assets/images/swiper/logo5.png",
       "logo": "شركه عرفات عرفات مندور"
     },
     {
-      "src": "assets/images/swiper/logo3.png",
+      "src": "assets/images/swiper/logo5.png",
       "logo": "شركه جاتكو المنهلوي"
     },
     {
-      "src": "assets/images/swiper/logo3.png",
+      "src": "assets/images/swiper/logo5.png",
       "logo": "شركه هاني زكريا لتشغيل المعادن"
     },
     {
-      "src": "assets/images/swiper/logo3.png",
+      "src": "assets/images/swiper/logo5.png",
       "logo": "شركه عبد العال محمد "
     },
     {
-      "src": "assets/images/swiper/logo3.png",
+      "src": "assets/images/swiper/logo5.png",
       "logo": "شركه 6 اكتوبر للبويات والكيماويات"
     },
     {
-      "src": "assets/images/swiper/logo3.png",
+      "src": "assets/images/swiper/logo5.png",
       "logo": "شركه سوبر باور"
     },
     {
-      "src": "assets/images/swiper/logo3.png",
+      "src": "assets/images/swiper/logo5.png",
       "logo": "الشركه المصريه لصناعه الملابس"
     },
     {
-      "src": "assets/images/swiper/logo3.png",
+      "src": "assets/images/swiper/logo5.png",
       "logo": "شركه الحرمين للبلاستيك"
     },
     {
-      "src": "assets/images/swiper/logo3.png",
+      "src": "assets/images/swiper/logo5.png",
       "logo": "شركه محمد اسماعيل كامل"
     },
     {
-      "src": "assets/images/swiper/logo3.png",
+      "src": "assets/images/swiper/logo5.png",
       "logo": "مصنع تغليف منتجات ورقيه"
     },
     {
-      "src": "assets/images/swiper/logo3.png",
+      "src": "assets/images/swiper/logo5.png",
       "logo": "شركه ميناكو للاعمال الهندسه"
     },
     {
-      "src": "assets/images/swiper/logo3.png",
+      "src": "assets/images/swiper/logo5.png",
       "logo": "شركه كيهان كعان الايبكي"
     },
     {
-      "src": "assets/images/swiper/logo3.png",
+      "src": "assets/images/swiper/logo5.png",
       "logo": "شركه جيرال للمشروعات الهندسيه"
     },
     {
-      "src": "assets/images/swiper/logo3.png",
+      "src": "assets/images/swiper/logo5.png",
       "logo": "مدرسه سيده المعونه"
     },
     {
-      "src": "assets/images/swiper/logo3.png",
+      "src": "assets/images/swiper/logo5.png",
       "logo": "شركه ماجد حارس ابراهيم"
     },
     {
-      "src": "assets/images/swiper/logo3.png",
+      "src": "assets/images/swiper/logo5.png",
       "logo": "شركه ابو رواش للاستثمار العقاري"
     },
     {
-      "src": "assets/images/swiper/logo3.png",
+      "src": "assets/images/swiper/logo5.png",
       "logo": "شركه دار زين للهندسه والمقاولات"
     },
     {
-      "src": "assets/images/swiper/logo3.png",
+      "src": "assets/images/swiper/logo5.png",
       "logo": "شركه تكنو كريت"
     },
     {
-      "src": "assets/images/swiper/logo3.png",
+      "src": "assets/images/swiper/logo5.png",
       "logo": "مصنع تعبئه روائح عطريه"
     },
     {
-      "src": "assets/images/swiper/logo3.png",
+      "src": "assets/images/swiper/logo5.png",
       "logo": "شركه الاردنيه للصناعات البلاستيكيه"
     },
     {
-      "src": "assets/images/swiper/logo3.png",
+      "src": "assets/images/swiper/logo5.png",
       "logo": "شركه مجدي محمود احمد المحلاوي"
     },
     {
-      "src": "assets/images/swiper/logo3.png",
+      "src": "assets/images/swiper/logo5.png",
       "logo": "شركه عمرو الشبراوي محمد"
     },
     {
-      "src": "assets/images/swiper/logo3.png",
+      "src": "assets/images/swiper/logo5.png",
       "logo": "شركه امام امين محمد"
     },
     {
-      "src": "assets/images/swiper/logo3.png",
+      "src": "assets/images/swiper/logo5.png",
       "logo": "شركه الخير للاعلاف "
     },
     {
-      "src": "assets/images/swiper/logo3.png",
+      "src": "assets/images/swiper/logo5.png",
       "logo": "شركه كوكي بلاست"
     },
     {
-      "src": "assets/images/swiper/logo3.png",
+      "src": "assets/images/swiper/logo5.png",
       "logo": "شركه خالد عز الدين"
     },
     {
-      "src": "assets/images/swiper/logo3.png",
+      "src": "assets/images/swiper/logo5.png",
       "logo": "شركه لطفي عرفه سليمان"
     },
     {
-      "src": "assets/images/swiper/logo3.png",
+      "src": "assets/images/swiper/logo5.png",
       "logo": "شركه احمد ياسر سيد"
     },
     {
-      "src": "assets/images/swiper/logo3.png",
+      "src": "assets/images/swiper/logo5.png",
       "logo": "مزرعه الوفاء لتنميه الثروه السمكيه والداجنه"
     },
 
-
-
     {
-      "src": "assets/images/swiper/logo3.png",
+      "src": "assets/images/swiper/logo5.png",
       "logo": "شركه سيد رجب الله وشركاه"
     },
     {
@@ -834,345 +1056,341 @@
       "logo": "موبينيل"
     },
     {
-      "src": "assets/images/swiper/logo3.png",
+      "src": "assets/images/swiper/logo5.png",
       "logo": "شركه امين احمد محمد الجفري"
     },
     {
-      "src": "assets/images/swiper/logo3.png",
+      "src": "assets/images/swiper/logo5.png",
       "logo": "شركه السيد عبد الستار لصيانه السيارات"
     },
     {
-      "src": "assets/images/swiper/logo3.png",
+      "src": "assets/images/swiper/logo5.png",
       "logo": "شركه سما للكيماويات والمخصبات الزراعيه"
     },
     {
-      "src": "assets/images/swiper/logo3.png",
+      "src": "assets/images/swiper/logo5.png",
       "logo": "شركه سيد حسين سعيد"
     },
     {
-      "src": "assets/images/swiper/logo3.png",
+      "src": "assets/images/swiper/logo5.png",
       "logo": "شركه تبارك للتجاره والتوريدات"
     },
     {
-      "src": "assets/images/swiper/logo3.png",
+      "src": "assets/images/swiper/logo5.png",
       "logo": "شركه هشام محمد فتحي الشبراوي"
     },
     {
-      "src": "assets/images/swiper/logo3.png",
+      "src": "assets/images/swiper/logo5.png",
       "logo": "مخزن"
     },
     {
-      "src": "assets/images/swiper/logo3.png",
+      "src": "assets/images/swiper/logo5.png",
       "logo": "المجموعه الاقتصاديه للانماء والاستثمار"
     },
     {
-      "src": "assets/images/swiper/logo3.png",
+      "src": "assets/images/swiper/logo5.png",
       "logo": "شركه هشام سمير احمد يوسف"
     },
     {
-      "src": "assets/images/swiper/logo3.png",
+      "src": "assets/images/swiper/logo5.png",
       "logo": "شركه جير بوكس"
     },
     {
-      "src": "assets/images/swiper/logo3.png",
+      "src": "assets/images/swiper/logo5.png",
       "logo": "شركه رويال وود"
     },
     {
-      "src": "assets/images/swiper/logo3.png",
+      "src": "assets/images/swiper/logo5.png",
       "logo": "شركه السواح"
     },
     {
-      "src": "assets/images/swiper/logo3.png",
+      "src": "assets/images/swiper/logo5.png",
       "logo": "شركه المتحده للاكياس"
     },
     {
-      "src": "assets/images/swiper/logo3.png",
+      "src": "assets/images/swiper/logo5.png",
       "logo": "شركه معتز احمد جوده"
     },
     {
-      "src": "assets/images/swiper/logo3.png",
+      "src": "assets/images/swiper/logo5.png",
       "logo": "شركه بهجت احمد حسني"
     },
     {
-      "src": "assets/images/swiper/logo3.png",
+      "src": "assets/images/swiper/logo5.png",
       "logo": "شركه الجيزه للمركبات الكهربائيه"
     },
     {
-      "src": "assets/images/swiper/logo3.png",
+      "src": "assets/images/swiper/logo5.png",
       "logo": "شركه ايجيبت"
     },
     {
-      "src": "assets/images/swiper/logo3.png",
+      "src": "assets/images/swiper/logo5.png",
       "logo": "مصنع الفريد صبري منصور"
     },
     {
-      "src": "assets/images/swiper/logo3.png",
+      "src": "assets/images/swiper/logo5.png",
       "logo": "الشركه الاردنيه المصريه للطباعه والتغليف -جوباك"
     },
     {
-      "src": "assets/images/swiper/logo3.png",
+      "src": "assets/images/swiper/logo5.png",
       "logo": "مصنع عبد العزيز منصور عبد الباقي"
     },
     {
-      "src": "assets/images/swiper/logo3.png",
+      "src": "assets/images/swiper/logo5.png",
       "logo": "شركه الكان ميديكال للانظمه الطبيه"
     },
     {
-      "src": "assets/images/swiper/logo3.png",
+      "src": "assets/images/swiper/logo5.png",
       "logo": "شركه تيجر للصناعات البحريه"
     },
     {
-      "src": "assets/images/swiper/logo3.png",
+      "src": "assets/images/swiper/logo5.png",
       "logo": "شركه التوحيد للاستيراد"
     },
     {
-      "src": "assets/images/swiper/logo3.png",
+      "src": "assets/images/swiper/logo5.png",
       "logo": "الشركه المصريه لصناعه العبوات الزجاجيه "
     },
     {
-      "src": "assets/images/swiper/logo3.png",
+      "src": "assets/images/swiper/logo5.png",
       "logo": "شركه المنتدى للاستثمار والتنميه"
     },
     {
-      "src": "assets/images/swiper/logo3.png",
+      "src": "assets/images/swiper/logo5.png",
       "logo": "شركه جاما "
     },
     {
-      "src": "assets/images/swiper/logo3.png",
+      "src": "assets/images/swiper/logo5.png",
       "logo": "الشركه العربيه للتنميه العقاريه"
     },
     {
-      "src": "assets/images/swiper/logo3.png",
+      "src": "assets/images/swiper/logo5.png",
       "logo": "مصنع عصام حنفي لتشغيل المعادن"
     },
     {
-      "src": "assets/images/swiper/logo3.png",
+      "src": "assets/images/swiper/logo5.png",
       "logo": "محل ماكولات ومشروبات ساخنه وبارده"
     },
     {
-      "src": "assets/images/swiper/logo3.png",
+      "src": "assets/images/swiper/logo5.png",
       "logo": "شركه الجوهري لصناعه العبوات المعدنيه"
     },
     {
-      "src": "assets/images/swiper/logo3.png",
+      "src": "assets/images/swiper/logo5.png",
       "logo": "مصنع حسام الدين عبد الوهاب"
     },
     {
-      "src": "assets/images/swiper/logo3.png",
+      "src": "assets/images/swiper/logo5.png",
       "logo": "شركه مكه"
     },
     {
-      "src": "assets/images/swiper/logo3.png",
+      "src": "assets/images/swiper/logo5.png",
       "logo": "مصنع منتجات زخرفيه"
     },
     {
-      "src": "assets/images/swiper/logo3.png",
+      "src": "assets/images/swiper/logo5.png",
       "logo": "رخصه عماره سكنيه"
     },
     {
-      "src": "assets/images/swiper/logo3.png",
+      "src": "assets/images/swiper/logo5.png",
       "logo": "شركه ادهم جلال عبد المعبود"
     },
     {
-      "src": "assets/images/swiper/logo3.png",
+      "src": "assets/images/swiper/logo5.png",
       "logo": "شركه هشام محمود محمد مهران"
     },
     {
-      "src": "assets/images/swiper/logo3.png",
+      "src": "assets/images/swiper/logo5.png",
       "logo": "شركه امون"
     },
     {
-      "src": "assets/images/swiper/logo3.png",
+      "src": "assets/images/swiper/logo5.png",
       "logo": "شركه عز الدين للحلويات"
     },
     {
-      "src": "assets/images/swiper/logo3.png",
+      "src": "assets/images/swiper/logo5.png",
       "logo": "شركه دايموند"
     },
     {
-      "src": "assets/images/swiper/logo3.png",
+      "src": "assets/images/swiper/logo5.png",
       "logo": "شركه انتوس"
     },
     {
-      "src": "assets/images/swiper/logo3.png",
+      "src": "assets/images/swiper/logo5.png",
       "logo": "شركه ميخائيل نجيب رزق الله"
     },
     {
-      "src": "assets/images/swiper/logo3.png",
+      "src": "assets/images/swiper/logo5.png",
       "logo": "شركه عباس على "
     },
     {
-      "src": "assets/images/swiper/logo3.png",
+      "src": "assets/images/swiper/logo5.png",
       "logo": "مخزن اشرف السيد حامد"
     },
     {
-      "src": "assets/images/swiper/logo3.png",
+      "src": "assets/images/swiper/logo5.png",
       "logo": "شركه نجار بلاستيكو"
     },
     {
-      "src": "assets/images/swiper/logo3.png",
+      "src": "assets/images/swiper/logo5.png",
       "logo": "مركز رويال كيدز "
     },
     {
-      "src": "assets/images/swiper/logo3.png",
+      "src": "assets/images/swiper/logo5.png",
       "logo": "شركه مصر الحره"
     },
     {
-      "src": "assets/images/swiper/logo3.png",
+      "src": "assets/images/swiper/logo5.png",
       "logo": "شركه بايونير"
     },
     {
-      "src": "assets/images/swiper/logo3.png",
+      "src": "assets/images/swiper/logo5.png",
       "logo": "جمعيه الثوره الخضراء الزراعيه"
     },
     {
-      "src": "assets/images/swiper/logo3.png",
+      "src": "assets/images/swiper/logo5.png",
       "logo": "رخصه تشغيل "
     },
     {
-      "src": "assets/images/swiper/logo3.png",
+      "src": "assets/images/swiper/logo5.png",
       "logo": "شركه سيف للمقاولات"
     },
     {
-      "src": "assets/images/swiper/logo3.png",
+      "src": "assets/images/swiper/logo5.png",
       "logo": "ايجي اير"
     },
     {
-      "src": "assets/images/swiper/logo3.png",
+      "src": "assets/images/swiper/logo5.png",
       "logo": "شركه ايهاب كرم ميلاد مجلع وشركاه"
     },
     {
-      "src": "assets/images/swiper/logo3.png",
+      "src": "assets/images/swiper/logo5.png",
       "logo": "شركه حسين سيد ابراهيم الدجوي"
     },
     {
-      "src": "assets/images/swiper/logo3.png",
+      "src": "assets/images/swiper/logo5.png",
       "logo": "شركه الايمان للبلاستيك"
     },
     {
-      "src": "assets/images/swiper/logo3.png",
+      "src": "assets/images/swiper/logo5.png",
       "logo": "اي بي سي للمنتجات البلاستيكه"
     },
     {
-      "src": "assets/images/swiper/logo3.png",
+      "src": "assets/images/swiper/logo5.png",
       "logo": "شركه الوفاء لتشغيل المعادن"
     },
     {
-      "src": "assets/images/swiper/logo3.png",
+      "src": "assets/images/swiper/logo5.png",
       "logo": "شركه فتحي عدلي احمد عبد النبي"
     },
     {
-      "src": "assets/images/swiper/logo3.png",
+      "src": "assets/images/swiper/logo5.png",
       "logo": "المؤسسه المصريه الدوليه"
     },
     {
-      "src": "assets/images/swiper/logo3.png",
+      "src": "assets/images/swiper/logo5.png",
       "logo": "شركه ثري ايه"
     },
     {
-      "src": "assets/images/swiper/logo3.png",
+      "src": "assets/images/swiper/logo5.png",
       "logo": "تقنين"
     },
     {
-      "src": "assets/images/swiper/logo3.png",
+      "src": "assets/images/swiper/logo5.png",
       "logo": "شركه عالم الكربون"
     },
     {
-      "src": "assets/images/swiper/logo3.png",
+      "src": "assets/images/swiper/logo5.png",
       "logo": "شركه اي اي سي انيرجيز"
     },
     {
-      "src": "assets/images/swiper/logo3.png",
+      "src": "assets/images/swiper/logo5.png",
       "logo": "شركه عمرو محمد محمود وشريكته"
     },
     {
-      "src": "assets/images/swiper/logo3.png",
+      "src": "assets/images/swiper/logo5.png",
       "logo": "شركه ميك للتصدير"
     },
     {
-      "src": "assets/images/swiper/logo3.png",
+      "src": "assets/images/swiper/logo5.png",
       "logo": "شركه ميني للصناعات الغذائيه"
     },
     {
-      "src": "assets/images/swiper/logo3.png",
+      "src": "assets/images/swiper/logo5.png",
       "logo": "شركه القدر"
     },
     {
-      "src": "assets/images/swiper/logo3.png",
+      "src": "assets/images/swiper/logo5.png",
       "logo": "شركه اي دي ايه للتنميه الصناعيه"
     },
     {
-      "src": "assets/images/swiper/logo3.png",
+      "src": "assets/images/swiper/logo5.png",
       "logo": "شركه الشرق جلوبال لايت"
     },
     {
-      "src": "assets/images/swiper/logo3.png",
+      "src": "assets/images/swiper/logo5.png",
       "logo": "الشركه المصريه الدوليه للبطاريات الصناعيه"
     },
     {
-      "src": "assets/images/swiper/logo3.png",
+      "src": "assets/images/swiper/logo5.png",
       "logo": "شركه فوراك تراك ايجيبت"
     },
     {
-      "src": "assets/images/swiper/logo3.png",
+      "src": "assets/images/swiper/logo5.png",
       "logo": "شركه عصام وحسام علي"
     },
     {
-      "src": "assets/images/swiper/logo3.png",
+      "src": "assets/images/swiper/logo5.png",
       "logo": "الشركه المصريه الدوليه لصاحبها احمد عرفه"
     },
     {
-      "src": "assets/images/swiper/logo3.png",
+      "src": "assets/images/swiper/logo5.png",
       "logo": "شركه ميني فور تريدينج"
     },
     {
-      "src": "assets/images/swiper/logo3.png",
+      "src": "assets/images/swiper/logo5.png",
       "logo": "شركه امداد للاثاث المكتبي"
     },
     {
-      "src": "assets/images/swiper/logo3.png",
+      "src": "assets/images/swiper/logo5.png",
       "logo": "شركه بورد جيمز كافيه"
     },
     {
-      "src": "assets/images/swiper/logo3.png",
+      "src": "assets/images/swiper/logo5.png",
       "logo": "شركه فيبر جلير جلوبال"
     },
     {
-      "src": "assets/images/swiper/logo3.png",
+      "src": "assets/images/swiper/logo5.png",
       "logo": "شركه دريم كوزمتكس"
     },
     {
-      "src": "assets/images/swiper/logo3.png",
+      "src": "assets/images/swiper/logo5.png",
       "logo": "شركه المصريه اللبيبه للطباعه والتغليف برنتوباك"
     },
     {
-      "src": "assets/images/swiper/logo3.png",
+      "src": "assets/images/swiper/logo5.png",
       "logo": "شركه جولف هايبر ايجيبت لخدمات المركبات الكهربائيه"
     },
     {
-      "src": "assets/images/swiper/logo3.png",
+      "src": "assets/images/swiper/logo5.png",
       "logo": "شركه جو اليكرتك لحلول الطاقه النظيفه"
     },
     {
-      "src": "assets/images/swiper/logo3.png",
+      "src": "assets/images/swiper/logo5.png",
       "logo": "شركه عربي عبد الصادق جوده"
     },
     {
-      "src": "assets/images/swiper/logo3.png",
+      "src": "assets/images/swiper/logo5.png",
       "logo": "شركه سمر عبد العزيز"
     },
     {
-      "src": "assets/images/swiper/logo3.png",
+      "src": "assets/images/swiper/logo5.png",
       "logo": "شركه اوشن جوودز للتصنيع والتجاره والتصدير"
     },
     {
-      "src": "assets/images/swiper/logo3.png",
+      "src": "assets/images/swiper/logo5.png",
       "logo": "شركه ايي اي سي للتجاره والتوزيع"
     }
-
-
-
-
   ],
 
   "headerservicedataparagraph": "  هل تبحث عن مكتب استشاري في مصر؟ من المؤكد أنك بحثت عن مستشار قانوني متخصص يجيب على كل تساؤلاتك القانونية ويرسم لك رؤية وطريق آمن للنصرة في قضاياك؟ مع مؤسسه محمد عاطف صابر   لا مزيد من البحث فقد وجدت وجهتك. فنحن المكتب الأول في مصر المتخصص في تقديم خدمات قانونية.",
@@ -1483,7 +1701,9 @@
               ]
             },
             {
-              "title": ["ثانياً: خدمات الإدارة العامة لتنمية المنتجات المحلية:"],
+              "title": [
+                "ثانياً: خدمات الإدارة العامة لتنمية المنتجات المحلية:"
+              ],
               "info": [{
                   "paragraph": "  تحديد ما ينتج محلياً من الاحتياجات الخاصة بالمصالح والهيئات الحكومية وشركات القطاع العام وقطاع الأعمال العام ",
                   "supparagraph": []
@@ -2512,11 +2732,9 @@
           "info": [{
             "title": [""],
             "info": [{
-                "paragraph": "تسجيل و توثيق سجل عيني زراعي ",
-                "supparagraph": []
-              }
-
-            ]
+              "paragraph": "تسجيل و توثيق سجل عيني زراعي ",
+              "supparagraph": []
+            }]
           }]
         },
         {
@@ -2524,11 +2742,9 @@
           "info": [{
             "title": [""],
             "info": [{
-                "paragraph": "تسجيل و توثيق سجل عيني حضري ",
-                "supparagraph": []
-              }
-
-            ]
+              "paragraph": "تسجيل و توثيق سجل عيني حضري ",
+              "supparagraph": []
+            }]
           }]
         },
         {
@@ -2791,9 +3007,7 @@
           "servicetitle": " التسجيل و التراخيص",
           "info": [{
             "title": [""],
-            "info": [
-
-              {
+            "info": [{
                 "paragraph": "تسجيل و ترخيص شركات سوق المال",
                 "supparagraph": []
               },
@@ -2896,7 +3110,6 @@
             }]
           }]
         }
-
       ]
     },
 
@@ -2907,9 +3120,7 @@
         "servicetitle": " تسجيل الشركات و المنشات في الغرف التاليه ",
         "info": [{
           "title": [""],
-          "info": [
-
-            {
+          "info": [{
               "paragraph": "تسجيل المصانع والمنشاه في غرفه الصناعات الغذائيه ",
               "supparagraph": []
             },
@@ -3176,7 +3387,6 @@
                 "paragraph": "الحصول على الترخيص باستخدام علامه الجودة",
                 "supparagraph": []
               }
-
             ]
           }]
         }
@@ -3435,100 +3645,96 @@
       "headtitle": "الهيئه العامه للسلامه البحريه",
       "src": "assets/images/service/slama.png",
       "service": [{
-          "servicetitle": "",
+        "servicetitle": "",
+        "info": [{
+          "title": [""],
           "info": [{
-            "title": [""],
-            "info": [{
-                "paragraph": " الحصول وانهاء اجراءات الجواز البحري",
-                "supparagraph": []
-              },
-              {
-                "paragraph": " الحصول وانهاء اجراءات الشهادات الاهليه",
-                "supparagraph": []
-              },
-              {
-                "paragraph": "الحصول وانهاء اجراءات التراخيص ",
-                "supparagraph": []
-              },
-              {
-                "paragraph": " الحصول و انهاء من تمكين السفر للسفن الاجنبيه والمصريه",
-                "supparagraph": []
-              },
-              {
-                "paragraph": "الحصولوانهاء اجراءات عقود العمل البحريه ",
-                "supparagraph": []
-              },
-              {
-                "paragraph": "استخراج شهاده تعديل ملكيه - استبدال اله لسفينه او وحده بحريه ",
-                "supparagraph": []
-              },
-              {
-                "paragraph": "استخراج شهاده تغير اسم سفينه - وحده بحريه ",
-                "supparagraph": []
-              }
-            ]
-          }]
-        }
-
-      ]
+              "paragraph": " الحصول وانهاء اجراءات الجواز البحري",
+              "supparagraph": []
+            },
+            {
+              "paragraph": " الحصول وانهاء اجراءات الشهادات الاهليه",
+              "supparagraph": []
+            },
+            {
+              "paragraph": "الحصول وانهاء اجراءات التراخيص ",
+              "supparagraph": []
+            },
+            {
+              "paragraph": " الحصول و انهاء من تمكين السفر للسفن الاجنبيه والمصريه",
+              "supparagraph": []
+            },
+            {
+              "paragraph": "الحصولوانهاء اجراءات عقود العمل البحريه ",
+              "supparagraph": []
+            },
+            {
+              "paragraph": "استخراج شهاده تعديل ملكيه - استبدال اله لسفينه او وحده بحريه ",
+              "supparagraph": []
+            },
+            {
+              "paragraph": "استخراج شهاده تغير اسم سفينه - وحده بحريه ",
+              "supparagraph": []
+            }
+          ]
+        }]
+      }]
     },
 
     {
       "headtitle": "الاداره العامه لنظم معلومات المرور",
       "src": "assets/images/service/meror.jpg",
       "service": [{
-          "servicetitle": "",
+        "servicetitle": "",
+        "info": [{
+          "title": [""],
           "info": [{
-            "title": [""],
-            "info": [{
-                "paragraph": "الحصول على  رخصه مركبه",
-                "supparagraph": []
-              },
-              {
-                "paragraph": "الحصول على ملصق الكتروني ",
-                "supparagraph": []
-              },
-              {
-                "paragraph": "الحصول على  بدل تالف من رخصه مركبه",
-                "supparagraph": []
-              },
-              {
-                "paragraph": "الحصول على بدل فاقد من رخصه مركبه",
-                "supparagraph": []
-              },
-              {
-                "paragraph": "التاكد من صحه بيانات رخصه تسير مركبه",
-                "supparagraph": []
-              },
-              {
-                "paragraph": "استخراج بدل تالف رخصه قياده",
-                "supparagraph": []
-              },
-              {
-                "paragraph": " استخراج بدل فاقد رخصه قياده",
-                "supparagraph": []
-              },
-              {
-                "paragraph": "نقل قيد او ملكيه مركبه",
-                "supparagraph": []
-              },
-              {
-                "paragraph": " استخراج رخصه تسيير مركبه لاول مره",
-                "supparagraph": []
-              },
-              {
-                "paragraph": " الحصول على على ترخيص تجاري",
-                "supparagraph": []
-              },
-              {
-                "paragraph": "الحصول علي شهادة بيانات للمركبات تقدم لاحد اقسام المرور او الشهر العقاري",
-                "supparagraph": []
-              }
-            ]
-          }]
-        }
-
-      ]
+              "paragraph": "الحصول على  رخصه مركبه",
+              "supparagraph": []
+            },
+            {
+              "paragraph": "الحصول على ملصق الكتروني ",
+              "supparagraph": []
+            },
+            {
+              "paragraph": "الحصول على  بدل تالف من رخصه مركبه",
+              "supparagraph": []
+            },
+            {
+              "paragraph": "الحصول على بدل فاقد من رخصه مركبه",
+              "supparagraph": []
+            },
+            {
+              "paragraph": "التاكد من صحه بيانات رخصه تسير مركبه",
+              "supparagraph": []
+            },
+            {
+              "paragraph": "استخراج بدل تالف رخصه قياده",
+              "supparagraph": []
+            },
+            {
+              "paragraph": " استخراج بدل فاقد رخصه قياده",
+              "supparagraph": []
+            },
+            {
+              "paragraph": "نقل قيد او ملكيه مركبه",
+              "supparagraph": []
+            },
+            {
+              "paragraph": " استخراج رخصه تسيير مركبه لاول مره",
+              "supparagraph": []
+            },
+            {
+              "paragraph": " الحصول على على ترخيص تجاري",
+              "supparagraph": []
+            },
+            {
+              "paragraph": "الحصول علي شهادة بيانات للمركبات تقدم لاحد اقسام المرور او الشهر العقاري",
+              "supparagraph": []
+            }
+          ]
+        }]
+      }]
     }
   ],
   "copySuccessMessage": "تم نسخ النص "
