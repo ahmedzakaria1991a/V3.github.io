@@ -228,7 +228,6 @@
   ],
 
   "specializedlawyerstitlehome": "Legal Services Achieve Your Goals",
-<<<<<<< HEAD
   "specializedlawyerscontentehome": "Commercial and Corporate Law: Providing specialized legal consultations in company formation, business contracts, commercial settlements, and dispute resolution. Civil Law: Handling civil cases such as contracts, property, and liability, with a focus on providing practical and effective solutions. Criminal Law: Defending clients in criminal cases and offering comprehensive legal strategies to protect their rights. Intellectual Property: Protecting intellectual property rights, including patents, trademarks, and copyrights. Labor Disputes: Representing companies and employees in labor cases, including employment contracts, termination, and labor disputes. Family Law: Providing legal consultations in family matters such as divorce, child custody, and inheritance. Why Choose Us? In-depth Expertise: Our team of specialized lawyers in every area of law ensures the best legal solutions. Excellent Results: We are committed to achieving the best outcomes through well-thought-out legal strategies that protect our clients' rights. Professional Commitment: We have a proven track record of successfully handling various legal cases with skill and professionalism.",
 
   "specializedlawyershome": [
@@ -238,16 +237,6 @@
       "titlecontent": "Thanks to our relentless pursuit of becoming one of the premier international law firms in Egypt, mohamed atef saber has assembled a team of international lawyers specializing in international commercial arbitration and international trade in Egypt and the Middle East."
     },
 
-=======
-  "specializedlawyerscontentehome": " Our law firm offers a comprehensive range of 30+ legal services globally. With a team of over 40 specialized",
-
-  "specializedlawyershome": [
-    {
-      "src": "assets/images/home/icon_11.webp",
-      "titleicon": "International Cases",
-      "titlecontent": "   Thanks to our relentless pursuit of becoming one of the premier international law firms in Egypt, mohamed atef saber has assembled a team of international lawyers specializing in international commercial arbitration and international trade in Egypt and the Middle East."
-    },
->>>>>>> 238eb258bbdfef9c837e3ced6148484104123b65
     {
       "src": "assets/images/home/icon_12.webp",
       "titleicon": "Commercial Cases",
@@ -272,7 +261,6 @@
       "src": "assets/images/home/icon_16.webp",
       "titleicon": "Civil Cases",
       "titlecontent": " mohamed atef saber Law Firm excels in civil cases, providing dedicated representation for individuals and businesses. Our experienced civil lawyers navigate legal complexities, offering effective advocacy and optimal results."
-<<<<<<< HEAD
     }, {
       "src": "assets/images/home/icon_11.webp",
       "titleicon": "International Cases",
@@ -282,13 +270,6 @@
 
   "legalservicestitlehome": "World-Class Legal Services Since 2008",
   "legalservicescontentehome":"The law firm of Mohamed Atef is committed to providing exceptional legal services that meet the needs of our clients in various local and international markets. We offer world-class legal advice and solutions that combine high professionalism with a deep understanding of changing markets. We provide you with: Extensive Legal Expertise: A comprehensive experience in multiple areas such as corporate law, real estate, intellectual property, commercial disputes, technology, and more. Innovative Legal Solutions: Providing legal strategies tailored to the evolving global business environment, supported by a deep understanding of international legal challenges. Global Representation: Offering comprehensive legal services for both local and international companies, ensuring compliance with laws and regulations in multiple markets. Commitment to Quality and Results: We focus on delivering the most effective solutions to achieve excellent legal outcomes that meet the aspirations of our clients.",
-=======
-    }
-  ],
-
-  "legalservicestitlehome": "Legal Services Achieve Your Goals",
-  "legalservicescontentehome": " Our law firm offers a comprehensive range of 30+ legal services globally. With a team of over 40 specialized",
->>>>>>> 238eb258bbdfef9c837e3ced6148484104123b65
 
   "legalserviceshome": [
     {
@@ -472,14 +453,11 @@
       ]
     }
   ],
-<<<<<<< HEAD
   "headerserviceparagraph_1": "Since 2008, the Mohammed Atef Law Firm has been committed to providing exceptional legal services that meet the needs of our clients in various local and international markets. We offer world-class legal consultations and solutions that combine high professionalism with a deep understanding of the evolving markets.",
 
 "headerserviceparagraph_2": [{ "title": "We provide you with:", "subtitle": [ "Extensive legal expertise: A comprehensive experience in various fields such as corporate law, real estate, intellectual property, commercial disputes, technology, and more. Innovative legal solutions: Providing legal strategies that suit the evolving global business environment, supported by a deep understanding of international legal challenges.", "Global representation: Offering comprehensive legal services for both local and international companies, ensuring compliance with regulations and laws across multiple markets.", "Commitment to quality and results: We focus on delivering the most effective solutions to achieve excellent legal outcomes that meet our clients' expectations." ] }],
 
 "headerserviceparagraph_3": ["The Mohammed Atef Law Firm is the ideal choice for exceptional legal services that meet the highest international standards, supported by over 15 years of experience in providing strategic legal consultations across various sectors and markets."],
-=======
->>>>>>> 238eb258bbdfef9c837e3ced6148484104123b65
   "personInfo": [
     {
       "_comment": "about-us.component",
