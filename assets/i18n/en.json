@@ -357,7 +357,7 @@
     {
       "src": "assets/images/home/icon-2.png",
       "title": "Service",
-      "subtitle": "placeholder text for use",
+      "subtitle":"Legal services guarantee business success",
       "contentdetails": "Lawyer Muhammed atef saber established his first law firm in 2008 in cairo. Over time, the Office's successes have begun to grow among clients on various issues; He also contributed to building a mass base of clients from giza and Cairo governorates. With the increase in requests for legal services such as litigation, dispute resolution, and real estate development,  Over a few years, the Office had a track record of legal successes; At that moment, as the Office's legal lawyers and advisers had increased, the idea and vision of mohamed atef saber had arisen. ",
       "link": "/service",
       "arrow": "assets/images/home/arrow.png"
@@ -384,8 +384,8 @@
     {
       "src": "assets/images/home/avatar1.png",
       "details": "Mohammad Atef Saber",
-      "person": "Owner and manager of Mohamed Atef’s office",
-      "jobTitle": "Owner and manager of Mohamed Atef’s office"
+      "person": "Owner and Chairman of the Board",
+      "jobTitle": "Owner and Chairman of the Board"
     },
     {
       "src": "assets/images/home/avatar2.png",
@@ -463,11 +463,11 @@
       "_comment": "about-us.component",
       "src": "assets/images/home/avatar4.jpeg",
       "person": "Mohammad Atef Saber",
-      "jobTitle": "Owner and manager of Mohamed Atef’s office"
+      "jobTitle": "Owner and Chairman of the Board"
     }
   ],
 
-  "headerContactparagraph": "Title and Location of Mohammad Atef Saber Institution",
+  "headerContactparagraph": " Address and location of Mohamed Atef Saber Foundation ",
   "contact": [
     {
       "title": "ADDRESS",

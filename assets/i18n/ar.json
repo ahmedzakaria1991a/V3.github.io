@@ -164,23 +164,23 @@
       }
     ],
     "time": [{
-        "paragraph": "09:00 ص - 5:00 م",
+        "paragraph": "12:00 م - 7:00 م",
         "prim": false
       },
       {
-        "paragraph": "09:00 ص - 5:00 م",
+        "paragraph": "10:00 ص - 5:00 م",
         "prim": false
       },
       {
-        "paragraph": "09:00 ص - 5:00 م",
+        "paragraph": "10:00 ص - 5:00 م",
         "prim": false
       },
       {
-        "paragraph": "09:00 ص - 5:00 م",
+        "paragraph": "10:00 ص - 5:00 م",
         "prim": false
       },
       {
-        "paragraph": "09:00 ص - 5:00 م",
+        "paragraph": "10:00 ص - 5:00 م",
         "prim": false
       },
       {
@@ -375,7 +375,7 @@
       "src": "assets/images/home/avatar1.png",
       "details": "محمد عاطف صابر",
       "person": "مالك ومدير مكتب محمد عاطف",
-      "jobTitle": "مالك ورئيس مجلس الاداره للمكتب "
+      "jobTitle": "مالك ورئيس مجلس الاداره  "
     },
     {
       "src": "assets/images/home/avatar2.png",
@@ -462,7 +462,7 @@
     "_comment": "about-us.component",
     "src": "assets/images/home/avatar4.jpeg",
     "person": "محمد عاطف صابر",
-    "jobTitle": "مالك ورئيس مجلس الاداره للمكتب "
+    "jobTitle": "مالك ورئيس مجلس الاداره  "
   }],
 
   "headerContactparagraph": "عنوان ومكان مؤسسه محمد عاطف صابر",
