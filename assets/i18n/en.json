@@ -23,8 +23,7 @@
     "Short-details-details1": [
       "إعداد الدراسات الاقتصادية والتخطيطية للمنطقة الصناعية يشمل مجموعة من المهام والأنشطة الأساسية التي تهدف إلى تحقيق نجاح هذه المناطق من خلال التخطيط الجيد وتحليل الجوانب الاقتصادية والهندسية والتكنولوجية. إليك نظرة شاملة على خطوات تنفيذ هذه المهام:"
     ],
-    "sup-details1": [
-      {
+    "sup-details1": [{
         "title": "إعداد الدراسات الاقتصادية والتخطيطية للمنطقة الصناعية",
         "subtitle": [
           "دراسة الجدوى الاقتصادية: تحديد مدى ملاءمة المنطقة الصناعية من الناحية الاقتصادية عبر تحليل الأسواق، تكاليف الإنتاج، مصادر التمويل، وتوقعات العائد. تحليل الفوائد الاقتصادية: من خلال دراسة العوائد على الاستثمار، وخلق فرص العمل، وتحقيق التنوع الاقتصادي.",
@@ -80,8 +79,7 @@
       "The preparation of economic and planning studies for the industrial zone includes a set of essential tasks and activities aimed at ensuring the success of these areas through proper planning and analysis of the economic, engineering, and technological aspects. Here is an overview of the steps involved in implementing these tasks:"
     ],
 
-    "sup-details2": [
-      {
+    "sup-details2": [{
         "title": "Preparation of Economic and Planning Studies for the Industrial Zone",
         "subtitle": [
           "Feasibility Study: Determining the economic suitability of the industrial zone by analyzing markets, production costs, funding sources, and return forecasts. Economic benefits analysis: through studying return on investment, job creation, and achieving economic diversification.",
@@ -134,104 +132,96 @@
     ]
   },
 
-  "sectionhourshome": [
-    {
-      "title": "WORKING HOURS",
-      "day": [
-        {
-          "paragraph": "Saturday:",
-          "prim": false
-        },
-        {
-          "paragraph": "Sunday:",
-          "prim": false
-        },
-        {
-          "paragraph": "Monday:",
-          "prim": false
-        },
-        {
-          "paragraph": "Tuesday:",
-          "prim": false
-        },
-        {
-          "paragraph": "Wednesday:",
-          "prim": false
-        },
-        {
-          "paragraph": "<span>Thursday:</span>",
-          "prim": true
-        },
-        {
-          "paragraph": "<span>Friday:</span>",
-          "prim": true
-        }
-      ],
-      "time": [
-        {
-          "paragraph": "12:00 PM - 7:00 Pm",
-          "prim": false
-        },
-        {
-          "paragraph": "10:00 AM - 5:00 Pm",
-          "prim": false
-        },
-        {
-          "paragraph": "10:00 AM - 5:00 Pm",
-          "prim": false
-        },
-        {
-          "paragraph": "10:00 AM - 5:00 Pm",
-          "prim": false
-        },
-        {
-          "paragraph": "10:00 AM - 5:00 Pm",
-          "prim": false
-        },
-        {
-          "paragraph": "<span>Closed</span>",
-          "prim": true
-        },
-        {
-          "paragraph": "<span>Closed</span>",
-          "prim": true
-        }
-      ]
-    }
-  ],
-  "sectioncontacthome": [
-    {
-      "title": "CONTACT",
-      "contactcontent": [
-        {
-          "paragraph": "<span>+201027760000</span>",
-          "prim": true
-        },
-        {
-          "paragraph": "CONTACT EMAIL",
-          "prim": false
-        },
-        {
-          "paragraph": "<span>info@egyptlaw.net</span>",
-          "prim": true
-        },
-        {
-          "paragraph": "44 mariouteya st.from king faisal st.floor no.5 apartment 501",
-          "prim": false
-        },
-        {
-          "paragraph": "haram , giza",
-          "prim": false
-        }
-      ]
-    }
-  ],
+  "sectionhourshome": [{
+    "title": "WORKING HOURS",
+    "day": [{
+        "paragraph": "Saturday:",
+        "prim": false
+      },
+      {
+        "paragraph": "Sunday:",
+        "prim": false
+      },
+      {
+        "paragraph": "Monday:",
+        "prim": false
+      },
+      {
+        "paragraph": "Tuesday:",
+        "prim": false
+      },
+      {
+        "paragraph": "Wednesday:",
+        "prim": false
+      },
+      {
+        "paragraph": "<span>Thursday:</span>",
+        "prim": true
+      },
+      {
+        "paragraph": "<span>Friday:</span>",
+        "prim": true
+      }
+    ],
+    "time": [{
+        "paragraph": "12:00 PM - 7:00 Pm",
+        "prim": false
+      },
+      {
+        "paragraph": "10:00 AM - 5:00 Pm",
+        "prim": false
+      },
+      {
+        "paragraph": "10:00 AM - 5:00 Pm",
+        "prim": false
+      },
+      {
+        "paragraph": "10:00 AM - 5:00 Pm",
+        "prim": false
+      },
+      {
+        "paragraph": "10:00 AM - 5:00 Pm",
+        "prim": false
+      },
+      {
+        "paragraph": "<span>Closed</span>",
+        "prim": true
+      },
+      {
+        "paragraph": "<span>Closed</span>",
+        "prim": true
+      }
+    ]
+  }],
+  "sectioncontacthome": [{
+    "title": "CONTACT",
+    "contactcontent": [{
+        "paragraph": "<span>+201027760000</span>",
+        "prim": true
+      },
+      {
+        "paragraph": "CONTACT EMAIL",
+        "prim": false
+      },
+      {
+        "paragraph": "<span>info@egyptlaw.net</span>",
+        "prim": true
+      },
+      {
+        "paragraph": "44 mariouteya st.from king faisal st.floor no.5 apartment 501",
+        "prim": false
+      },
+      {
+        "paragraph": "haram , giza",
+        "prim": false
+      }
+    ]
+  }],
 
   "specializedlawyerstitlehome": "Legal Services Achieve Your Goals",
   "specializedlawyerscontentehome": "Commercial and Corporate Law: Providing specialized legal consultations in company formation, business contracts, commercial settlements, and dispute resolution. Civil Law: Handling civil cases such as contracts, property, and liability, with a focus on providing practical and effective solutions. Criminal Law: Defending clients in criminal cases and offering comprehensive legal strategies to protect their rights. Intellectual Property: Protecting intellectual property rights, including patents, trademarks, and copyrights. Labor Disputes: Representing companies and employees in labor cases, including employment contracts, termination, and labor disputes. Family Law: Providing legal consultations in family matters such as divorce, child custody, and inheritance. Why Choose Us? In-depth Expertise: Our team of specialized lawyers in every area of law ensures the best legal solutions. Excellent Results: We are committed to achieving the best outcomes through well-thought-out legal strategies that protect our clients' rights. Professional Commitment: We have a proven track record of successfully handling various legal cases with skill and professionalism.",
 
-  "specializedlawyershome": [
-    {
+  "specializedlawyershome": [{
       "src": "assets/images/home/eco.png",
       "titleicon": "Economic Cases",
       "titlecontent": "Thanks to our relentless pursuit of becoming one of the premier international law firms in Egypt, mohamed atef saber has assembled a team of international lawyers specializing in international commercial arbitration and international trade in Egypt and the Middle East."
@@ -269,10 +259,9 @@
   ],
 
   "legalservicestitlehome": "World-Class Legal Services Since 2008",
-  "legalservicescontentehome":"The law firm of Mohamed Atef is committed to providing exceptional legal services that meet the needs of our clients in various local and international markets. We offer world-class legal advice and solutions that combine high professionalism with a deep understanding of changing markets. We provide you with: Extensive Legal Expertise: A comprehensive experience in multiple areas such as corporate law, real estate, intellectual property, commercial disputes, technology, and more. Innovative Legal Solutions: Providing legal strategies tailored to the evolving global business environment, supported by a deep understanding of international legal challenges. Global Representation: Offering comprehensive legal services for both local and international companies, ensuring compliance with laws and regulations in multiple markets. Commitment to Quality and Results: We focus on delivering the most effective solutions to achieve excellent legal outcomes that meet the aspirations of our clients.",
+  "legalservicescontentehome": "The law firm of Mohamed Atef is committed to providing exceptional legal services that meet the needs of our clients in various local and international markets. We offer world-class legal advice and solutions that combine high professionalism with a deep understanding of changing markets. We provide you with: Extensive Legal Expertise: A comprehensive experience in multiple areas such as corporate law, real estate, intellectual property, commercial disputes, technology, and more. Innovative Legal Solutions: Providing legal strategies tailored to the evolving global business environment, supported by a deep understanding of international legal challenges. Global Representation: Offering comprehensive legal services for both local and international companies, ensuring compliance with laws and regulations in multiple markets. Commitment to Quality and Results: We focus on delivering the most effective solutions to achieve excellent legal outcomes that meet the aspirations of our clients.",
 
-  "legalserviceshome": [
-    {
+  "legalserviceshome": [{
       "src": "assets/images/home/icon_7.webp",
       "titleicon": "Legal Advice",
       "titlecontent": " Legal aid from a specialized lawyer who supports your goal and provides the best legal solutions for your case."
@@ -313,8 +302,7 @@
 
   "chooseustitlehome": "Why Choose Us As a Legal Partner?",
   "chooseuscontenthome": "  mohamed atef saber Law Firm has ethics that guide the working mechanism, in addition to the principles of lawyers and partners working in the office. Our clients witnessed the strength of our office and the confidence in dealing with us, and the following principles are what you will find when dealing with us:",
-  "chooseushome": [
-    {
+  "chooseushome": [{
       "src": "assets/images/home/icon_3.webp",
       "titleicon": "Trust Is Our Priority"
     },
@@ -332,8 +320,7 @@
     }
   ],
 
-  "infocardhome": [
-    {
+  "infocardhome": [{
       "title": "<span>Professional Lawyers</span> in Egypt",
       "content": "Legal support provided by a team of experienced lawyers and legal consultants ready to represent you in court and achieve your legal goals.",
       "btnclick": "contact us",
@@ -353,11 +340,10 @@
     }
   ],
 
-  "sectionServices": [
-    {
+  "sectionServices": [{
       "src": "assets/images/home/icon-2.png",
       "title": "Service",
-      "subtitle":"Legal services guarantee business success",
+      "subtitle": "Legal services guarantee business success",
       "contentdetails": "Lawyer Muhammed atef saber established his first law firm in 2008 in cairo. Over time, the Office's successes have begun to grow among clients on various issues; He also contributed to building a mass base of clients from giza and Cairo governorates. With the increase in requests for legal services such as litigation, dispute resolution, and real estate development,  Over a few years, the Office had a track record of legal successes; At that moment, as the Office's legal lawyers and advisers had increased, the idea and vision of mohamed atef saber had arisen. ",
       "link": "/service",
       "arrow": "assets/images/home/arrow.png"
@@ -380,8 +366,7 @@
     }
   ],
 
-  "homepersonslides": [
-    {
+  "homepersonslides": [{
       "src": "assets/images/home/avatar1.png",
       "details": "Mohammad Atef Saber",
       "person": "Owner and Chairman of the Board",
@@ -420,8 +405,7 @@
   ],
 
   "headerAboutusparagraph_1": "Who are we?",
-  "headerAboutusparagraph_2": [
-    {
+  "headerAboutusparagraph_2": [{
       "title": "Mohamed Atef Law Office is a leading and specialized legal firm offering exceptional legal services to clients in various fields. Since its establishment,",
       "subtitle": [
         "the firm strives to provide legal advice and innovative solutions, making it a trusted partner for our clients in various legal matters."
@@ -455,21 +439,21 @@
   ],
   "headerserviceparagraph_1": "Since 2008, the Mohammed Atef Law Firm has been committed to providing exceptional legal services that meet the needs of our clients in various local and international markets. We offer world-class legal consultations and solutions that combine high professionalism with a deep understanding of the evolving markets.",
 
-"headerserviceparagraph_2": [{ "title": "We provide you with:", "subtitle": [ "Extensive legal expertise: A comprehensive experience in various fields such as corporate law, real estate, intellectual property, commercial disputes, technology, and more. Innovative legal solutions: Providing legal strategies that suit the evolving global business environment, supported by a deep understanding of international legal challenges.", "Global representation: Offering comprehensive legal services for both local and international companies, ensuring compliance with regulations and laws across multiple markets.", "Commitment to quality and results: We focus on delivering the most effective solutions to achieve excellent legal outcomes that meet our clients' expectations." ] }],
+  "headerserviceparagraph_2": [{
+    "title": "We provide you with:",
+    "subtitle": ["Extensive legal expertise: A comprehensive experience in various fields such as corporate law, real estate, intellectual property, commercial disputes, technology, and more. Innovative legal solutions: Providing legal strategies that suit the evolving global business environment, supported by a deep understanding of international legal challenges.", "Global representation: Offering comprehensive legal services for both local and international companies, ensuring compliance with regulations and laws across multiple markets.", "Commitment to quality and results: We focus on delivering the most effective solutions to achieve excellent legal outcomes that meet our clients' expectations."]
+  }],
 
-"headerserviceparagraph_3": ["The Mohammed Atef Law Firm is the ideal choice for exceptional legal services that meet the highest international standards, supported by over 15 years of experience in providing strategic legal consultations across various sectors and markets."],
-  "personInfo": [
-    {
-      "_comment": "about-us.component",
-      "src": "assets/images/home/avatar4.jpeg",
-      "person": "Mohammad Atef Saber",
-      "jobTitle": "Owner and Chairman of the Board"
-    }
-  ],
+  "headerserviceparagraph_3": ["The Mohammed Atef Law Firm is the ideal choice for exceptional legal services that meet the highest international standards, supported by over 15 years of experience in providing strategic legal consultations across various sectors and markets."],
+  "personInfo": [{
+    "_comment": "about-us.component",
+    "src": "assets/images/home/avatar4.jpeg",
+    "person": "Mohammad Atef Saber",
+    "jobTitle": "Owner and Chairman of the Board"
+  }],
 
   "headerContactparagraph": " Address and location of Mohamed Atef Saber Foundation ",
-  "contact": [
-    {
+  "contact": [{
       "title": "ADDRESS",
       "info": [
         "44 mariouteya st.from king faisal st.floor no.5 apartment 501",
@@ -485,8 +469,7 @@
   ],
 
   "headerExperienceparagraph_1": "Our Experience in Corporate Litigation",
-  "headerExperienceparagraph_2": [
-    {
+  "headerExperienceparagraph_2": [{
       "title": "Mohamed Atef Law Office takes pride in a track record of achievements and expertise in providing legal advice and dispute resolution solutions for companies of all sizes and sectors. We specialize in offering comprehensive legal services to both local and international businesses, providing full legal support to protect our clients' interests in all aspects of their operations.",
       "subtitle": []
     },
@@ -504,8 +487,7 @@
   "headerExperienceparagraph_3": "We have worked with a wide range of major companies across various industries, providing them with proactive legal solutions that ensure the continuity of their operations and success in competitive markets.",
   "boxtotalparagraph_1": "SATISFIED CLIENTS",
   "boxtotalparagraph_2": "We are proud of our record of success in gaining the satisfaction of valued clients inside and outside Egypt, based on nearly 20 years of legal tender and successful advice.",
-  "products": [
-    {
+  "products": [{
       "_comment": "experience.component",
       "src": "assets/images/swiper/1.png",
       "logo": "شركه الهندسيه للفبير جلاس"
@@ -1407,344 +1389,326 @@
   ],
 
   "headerservicedataparagraph": "Are you looking for a consulting office in Egypt? Surely you have searched for a specialized legal advisor who will answer all your legal questions and draw you a vision and a safe path to victory in your cases? With its founder, Mohamed Atef Saber, look no further, you have found your destination. We are the first office in Egypt specialized in providing legal services.",
-  "servicedata": [
-    {
+  "servicedata": [{
       "_comment": "service.component",
-      "headtitle": "الهيئة العامة للتنمية الصناعية",
+      "headtitle": "General Authority for Industrial Development",
       "src": "assets/images/service/ida.png",
-      "service": [
+      "service": [{
+          "servicetitle": "Land and Industrial Unit Services",
+          "info": [{
+            "title": [""],
+            "info": [{
+                "paragraph": "Request for the allocation of an industrial land plot based on the investor's request to establish or expand an industrial project",
+                "supparagraph": []
+              },
+              {
+                "paragraph": "Offering lands for industrial projects (through the industrial map)",
+                "supparagraph": []
+              },
+              {
+                "paragraph": "Appealing the result of the offering (land allocation)",
+                "supparagraph": []
+              },
+              {
+                "paragraph": "Request for the allocation of an industrial unit",
+                "supparagraph": []
+              },
+              {
+                "paragraph": "Request to extend the deadline to complete the payment of a quarter of the land price",
+                "supparagraph": []
+              },
+              {
+                "paragraph": "Request to cancel the allocation of an industrial land plot/unit",
+                "supparagraph": []
+              },
+              {
+                "paragraph": "Request for an extension to receive the allocated land plot/industrial unit",
+                "supparagraph": []
+              },
+              {
+                "paragraph": "Handing over the land receipt protocol",
+                "supparagraph": []
+              },
+              {
+                "paragraph": "Request to obtain a certified copy of the land/industrial unit receipt protocol",
+                "supparagraph": []
+              },
+              {
+                "paragraph": "Request to apologize for not completing the project after land/unit allocation",
+                "supparagraph": []
+              },
+              {
+                "paragraph": "Deadline for obtaining a construction permit/executing the structural foundations",
+                "supparagraph": []
+              },
+              {
+                "paragraph": "Submitting documents to prove seriousness in the project timeline and releasing the financial guarantee if applicable",
+                "supparagraph": []
+              },
+              {
+                "paragraph": "Appealing the decision to cancel the allocation or terminate the contract for the land/industrial unit",
+                "supparagraph": []
+              },
+              {
+                "paragraph": "Amending the timeline for industrial land plots",
+                "supparagraph": []
+              },
+              {
+                "paragraph": "Amending the timeline for industrial units",
+                "supparagraph": []
+              },
+              {
+                "paragraph": "Merging one or more land plots",
+                "supparagraph": []
+              },
+              {
+                "paragraph": "Merging one or more industrial units",
+                "supparagraph": []
+              },
+              {
+                "paragraph": "Transferring ownership of an industrial land plot",
+                "supparagraph": []
+              },
+              {
+                "paragraph": "Transferring ownership of an industrial unit",
+                "supparparagraph": []
+              },
+              {
+                "paragraph": "Separating land plots and industrial units",
+                "supparagraph": []
+              },
+              {
+                "paragraph": "Requesting an additional period to prove seriousness on industrial land plots",
+                "supparparagraph": []
+              },
+              {
+                "paragraph": "Requesting an additional period to prove seriousness for industrial units",
+                "supparagraph": []
+              },
+              {
+                "paragraph": "Request to modify the additional time period for industrial land plots/units",
+                "supparparagraph": []
+              },
+              {
+                "paragraph": "Request to change contact details",
+                "supparparagraph": []
+              }
+            ]
+          }]
+        },
         {
-          "servicetitle": " خدمات الأراضي والوحدات الصناعية",
-          "info": [
-            {
-              "title": [""],
-              "info": [
-                {
-                  "paragraph": " طلب تخصيص قطعة أرض صناعية بناء على طلب المستثمر لإقامة مشروع صناعى أو التوسع فيه ",
-                  "supparagraph": []
-                },
-                {
-                  "paragraph": "طرح الأراضى لإقامة مشروعات صناعية ( من خلال الخريطة الصناعية)",
-                  "supparagraph": []
-                },
-                {
-                  "paragraph": "التظلم على نتيجة الطرح (تخصيص الأرض)",
-                  "supparagraph": []
-                },
-                {
-                  "paragraph": "طلب تخصيص وحدة صناعية ",
-                  "supparagraph": []
-                },
-                {
-                  "paragraph": "طلب مد مهلة لإستكمال سداد ربع ثمن الأرض ",
-                  "supparagraph": []
-                },
-                {
-                  "paragraph": "طلب الإعتذار عن طلب تخصيص قطعة أرض/ وحدة صناعية",
-                  "supparagraph": []
-                },
-                {
-                  "paragraph": " طلب مد مهلة إستلام قطعة الأرض/ الوحدة الصناعية المخصصة",
-                  "supparagraph": []
-                },
-                {
-                  "paragraph": "تسليم محضر استلام قطعة الأرض",
-                  "supparagraph": []
-                },
-                {
-                  "paragraph": "طلب الحصول على صورة طبق الأصل من محضر إستلام الأرض/ الوحدة الصناعية",
-                  "supparagraph": []
-                },
-                {
-                  "paragraph": " طلب إعتذار عن استكمال المشروع بعد تخصيص الأرض/ الوحدة الصناعية",
-                  "supparagraph": []
-                },
-                {
-                  "paragraph": "مهلة استخراج رخصة البناء/ تنفيذ الأساسات الإنشائية",
-                  "supparagraph": []
-                },
-                {
-                  "paragraph": "التقدم بمستندات اثبات الجدية لمراحل البرنامج الزمنى والإفراج عن الضمان المالى إن وجد",
-                  "supparagraph": []
-                },
-                {
-                  "paragraph": "التظلم من قرار إلغاء تخصيص أو فسخ عقد الأرض/ الوحدة الصناعية",
-                  "supparagraph": []
-                },
-                {
-                  "paragraph": "تعديل البرنامج الزمنى لقطع الأراضى الصناعية",
-                  "supparagraph": []
-                },
-                {
-                  "paragraph": "تعديل البرنامج الزمنى للوحدات الصناعية",
-                  "supparagraph": []
-                },
-                {
-                  "paragraph": "ضم قطعة أرض أو أكثر",
-                  "supparagraph": []
-                },
-                {
-                  "paragraph": "ضم وحدة صناعية أو أكثر",
-                  "supparagraph": []
-                },
-                {
-                  "paragraph": "تنازل عن قطعة أرض صناعية",
-                  "supparagraph": []
-                },
-                {
-                  "paragraph": "تنازل عن وحده صناعية",
-                  "supparagraph": []
-                },
-                {
-                  "paragraph": "فصل الأراضى و الوحدات الصناعية",
-                  "supparagraph": []
-                },
-                {
-                  "paragraph": "طلب الحصول على مهلة إضافية لإثبات الجدية على الأراضى الصناعية",
-                  "supparagraph": []
-                },
-                {
-                  "paragraph": "طلب الحصول على مهلة إضافية لاثبات الجدية للوحدات الصناعية",
-                  "supparagraph": []
-                },
-                {
-                  "paragraph": "طلب تعديل المهلة الإضافية المطلوبة للأراضى/ الوحدات الصناعية",
-                  "supparagraph": []
-                },
-                {
-                  "paragraph": "طلب تغيير بيانات التواصل",
-                  "supparagraph": []
-                }
-              ]
-            }
-          ]
+          "servicetitle": "Engineering Services",
+          "info": [{
+            "title": [""],
+            "info": [{
+                "paragraph": "Validity statement",
+                "supparagraph": []
+              },
+              {
+                "paragraph": "(Building permit (New – Modification – Addition – Elevation",
+                "supparagraph": []
+              },
+              {
+                "paragraph": "Request for the installation of an electricity meter/water meter for a permit issued by the authority",
+                "supparagraph": []
+              },
+              {
+                "paragraph": "Request for the connection of permanent utilities (Water – Electricity)",
+                "supparagraph": []
+              },
+              {
+                "paragraph": "Certified copy of the building permit or a duplicate of a lost permit",
+                "supparagraph": []
+              },
+              {
+                "paragraph": "Certified copy of the building permit and engineering drawings or a duplicate of a lost permit",
+                "supparagraph": []
+              },
+              {
+                "paragraph": "Request for special building ratio/height",
+                "supparparagraph": []
+              },
+              {
+                "paragraph": "Letter addressed to the Social Insurance",
+                "supparparagraph": []
+              },
+              {
+                "paragraph": "Request for administrative modification or proof of waiver on the permit",
+                "supparparagraph": []
+              },
+              {
+                "paragraph": "Request for technical modification of the building permit",
+                "supparparagraph": []
+              },
+              {
+                "paragraph": "Letter of executive status from any entity (Governorate or Authority)",
+                "supparparagraph": []
+              },
+              {
+                "paragraph": "Request for renewal of the building permit",
+                "supparparagraph": []
+              },
+              {
+                "paragraph": "Request for reconciliation",
+                "supparparagraph": []
+              },
+              {
+                "paragraph": "Demolition permit",
+                "supparparagraph": []
+              }
+            ]
+          }]
         },
 
         {
-          "servicetitle": "الخدمات الهندسية",
-          "info": [
-            {
-              "title": [""],
-              "info": [
-                {
-                  "paragraph": "بيــــــــان صالحية",
-                  "supparagraph": []
-                },
-                {
-                  "paragraph": "(ترخيص بناء ( جديد – تعديل – إضافة – تعلية ",
-                  "supparagraph": []
-                },
-                {
-                  "paragraph": "طلب توصيل عداد كهرباء/عداد مياه إنشائي لرخصة صادرة من الهيئة",
-                  "supparagraph": []
-                },
-                {
-                  "paragraph": "طلب توصيل المرافق الدائمة (مياه – كهرباء)",
-                  "supparagraph": []
-                },
-                {
-                  "paragraph": "صورة طبق األصل من رخصة البناء أو بدل فاقد",
-                  "supparagraph": []
-                },
-                {
-                  "paragraph": "صورة طبق الأصل من رخصة البناء والرسومات الهندسية أو بدل فاقد",
-                  "supparagraph": []
-                },
-                {
-                  "paragraph": "طلب نسبة بنائية خاصة / ارتفاعات",
-                  "supparagraph": []
-                },
-                {
-                  "paragraph": "خطاب موجه إلى التأمينات الإجتماعية",
-                  "supparagraph": []
-                },
-                {
-                  "paragraph": "طلب تعديل إداري أو إثبات تنازل على الرخصة",
-                  "supparagraph": []
-                },
-                {
-                  "paragraph": "طلب تعديل فني لرخصة البناء",
-                  "supparagraph": []
-                },
-                {
-                  "paragraph": "خطاب موقف تنفيذي من أي جهة (محافظة أو جهاز)",
-                  "supparagraph": []
-                },
-                {
-                  "paragraph": "طلب تجديد رخصة البناء",
-                  "supparagraph": []
-                },
-                {
-                  "paragraph": "طلب تصالح",
-                  "supparagraph": []
-                },
-                {
-                  "paragraph": "رخصة الهدم",
-                  "supparagraph": []
-                }
-              ]
-            }
-          ]
+          "servicetitle": "Operating License Services",
+          "info": [{
+            "title": [""],
+            "info": [{
+                "paragraph": "Issuing an operating license under the notification system",
+                "supparparagraph": []
+              },
+              {
+                "paragraph": "Issuing an operating license under the prior approval system",
+                "supparparagraph": []
+              },
+              {
+                "paragraph": "Annual follow-up",
+                "supparparagraph": []
+              },
+              {
+                "paragraph": "Waiver of the license (with the same activity and products)",
+                "supparparagraph": []
+              },
+              {
+                "paragraph": "Technical modification to the operating license under the notification system (Adding an activity - Modifying the power sources - Changing the activity)",
+                "supparparagraph": []
+              },
+              {
+                "paragraph": "Technical modification to the operating license under the prior approval system (Adding an activity - Modifying the power sources - Changing the activity)",
+                "supparparagraph": []
+              },
+              {
+                "paragraph": "Administrative modification to the operating license under the notification or prior approval system",
+                "supparparagraph": []
+              },
+              {
+                "paragraph": "Lost operating license under the notification or prior approval system",
+                "supparparagraph": []
+              },
+              {
+                "paragraph": "Damaged / Certified copy of the operating license under the notification or prior approval system",
+                "supparparagraph": []
+              },
+              {
+                "paragraph": "Certification of the translation of the operating license under the notification or prior approval system",
+                "supparparagraph": []
+              }
+            ]
+          }]
         },
 
         {
-          "servicetitle": "خدمات رخص التشغيل",
-          "info": [
-            {
-              "title": [""],
-              "info": [
-                {
-                  "paragraph": "إصدار رخصة التشغيل بنظام الإخطار",
-                  "supparagraph": []
-                },
-                {
-                  "paragraph": "إصدار رخصة التشغيل بنظام المسبق",
-                  "supparagraph": []
-                },
-                {
-                  "paragraph": "المتابعة السنوية",
-                  "supparagraph": []
-                },
-                {
-                  "paragraph": "التنازل عن الرخصة (بنفس النشاط والمنتجات)",
-                  "supparagraph": []
-                },
-                {
-                  "paragraph": "لتعديل الفني على رخصة التشغيل بنظام الإخطار (إضافة نشاط - تعديل قوى محركة - تغيير النشاط)",
-                  "supparagraph": []
-                },
-                {
-                  "paragraph": "التعديل الفني على رخصة التشغيل بنظام المسبق (إضافة نشاط - تعديل قوى محركة - تغيير النشاط)",
-                  "supparagraph": []
-                },
-                {
-                  "paragraph": "التعديل الإداري على رخصة التشغيل بنظام الإخطار أو المسبق",
-                  "supparagraph": []
-                },
-                {
-                  "paragraph": "بدل فاقد رخصة التشغيل بنظام اإلخطار أو المسبق",
-                  "supparagraph": []
-                },
-                {
-                  "paragraph": "بدل تالف / صورة طبق الأصل من رخصة التشغيل بنظام الإخطار أو المسبق",
-                  "supparagraph": []
-                },
-                {
-                  "paragraph": "اعتماد ترجمة رخصة التشغيل بنظام الإخطار أو المسبق",
-                  "supparagraph": []
-                }
-              ]
-            }
-          ]
+          "servicetitle": "Industrial Registry and Approvals Services",
+          "info": [{
+            "title": [""],
+            "info": [{
+                "paragraph": "Issuing the registration certificate in the industrial registry (First time / Technical modification / Renewal)",
+                "supparparagraph": []
+              },
+              {
+                "paragraph": "Modifying the industrial registry (Administrative modification)",
+                "supparparagraph": []
+              },
+              {
+                "paragraph": "Certified copy of the permanent/conditional industrial registry from one authority to another",
+                "supparparagraph": []
+              },
+              {
+                "paragraph": "Translated copy of the permanent/conditional industrial registry",
+                "supparparagraph": []
+              },
+              {
+                "paragraph": "Lost permanent/conditional industrial registry",
+                "supparparagraph": []
+              },
+              {
+                "paragraph": "Conditional industrial registry",
+                "supparparagraph": []
+              },
+              {
+                "paragraph": "Deleting an entry from the industrial registry",
+                "supparparagraph": []
+              },
+              {
+                "paragraph": "Approval of invoices related to the import of production lines / parts of production lines for an industrial facility",
+                "supparparagraph": []
+              },
+              {
+                "paragraph": "Approval of invoices related to the import of startup raw materials 16% or production supplies",
+                "supparparagraph": []
+              },
+              {
+                "paragraph": "Letter specifying or modifying the annual consumption quantity of natural gas",
+                "supparparagraph": []
+              },
+              {
+                "paragraph": "Certified copy / Lost / Damaged copy of the letter specifying or modifying the annual consumption quantity of natural gas",
+                "supparparagraph": []
+              }
+            ]
+          }]
         },
 
         {
-          "servicetitle": "خدمات السجل الصناعي والموافقات",
-          "info": [
-            {
-              "title": [""],
-              "info": [
-                {
-                  "paragraph": "إصدار شهادة القيد بالسجل الصناعي (أول مرة / تعديل فني / تجديد)",
-                  "supparagraph": []
+          "servicetitle": "Local Manufacturing Services",
+          "info": [{
+              "title": ["First: General Administration Services for Reviewing the Local Component:"],
+              "info": [{
+                  "paragraph": "Customs reductions for a product that has not been previously studied.",
+                  "supparparagraph": []
                 },
                 {
-                  "paragraph": "تعديل السجل الصناعي ( تعديل إداري) ",
-                  "supparagraph": []
+                  "paragraph": "Customs reductions for a product that has been previously studied",
+                  "supparparagraph": []
                 },
                 {
-                  "paragraph": "صورة طبق الأصل من السجل الصناعي الدائم/ المشروط من جهة إلى جهة ما",
-                  "supparagraph": []
+                  "paragraph": "Temporary customs clearance letter",
+                  "supparparagraph": []
                 },
                 {
-                  "paragraph": "نسخة مترجمة من السجل الصناعي الدائم/ المشروط",
-                  "supparagraph": []
+                  "paragraph": "Customs clearance letter to extend temporary clearance",
+                  "supparparagraph": []
                 },
                 {
-                  "paragraph": "بدل فاقد من السجل الصناعي الدائم/ المشروط",
-                  "supparagraph": []
+                  "paragraph": "Certified copy / Lost copy of the customs clearance letters",
+                  "supparparagraph": []
                 },
                 {
-                  "paragraph": "سجل صناعي مشروط",
-                  "supparagraph": []
+                  "paragraph": "Calculating the local value-added percentage to issue the Certificate of Origin for a product that has not been previously studied",
+                  "supparparagraph": []
                 },
                 {
-                  "paragraph": "شطب قيد السجل الصناعي",
-                  "supparagraph": []
-                },
-                {
-                  "paragraph": "اعتماد الفواتير الخاصة باستيراد خطوط الإنتاج / جزء من خطوط الإنتاج لمنشأة صناعية",
-                  "supparagraph": []
-                },
-                {
-                  "paragraph": "اعتماد الفواتير الخاصة باستيراد خامات بدء التشغيل 16 % أو مستلزمات الإنتاج",
-                  "supparagraph": []
-                },
-                {
-                  "paragraph": "خطاب تحديد أو تعديل كمية الاستهلاك السنوي من الغاز الطبيعي",
-                  "supparagraph": []
-                },
-                {
-                  "paragraph": "صوره طبق الالصل / بدل فاقد / بدل تالف من خطاب تحديد أو تعديل كمية الاستهلاك السنوي من الغاز الطبيعي",
-                  "supparagraph": []
-                }
-              ]
-            }
-          ]
-        },
-
-        {
-          "servicetitle": "خدمات التصنيع المحلي",
-          "info": [
-            {
-              "title": ["أولاً: خدمات الإدارة العامة لمراجعة المكون المحلي:"],
-              "info": [
-                {
-                  "paragraph": " التخفيضات الجمركية لمنتج لم يسبق دراسته . ",
-                  "supparagraph": []
-                },
-                {
-                  "paragraph": " التخفيضات الجمركية لمنتج سبق دراسته",
-                  "supparagraph": []
-                },
-                {
-                  "paragraph": "خطاب إفراج جمركي مؤقت",
-                  "supparagraph": []
-                },
-                {
-                  "paragraph": "خطاب إفراج جمركي لمد الإفراج المؤقت",
-                  "supparagraph": []
-                },
-                {
-                  "paragraph": "صورة طبق الأصل / بدل فاقد من خطابات الإفراج الجمركي",
-                  "supparagraph": []
-                },
-                {
-                  "paragraph": "حساب نسبة القـيمة المضافة المحـلية لاستخـــراج شهادة المـنشأ لمنتــج لم يسبق دراسته ",
-                  "supparagraph": []
-                },
-                {
-                  "paragraph": "حساب نسبة القـيمة المضافة المحـلية لاستخـــراج شهادة المـنشأ لمنتــج سبق دراسته ",
-                  "supparagraph": []
+                  "paragraph": "Calculating the local value-added percentage to issue the Certificate of Origin for a product that has been previously studied",
+                  "supparparagraph": []
                 }
               ]
             },
             {
               "title": [
-                "ثانياً: خدمات الإدارة العامة لتنمية المنتجات المحلية:"
+                "Second: General Administration Services for Developing Local Products:"
               ],
-              "info": [
-                {
-                  "paragraph": "  تحديد ما ينتج محلياً من الاحتياجات الخاصة بالمصالح والهيئات الحكومية وشركات القطاع العام وقطاع الأعمال العام ",
-                  "supparagraph": []
+              "info": [{
+                  "paragraph": "Determining what is locally produced for the needs of government entities, public sector companies, and state-owned enterprises",
+                  "supparparagraph": []
                 },
                 {
-                  "paragraph": " حساب نسبة المكون الصناعي المصري للمناقصات الحكومية",
-                  "supparagraph": []
+                  "paragraph": "Calculating the percentage of the Egyptian industrial component for government tenders",
+                  "supparparagraph": []
                 },
                 {
-                  "paragraph": "حساب نسبة المكون الصناعي المصري في المنتجات للحصول على المساندة التصديرية",
-                  "supparagraph": []
+                  "paragraph": "Calculating the percentage of the Egyptian industrial component in products to receive export support",
+                  "supparparagraph": []
                 }
               ]
             }
@@ -1752,2176 +1716,2013 @@
         },
 
         {
-          "servicetitle": "خدمات الشئون الفنية",
-          "info": [
-            {
-              "title": [""],
-              "info": [
-                {
-                  "paragraph": "طلب تحديد اآلالت والمعدات التي تعمل بالسوالر أو المازوت",
-                  "supparagraph": []
-                },
-                {
-                  "paragraph": "صورة طبق الأصل / بدل فاقد / بدل تالف من خطاب تحديد الآلات والمعدات التي تعمل بالسولار أو المازوت",
-                  "supparagraph": []
-                },
-                {
-                  "paragraph": "طلب إعداد شهادة تداول المنتج sale Free",
-                  "supparagraph": []
-                },
-                {
-                  "paragraph": "طلب إضافة خامة على خامات السجل الصناعي",
-                  "supparagraph": []
-                },
-                {
-                  "paragraph": "طلب زيادة القدرة الكهربائية",
-                  "supparagraph": []
-                },
-                {
-                  "paragraph": "طلب إعداد خطاب لمراحل الإنتاج موجه لصندوق تنمية الصادرات (الإدارة العامة للغزل والنسيج)",
-                  "supparagraph": []
-                },
-                {
-                  "paragraph": "خدمات المخازن الكيماوية",
-                  "supparagraph": [
-                    "أ - ترخيص مخزن كيماويات للمنشآت الصناعية ودفتر القيد الخاص به (قيد أول مرة)",
-                    "ب- تجديد / تعديل ترخيص مخزن كيماويات خاص بالمنشآت الصناعية",
-                    "ج- ترخيص مخزن كيماويات خاص بالمنشآت التجارية ودفتر القيد الخاص به (قيد أول مرة)",
-                    "د- تجديد / تعديل ترخيص مخزن كيماويات خاص بالمنشآت التجارية",
-                    "هـ- ترخيص مخزن مخصبات زراعية / مبيدات زراعية / مبيدات صحة عامة ودفتر القيد الخاص به (قيد أول مرة)",
-                    "و- تجديد/ تعديل ترخيص مخزن مخصبات زراعية / مبيدات زراعية / مبيدات صحة عامة",
-                    "ز- خطاب السير في استخراج ترخيص المخزن (صناعى/ تجارى)",
-                    "ح- إصدار دفتر قيد مواد كيماوية (بدل فاقد / منتهى)",
-                    "ط- الحصول على صورة من الترخيص بدل فاقد / صورة طبق الأصل",
-                    "ى- إعادة إجراءات المعاينة لترخيص مخزن كيماويات (صناعى / تجارى)"
-                  ]
-                }
-              ]
-            }
-          ]
+          "servicetitle": "Technical Affairs Services",
+          "info": [{
+            "title": [""],
+            "info": [{
+                "paragraph": "Request to specify the machines and equipment operating on diesel or mazut",
+                "supparparagraph": []
+              },
+              {
+                "paragraph": "Certified copy / Lost / Damaged copy of the letter specifying the machines and equipment operating on diesel or mazut",
+                "supparparagraph": []
+              },
+              {
+                "paragraph": "Request to prepare a product trading certificate (Sale Free)",
+                "supparparagraph": []
+              },
+              {
+                "paragraph": "Request to add raw materials to the industrial registry",
+                "supparparagraph": []
+              },
+              {
+                "paragraph": "Request to increase electrical capacity",
+                "supparparagraph": []
+              },
+              {
+                "paragraph": "Request to prepare a letter for production stages addressed to the Export Development Fund (General Administration of Spinning and Weaving)",
+                "supparparagraph": []
+              },
+              {
+                "paragraph": "Chemical Warehousing Services",
+                "supparparagraph": [
+                  "A - Licensing of a chemical warehouse for industrial establishments and its registration book (first time registration)",
+                  "B - Renewal / Modification of a chemical warehouse license for industrial establishments",
+                  "C - Licensing of a chemical warehouse for commercial establishments and its registration book (first time registration)",
+                  "D - Renewal / Modification of a chemical warehouse license for commercial establishments",
+                  "E - Licensing of a warehouse for agricultural fertilizers / pesticides / public health pesticides and its registration book (first time registration)",
+                  "F - Renewal / Modification of a warehouse license for agricultural fertilizers / pesticides / public health pesticides",
+                  "G - Letter for proceeding with the warehouse license issuance (Industrial / Commercial)",
+                  "H - Issuance of a chemical materials registration book (Lost / Expired)",
+                  "I - Obtaining a copy of the license (Lost / Certified Copy)",
+                  "J - Re-inspection procedures for chemical warehouse licensing (Industrial / Commercial)"
+                ]
+              }
+            ]
+          }]
         },
 
         {
-          "servicetitle": "خدمات حماية البيئة",
-          "info": [
-            {
-              "title": [""],
-              "info": [
-                {
-                  "paragraph": " الإفراج الجمركي عن المواد الكيماوية الواردة علي قوائم وزارة الصناعة والتجارة",
-                  "supparagraph": [
-                    "أ- شحنة متواجدة فعلياً في الجمارك شحنة بشحنة .",
-                    "ب - الشركات التجارية (لصالح الشركات الصناعية)",
-                    "ج - الإفراج السنوي عن المواد الكيماوية الخطرة) ."
-                  ]
-                },
-                {
-                  "paragraph": "تحديد الاحتياجات السنوية للمواد الكيماوية الخطرة الواردة على قوائم جهات خارجية أخرى)الحماية المدنية – الأمن العام – الإدارة المركزية لشئون الصيدلة",
-                  "supparagraph": []
-                },
-                {
-                  "paragraph": "خطابات الإفادة للشركات الصناعية المستوردة للمخلفات المصرح بإستيرادها وغير واردة على قوائم المخلفات المحظور دخولها كمستلزم إنتاج لهذة الشركات  كمخلفات البلاستيك – الورق ...إلخ   .",
-                  "supparagraph": []
-                },
-
-                {
-                  "paragraph": " استلام ومراجعة وتقييم دراسات العرض البيئي للأنشطة الصناعية منخفضة المخاطر وإصدار موافقات بيئيه لها ",
-                  "supparagraph": []
-                },
-                {
-                  "paragraph": "استلام ومراجعة وتقييم دراسات تقييم الأثر البيئي للأنشطة الصناعية عالية المخاطر",
-                  "supparagraph": []
-                },
-                {
-                  "paragraph": "توفيق أوضاع الشركات الصناعية المقامة وتعمل قبل قانون البيئة لألنشطة الصناعية عالية المخاطر",
-                  "supparagraph": []
-                }
-              ]
-            }
-          ]
+          "servicetitle": "Environmental Protection Services",
+          "info": [{
+            "title": [""],
+            "info": [{
+                "paragraph": "Customs clearance for chemicals listed by the Ministry of Industry and Trade",
+                "supparparagraph": [
+                  "A - Shipment currently present at customs, one shipment per shipment.",
+                  "B - Commercial companies (for the benefit of industrial companies)",
+                  "C - Annual clearance for hazardous chemicals."
+                ]
+              },
+              {
+                "paragraph": "Determining the annual needs for hazardous chemicals listed by other external entities (Civil Protection – Public Security – Central Administration of Pharmaceutical Affairs)",
+                "supparparagraph": []
+              },
+              {
+                "paragraph": "Issuing letters of approval for industrial companies importing authorized waste that is not listed in the prohibited waste lists, such as plastic waste, paper waste, etc., for production requirements of these companies.",
+                "supparparagraph": []
+              },
+              {
+                "paragraph": "Receiving, reviewing, and evaluating environmental impact studies for low-risk industrial activities and issuing environmental approvals for them",
+                "supparparagraph": []
+              },
+              {
+                "paragraph": "Receiving, reviewing, and evaluating environmental impact assessment studies for high-risk industrial activities",
+                "supparparagraph": []
+              },
+              {
+                "paragraph": "Rectifying the status of industrial companies established and operating before the environmental law for high-risk industrial activities",
+                "supparparagraph": []
+              }
+            ]
+          }]
         }
+
       ]
     },
 
     {
       "_comment": "service.component",
-      "headtitle": "الهيئة العامة للاستثمار والمناطق الحره",
+      "headtitle": "General Authority for Investment and Free Zones",
       "src": "assets/images/service/estsmar.png",
-      "service": [
-        {
-          "servicetitle": " الرخصه الذهبيه",
-          "info": [
-            {
-              "title": [""],
-              "info": [
-                {
-                  "paragraph": "التقديم واستخراج الرخصه الذهبيه ",
-                  "supparagraph": []
-                }
-              ]
-            }
-          ]
+      "service": [{
+          "servicetitle": "Golden License",
+          "info": [{
+            "title": [""],
+            "info": [{
+              "paragraph": "Apply for and issue the Golden License",
+              "supparparagraph": []
+            }]
+          }]
         },
-
         {
-          "servicetitle": "خدمات اعتماد وكلاء المستثمرين",
-          "info": [
-            {
-              "title": [""],
-              "info": [
-                {
-                  "paragraph": "خدمات اعتماد وكلاء المستثمرين",
-                  "supparagraph": []
-                }
-              ]
-            }
-          ]
+          "servicetitle": "Investor Agent Accreditation Services",
+          "info": [{
+            "title": [""],
+            "info": [{
+              "paragraph": "Investor Agent Accreditation Services",
+              "supparparagraph": []
+            }]
+          }]
         },
-
         {
-          "servicetitle": "التراخيص الاستثمار",
-          "info": [
-            {
-              "title": [""],
-              "info": [
-                {
-                  "paragraph": "استخراج كافه التراخيص الخاصه بالاستثمار والمناطق الحره",
-                  "supparagraph": []
-                }
-              ]
-            }
-          ]
+          "servicetitle": "Investment Licenses",
+          "info": [{
+            "title": [""],
+            "info": [{
+              "paragraph": "Issue all licenses related to investment and free zones",
+              "supparparagraph": []
+            }]
+          }]
         },
-
         {
-          "servicetitle": "خدمات تاسيس الشركات",
-          "info": [
-            {
-              "title": [""],
-              "info": [
-                {
-                  "paragraph": "تاسيس شركه الشخص الواحد",
-                  "supparagraph": []
-                },
-                {
-                  "paragraph": "تاسيس شركات المساهمه - تاسيس شركات التوصيه بالاسهم",
-                  "supparagraph": []
-                },
-                {
-                  "paragraph": "تاسيس شركات الاشخاص (تضامن - توصيه بسيطه)",
-                  "supparagraph": []
-                },
-                {
-                  "paragraph": "تاسيس شركات ذات مسئوليه محدوده",
-                  "supparagraph": []
-                },
-                {
-                  "paragraph": "تاسيس المنشاه الفرديه",
-                  "supparagraph": []
-                }
-              ]
-            }
-          ]
+          "servicetitle": "Company Incorporation Services",
+          "info": [{
+            "title": [""],
+            "info": [{
+                "paragraph": "Incorporating a Sole Proprietorship",
+                "supparparagraph": []
+              },
+              {
+                "paragraph": "Incorporating Joint-Stock Companies - Incorporating Limited Partnership by Shares",
+                "supparparagraph": []
+              },
+              {
+                "paragraph": "Incorporating Partnership Companies (General - Simple Partnership)",
+                "supparparagraph": []
+              },
+              {
+                "paragraph": "Incorporating Limited Liability Companies",
+                "supparparagraph": []
+              },
+              {
+                "paragraph": "Incorporating Individual Establishments",
+                "supparparagraph": []
+              }
+            ]
+          }]
         },
-
         {
-          "servicetitle": "خدمات الجمعيات",
-          "info": [
-            {
-              "title": [""],
-              "info": [
-                {
-                  "paragraph": "التصديق على قوائم المساهمين او الشركاء",
-                  "supparagraph": []
-                },
-                {
-                  "paragraph": "التصديق على قائمه اعضاء مجلس الاداره في الشركات المساهمه",
-                  "supparagraph": []
-                },
-                {
-                  "paragraph": "اعتماد محضر جماعه شركاء بفتح او غلق فرع",
-                  "supparagraph": []
-                },
-                {
-                  "paragraph": "اعتماد القرارات الاداريه بالنسبه للشركات ذات المسئوليه المحدوده ",
-                  "supparagraph": []
-                },
-                {
-                  "paragraph": "اعتماد محاضر اجتماع مجالس الاداره",
-                  "supparagraph": []
-                },
-                {
-                  "paragraph": "اعتماد محاضر الجمعيات العامه و العاديه",
-                  "supparagraph": []
-                }
-              ]
-            }
-          ]
+          "servicetitle": "Association Services",
+          "info": [{
+            "title": [""],
+            "info": [{
+                "paragraph": "Certifying shareholder or partner lists",
+                "supparparagraph": []
+              },
+              {
+                "paragraph": "Certifying the board of directors list in joint-stock companies",
+                "supparparagraph": []
+              },
+              {
+                "paragraph": "Approving the minutes of a partnership meeting for opening or closing a branch",
+                "supparparagraph": []
+              },
+              {
+                "paragraph": "Approving administrative decisions for limited liability companies",
+                "supparparagraph": []
+              },
+              {
+                "paragraph": "Approving minutes of board of directors meetings",
+                "supparparagraph": []
+              },
+              {
+                "paragraph": "Approving minutes of general and ordinary assemblies",
+                "supparparagraph": []
+              }
+            ]
+          }]
         },
-
         {
-          "servicetitle": "خدمات تعديلات الشركات",
-          "info": [
-            {
-              "title": [""],
-              "info": [
-                {
-                  "paragraph": "اعتماد مجلس ادارة متضمن تعديل المادتين رقمى 6 ، 7 وعقد التعديل ( شركات المساهمة) ",
-                  "supparagraph": []
-                },
-                {
-                  "paragraph": "اندماج شركة بطريق الضم",
-                  "supparagraph": []
-                },
-                {
-                  "paragraph": "خدمــــة انقسام شركــــــة",
-                  "supparagraph": []
-                },
-                {
-                  "paragraph": "تحويل الشركات من العمل بنظام المناطق الحرة إلى العمل بنظام الاستثمار الداخلي",
-                  "supparagraph": []
-                },
-                {
-                  "paragraph": " تحويل الشركات من ق الاستثمار إلى ق 159 لسنة 1981",
-                  "supparagraph": []
-                },
-                {
-                  "paragraph": "(تعديل عقود شركات الأشخاص (تضامن – توصية بسيطة",
-                  "supparagraph": []
-                },
-                {
-                  "paragraph": "تعديل البيانات الأساسية للمنشأة الفردية",
-                  "supparagraph": []
-                },
-                {
-                  "paragraph": "تغيير الشكل القانوني للشركات",
-                  "supparagraph": []
-                },
-                {
-                  "paragraph": "تعديل شركة الشخص الواحد",
-                  "supparagraph": []
-                },
-                {
-                  "paragraph": "تصفية شركة الشخص الواحد",
-                  "supparagraph": []
-                },
-                {
-                  "paragraph": "تغيير الشكل القانوني من شركة الشخص الواحد",
-                  "supparagraph": []
-                },
-                {
-                  "paragraph": "إندماج شركة الشخص الواحد",
-                  "supparagraph": []
-                },
-                {
-                  "paragraph": "تغيير الشكل القانوني من شركه مساهمه او ذات مسؤليه محدودة او توصية بالاسهم الي شركة الشخص الواحد",
-                  "supparagraph": []
-                },
-                {
-                  "paragraph": "تعديل بيانات فروع البنوك والشركات الأجنبية",
-                  "supparagraph": []
-                },
-                {
-                  "paragraph": "تصفيـــــة المنشــــأة الفرديـــــة",
-                  "supparagraph": []
-                }
-              ]
-            }
-          ]
+          "servicetitle": "Company Amendments Services",
+          "info": [{
+            "title": [""],
+            "info": [{
+                "paragraph": "Approval of the board of directors including amendments to articles 6 and 7 and the amendment contract (Joint-Stock Companies)",
+                "supparparagraph": []
+              },
+              {
+                "paragraph": "Company merger through absorption",
+                "supparparagraph": []
+              },
+              {
+                "paragraph": "Company split service",
+                "supparparagraph": []
+              },
+              {
+                "paragraph": "Converting companies from free zone system to domestic investment system",
+                "supparparagraph": []
+              },
+              {
+                "paragraph": "Converting companies from Investment Law to Law No. 159 of 1981",
+                "supparparagraph": []
+              },
+              {
+                "paragraph": "Amendment of partnership contracts (General - Simple Partnership)",
+                "supparparagraph": []
+              },
+              {
+                "paragraph": "Amendment of basic data for individual establishments",
+                "supparparagraph": []
+              },
+              {
+                "paragraph": "Changing the legal form of companies",
+                "supparparagraph": []
+              },
+              {
+                "paragraph": "Amending a Sole Proprietorship",
+                "supparparagraph": []
+              },
+              {
+                "paragraph": "Liquidating a Sole Proprietorship",
+                "supparparagraph": []
+              },
+              {
+                "paragraph": "Changing the legal form from Sole Proprietorship",
+                "supparparagraph": []
+              },
+              {
+                "paragraph": "Merging a Sole Proprietorship",
+                "supparparagraph": []
+              },
+              {
+                "paragraph": "Changing the legal form from a Joint-Stock Company, Limited Liability Company, or Limited Partnership by Shares to a Sole Proprietorship",
+                "supparparagraph": []
+              },
+              {
+                "paragraph": "Amending the data of foreign bank branches and companies",
+                "supparparagraph": []
+              },
+              {
+                "paragraph": "Liquidating an individual establishment",
+                "supparparagraph": []
+              }
+            ]
+          }]
         }
       ]
     },
 
     {
-      "headtitle": "وزاره التجاره والصناعه",
+      "headtitle": "Ministry of Trade and Industry",
       "src": "assets/images/service/tegarawesanaa.png",
-      "service": [
-        {
-          "servicetitle": " ",
-          "info": [
+      "service": [{
+        "servicetitle": " ",
+        "info": [{
+          "title": [""],
+          "info": [{
+              "paragraph": "Conducting moisture tests",
+              "supparparagraph": []
+            },
             {
-              "title": [""],
-              "info": [
-                {
-                  "paragraph": "اجراء اختبارات الرطوبة",
-                  "supparagraph": []
-                },
-                {
-                  "paragraph": " اختبارات الغزل و التيلة",
-                  "supparagraph": []
-                },
-                {
-                  "paragraph": "إدارة برامج التمويل والتنفيذ",
-                  "supparagraph": []
-                },
-                {
-                  "paragraph": "إدارة مجمعات الصناعات الصغيرة",
-                  "supparagraph": []
-                },
-                {
-                  "paragraph": "استرداد الديون الخارجية",
-                  "supparagraph": []
-                },
-                {
-                  "paragraph": "اصدار شهادة المنشأ",
-                  "supparagraph": []
-                },
-                {
-                  "paragraph": "اعتماد مراكز الخدمة والصيانة",
-                  "supparagraph": []
-                },
-                {
-                  "paragraph": "اعداد أخصائي تصدير",
-                  "supparagraph": []
-                },
-                {
-                  "paragraph": "إعداد دراســـات",
-                  "supparagraph": []
-                },
-                {
-                  "paragraph": "اعداد كتالوجات إلكترونية طبقا للقطاعات الإنتاجية للسلع المصرية",
-                  "supparagraph": []
-                },
-                {
-                  "paragraph": "اقامة منشأة صناعية",
-                  "supparagraph": []
-                },
-                {
-                  "paragraph": "الاتجاهات الحديثة للاعتمادات المستندية",
-                  "supparagraph": []
-                },
-                {
-                  "paragraph": " الاتفاقات التجارية",
-                  "supparagraph": []
-                },
-                {
-                  "paragraph": "الاحصاءات التجارية و التقارير الاقتصادية",
-                  "supparagraph": []
-                },
-                {
-                  "paragraph": "الإختبارات الهندسية وضبط الجودة",
-                  "supparagraph": []
-                },
-                {
-                  "paragraph": "الإستشارات الهندسية المتكاملة",
-                  "supparagraph": []
-                },
-                {
-                  "paragraph": "الاشتراك في المؤتمرات والندوات والأحداث المختلفة",
-                  "supparagraph": []
-                },
-                {
-                  "paragraph": "الإشراف على تنفيذ المشروعات",
-                  "supparagraph": []
-                },
-                {
-                  "paragraph": "الاعتماد للمعامل والجهات المختلفة",
-                  "supparagraph": []
-                },
-                {
-                  "paragraph": "الإعلان عن مراكز الخدمة والصيانة",
-                  "supparagraph": []
-                },
-                {
-                  "paragraph": "الإعلان عن منتج صناعي",
-                  "supparagraph": []
-                },
-                {
-                  "paragraph": "الأعمال المساحية وخدماتها",
-                  "supparagraph": []
-                },
-                {
-                  "paragraph": "البرنامج الأساسى للتصدير",
-                  "supparagraph": []
-                },
-                {
-                  "paragraph": "البرنامج القومى للتشغيل",
-                  "supparagraph": []
-                },
-                {
-                  "paragraph": "البرنامج القومى للتمكين الإقتصادى والاجتماعى للمرأة",
-                  "supparagraph": []
-                },
-                {
-                  "paragraph": " اعداد البروتوكول",
-                  "supparagraph": []
-                },
-                {
-                  "paragraph": "اعداد البيانات الفنية المطلوبة للرسالة",
-                  "supparagraph": []
-                },
-                {
-                  "paragraph": "اعداد التخفيضات الجمركية لمكونات المنتجات المحلية",
-                  "supparagraph": []
-                },
-                {
-                  "paragraph": "التسجيل في بروتوكول المناطق الصناعية المؤهلة",
-                  "supparagraph": []
-                },
-                {
-                  "paragraph": "التسجيل للحصول على خدمات نقطة التجارة",
-                  "supparagraph": []
-                },
-                {
-                  "paragraph": "اعداد التسجيلات التجارية",
-                  "supparagraph": []
-                },
-                {
-                  "paragraph": "اعداد المشروعات الصغيرة والحرفية",
-                  "supparagraph": []
-                },
-                {
-                  "paragraph": "التصدير للاتحاد الاوربى",
-                  "supparagraph": []
-                },
-                {
-                  "paragraph": "التعاون مع الجهات المعنية بالمشروعات الصغيرة والمتوسطة",
-                  "supparagraph": []
-                },
-                {
-                  "paragraph": "التقارير الخاصة بمصلحة الجمارك",
-                  "supparagraph": []
-                },
-                {
-                  "paragraph": "التكنولوجيا الحديثة لأداء أفضل",
-                  "supparagraph": []
-                },
-                {
-                  "paragraph": "اعداد الدراسات التسويقية",
-                  "supparagraph": []
-                },
-                {
-                  "paragraph": "الرقابه النوعيه على السلع المستوردة",
-                  "supparagraph": []
-                },
-                {
-                  "paragraph": "السلع الصناعيةالإدارة العامة لإجراءات التحكيم بمينا البصل",
-                  "supparagraph": []
-                },
-                {
-                  "paragraph": "الصادرات والمنشأ",
-                  "supparagraph": []
-                },
-                {
-                  "paragraph": "الفاعل الاقتصادي المعتمد",
-                  "supparagraph": []
-                },
-                {
-                  "paragraph": "الفرز و التحكيم",
-                  "supparagraph": []
-                },
-                {
-                  "paragraph": "الفرص التصديرية",
-                  "supparagraph": []
-                },
-                {
-                  "paragraph": "المعالجات التجارية",
-                  "supparagraph": []
-                },
-                {
-                  "paragraph": "المعامل الصناعية",
-                  "supparagraph": []
-                },
-                {
-                  "paragraph": "المعامل الغذائية",
-                  "supparagraph": []
-                },
-                {
-                  "paragraph": "الموافقة المبدئية داخل المناطق الصناعية",
-                  "supparagraph": []
-                },
-                {
-                  "paragraph": "النشر بالجريدة و الوقائع المصرية",
-                  "supparagraph": []
-                },
-                {
-                  "paragraph": "النقل والشحن",
-                  "supparagraph": []
-                },
-                {
-                  "paragraph": "الواردات الصناعية",
-                  "supparagraph": []
-                },
-                {
-                  "paragraph": "الواردات الغذائية",
-                  "supparagraph": []
-                },
-                {
-                  "paragraph": "آليات الدفع و المصطلحات التجارية",
-                  "supparagraph": []
-                },
-                {
-                  "paragraph": "اعداد انكوتيرمز 2010",
-                  "supparagraph": []
-                },
-                {
-                  "paragraph": "اعداد برنامج اجراءات و مستندات التصدير",
-                  "supparagraph": []
-                },
-                {
-                  "paragraph": "اعداد برنامج إدارة مخاطر التصدير",
-                  "supparagraph": []
-                },
-                {
-                  "paragraph": "اعداد برنامج ادارة مصادر التوريد وعمليات الشراء",
-                  "supparagraph": []
-                },
-                {
-                  "paragraph": "اعداد برنامج الاشتراك في المعارض التجارية",
-                  "supparagraph": []
-                },
-                {
-                  "paragraph": "اعداد برنامج التسعير للتصدير",
-                  "supparagraph": []
-                },
-                {
-                  "paragraph": "اعداد برنامج التعبئة والتغليف",
-                  "supparagraph": []
-                },
-                {
-                  "paragraph": " اعداد برنامج التفاوض وصياغه العقود",
-                  "supparagraph": []
-                },
-                {
-                  "paragraph": " اعداد برنامج المراسلات والمكاتبات التجارية بالإنجليزية",
-                  "supparagraph": []
-                },
-                {
-                  "paragraph": " اعداد برنامج تحليل المعلومات التجارية",
-                  "supparagraph": []
-                },
-                {
-                  "paragraph": " اعداد برنامج جوده المنتج",
-                  "supparagraph": []
-                },
-                {
-                  "paragraph": " اعداد برنامج حرفي بيع المواصفات المصرية  من خلال الفروع",
-                  "supparagraph": []
-                },
-                {
-                  "paragraph": "تجديد اعتماد مراكز الخدمة والصيانة",
-                  "supparagraph": []
-                },
-                {
-                  "paragraph": "انشاء تراخيص خارجية",
-                  "supparagraph": []
-                },
-                {
-                  "paragraph": "انشاء تراخيص داخلية",
-                  "supparagraph": []
-                },
-                {
-                  "paragraph": "تسجيل المصانع المؤهلة لتصدير منتجاتها إلى مصر",
-                  "supparagraph": []
-                },
-                {
-                  "paragraph": "تقديم برامج التدريب والتأهيل والإستشارات ومنح الشهادات للأفراد",
-                  "supparagraph": []
-                },
-                {
-                  "paragraph": "تنمية الوعي التصديري",
-                  "supparagraph": []
-                },
-                {
-                  "paragraph": "توفير البيانات والمعلومات التجارية والإقتصادية",
-                  "supparagraph": []
-                },
-                {
-                  "paragraph": "توفير الفـرص التجـارية والاستثمارية",
-                  "supparagraph": []
-                },
-                {
-                  "paragraph": "توفير معلومات التسهيلات التجارية",
-                  "supparagraph": []
-                },
-                {
-                  "paragraph": "جولات ترويجية",
-                  "supparagraph": []
-                },
-                {
-                  "paragraph": "حماية المستهلك",
-                  "supparagraph": []
-                },
-                {
-                  "paragraph": "خدمات التحليل و الإختبار",
-                  "supparagraph": []
-                },
-                {
-                  "paragraph": "خدمات التصدير و حساب نسب المكون المحلى",
-                  "supparagraph": []
-                },
-                {
-                  "paragraph": "خدمات المعلومات",
-                  "supparagraph": []
-                },
-                {
-                  "paragraph": " خدمات بيع منتجات الهيئة",
-                  "supparagraph": []
-                },
-                {
-                  "paragraph": "خدمات شراء الاحتياجات الحكومية",
-                  "supparagraph": []
-                },
-                {
-                  "paragraph": "خدمات مركز الأميرية التجريبي",
-                  "supparagraph": []
-                },
-                {
-                  "paragraph": "خدمات ميناء سفاجا التعديني",
-                  "supparagraph": []
-                },
-                {
-                  "paragraph": "خدمة الاشتراك للجريدة الرسمية والوقائع المصرية (ورقى/الكتر ونى",
-                  "supparagraph": []
-                },
-                {
-                  "paragraph": "خدمة الطباعة من أرشيف الاعداد للجريدة الرسمية والوقائع المصرية",
-                  "supparagraph": []
-                },
-                {
-                  "paragraph": "خدمة تسجيل الجهات المانحة لشهادات الجودة EOS-RU-F-01",
-                  "supparagraph": []
-                },
-                {
-                  "paragraph": "خدمة تسجيل شهادات الجودة EOS-RU-F-06",
-                  "supparagraph": []
-                },
-                {
-                  "paragraph": "خدمة طلب التدريب داخل الهيئة العامة للمواصفات والجودة",
-                  "supparagraph": []
-                },
-                {
-                  "paragraph": "خدمة طلب الترخيص للحصول على علامة حلال",
-                  "supparagraph": []
-                },
-                {
-                  "paragraph": "خدمة طلب الحصول علي شهادة المطابقة المصرية",
-                  "supparagraph": []
-                },
-                {
-                  "paragraph": "خدمة طلب الحصول علي علامة المطابقة المصرية",
-                  "supparagraph": []
-                },
-                {
-                  "paragraph": "خدمة طلب دراسة وثائق المراجل البخارية",
-                  "supparagraph": []
-                },
-                {
-                  "paragraph": "دراسات وإستشارات",
-                  "supparagraph": []
-                },
-                {
-                  "paragraph": "دليل المصدر المصرى",
-                  "supparagraph": []
-                },
-                {
-                  "paragraph": " دليل المواصفات",
-                  "supparagraph": []
-                },
-                {
-                  "paragraph": "رخص البناء والتشغيل",
-                  "supparagraph": []
-                },
-                {
-                  "paragraph": "شبكة العلاقات للجهات الحكومية والأهلية والمستثمرين",
-                  "supparagraph": []
-                },
-                {
-                  "paragraph": "شركات الفحص والمراجعة",
-                  "supparagraph": []
-                },
-                {
-                  "paragraph": "طلب اعتماد نموذج أساسي",
-                  "supparagraph": []
-                },
-                {
-                  "paragraph": "طلب الترخيص باستخدام علامة الجودة EOS C4/1",
-                  "supparagraph": []
-                },
-                {
-                  "paragraph": "طلب الحصول علي علامات الهيئة المعدنية (ت ق) للمقطورات بكافة أنواعها",
-                  "supparagraph": []
-                },
-                {
-                  "paragraph": "طلب بيان بأحدث الإصدارات للمواصفات القياسية المصرية والدولية والاجنبية",
-                  "supparagraph": []
-                },
-                {
-                  "paragraph": "قطاعات الأنشطة الصناعية",
-                  "supparagraph": []
-                },
-                {
-                  "paragraph": "كيف يمكنك التسجيل في النموذج الإحصائي الموحد للصادرات",
-                  "supparagraph": []
-                },
-                {
-                  "paragraph": "متابعه الرسائل الواردة",
-                  "supparagraph": []
-                },
-                {
-                  "paragraph": "مساعدة مؤسسات التجارة والأعمال في الجوانب المتصلة بالاتفاقيات التجارية",
-                  "supparagraph": []
-                },
-                {
-                  "paragraph": "ملف التصدير الالكتروني",
-                  "supparagraph": []
-                },
-                {
-                  "paragraph": "منح الإذن بالتصدير",
-                  "supparagraph": []
-                },
-                {
-                  "paragraph": "نظام إدارة الأعمال",
-                  "supparagraph": []
-                }
-              ]
+              "paragraph": "Tests for spinning and yarn",
+              "supparparagraph": []
+            },
+            {
+              "paragraph": "Managing financing programs and implementation",
+              "supparparagraph": []
+            },
+            {
+              "paragraph": "Managing small industrial complexes",
+              "supparparagraph": []
+            },
+            {
+              "paragraph": "Recovering external debts",
+              "supparparagraph": []
+            },
+            {
+              "paragraph": "Issuing certificates of origin",
+              "supparparagraph": []
+            },
+            {
+              "paragraph": "Accrediting service and maintenance centers",
+              "supparparagraph": []
+            },
+            {
+              "paragraph": "Preparing export specialists",
+              "supparparagraph": []
+            },
+            {
+              "paragraph": "Preparing studies",
+              "supparparagraph": []
+            },
+            {
+              "paragraph": "Preparing electronic catalogs according to the production sectors of Egyptian goods",
+              "supparparagraph": []
+            },
+            {
+              "paragraph": "Establishing an industrial facility",
+              "supparparagraph": []
+            },
+            {
+              "paragraph": "Modern trends in letter of credit",
+              "supparparagraph": []
+            },
+            {
+              "paragraph": "Trade agreements",
+              "supparparagraph": []
+            },
+            {
+              "paragraph": "Commercial statistics and economic reports",
+              "supparparagraph": []
+            },
+            {
+              "paragraph": "Engineering tests and quality control",
+              "supparparagraph": []
+            },
+            {
+              "paragraph": "Integrated engineering consultations",
+              "supparparagraph": []
+            },
+            {
+              "paragraph": "Participation in conferences, seminars, and various events",
+              "supparparagraph": []
+            },
+            {
+              "paragraph": "Supervising project implementation",
+              "supparparagraph": []
+            },
+            {
+              "paragraph": "Accreditation for laboratories and various agencies",
+              "supparparagraph": []
+            },
+            {
+              "paragraph": "Advertising for service and maintenance centers",
+              "supparparagraph": []
+            },
+            {
+              "paragraph": "Advertising industrial products",
+              "supparparagraph": []
+            },
+            {
+              "paragraph": "Surveying services",
+              "supparparagraph": []
+            },
+            {
+              "paragraph": "Core export program",
+              "supparparagraph": []
+            },
+            {
+              "paragraph": "National employment program",
+              "supparparagraph": []
+            },
+            {
+              "paragraph": "National program for economic and social empowerment of women",
+              "supparparagraph": []
+            },
+            {
+              "paragraph": "Preparing protocols",
+              "supparparagraph": []
+            },
+            {
+              "paragraph": "Preparing the technical data required for the consignment",
+              "supparparagraph": []
+            },
+            {
+              "paragraph": "Preparing customs duty reductions for locally produced components",
+              "supparparagraph": []
+            },
+            {
+              "paragraph": "Registration in the Qualified Industrial Zones Protocol",
+              "supparparagraph": []
+            },
+            {
+              "paragraph": "Registration for Trade Point services",
+              "supparparagraph": []
+            },
+            {
+              "paragraph": "Preparing commercial registrations",
+              "supparparagraph": []
+            },
+            {
+              "paragraph": "Preparing small and craft projects",
+              "supparparagraph": []
+            },
+            {
+              "paragraph": "Exporting to the European Union",
+              "supparparagraph": []
+            },
+            {
+              "paragraph": "Cooperation with entities concerned with small and medium-sized enterprises",
+              "supparparagraph": []
+            },
+            {
+              "paragraph": "Reports for the Customs Authority",
+              "supparparagraph": []
+            },
+            {
+              "paragraph": "Modern technology for better performance",
+              "supparparagraph": []
+            },
+            {
+              "paragraph": "Preparing marketing studies",
+              "supparparagraph": []
+            },
+            {
+              "paragraph": "Quality control of imported goods",
+              "supparparagraph": []
+            },
+            {
+              "paragraph": "Industrial goods - General Administration for Arbitration Procedures in Mina El-Basal",
+              "supparparagraph": []
+            },
+            {
+              "paragraph": "Exports and origin",
+              "supparparagraph": []
+            },
+            {
+              "paragraph": "Accredited economic actor",
+              "supparparagraph": []
+            },
+            {
+              "paragraph": "Sorting and arbitration",
+              "supparparagraph": []
+            },
+            {
+              "paragraph": "Export opportunities",
+              "supparparagraph": []
+            },
+            {
+              "paragraph": "Trade treatments",
+              "supparparagraph": []
+            },
+            {
+              "paragraph": "Industrial laboratories",
+              "supparparagraph": []
+            },
+            {
+              "paragraph": "Food laboratories",
+              "supparparagraph": []
+            },
+            {
+              "paragraph": "Preliminary approval inside industrial zones",
+              "supparparagraph": []
+            },
+            {
+              "paragraph": "Publication in the Official Gazette and the Egyptian Official Gazette",
+              "supparparagraph": []
+            },
+            {
+              "paragraph": "Transportation and shipping",
+              "supparparagraph": []
+            },
+            {
+              "paragraph": "Industrial imports",
+              "supparparagraph": []
+            },
+            {
+              "paragraph": "Food imports",
+              "supparparagraph": []
+            },
+            {
+              "paragraph": "Payment mechanisms and commercial terms",
+              "supparparagraph": []
+            },
+            {
+              "paragraph": "Preparing Incoterms 2010",
+              "supparparagraph": []
+            },
+            {
+              "paragraph": "Preparing export procedures and document program",
+              "supparparagraph": []
+            },
+            {
+              "paragraph": "Preparing export risk management program",
+              "supparparagraph": []
+            },
+            {
+              "paragraph": "Preparing procurement sources and purchasing processes management program",
+              "supparparagraph": []
+            },
+            {
+              "paragraph": "Preparing participation program in trade fairs",
+              "supparparagraph": []
+            },
+            {
+              "paragraph": "Preparing export pricing program",
+              "supparparagraph": []
+            },
+            {
+              "paragraph": "Preparing packaging and labeling program",
+              "supparparagraph": []
+            },
+            {
+              "paragraph": "Preparing negotiation and contract drafting program",
+              "supparparagraph": []
+            },
+            {
+              "paragraph": "Preparing commercial correspondence and business letters program in English",
+              "supparparagraph": []
+            },
+            {
+              "paragraph": "Preparing trade information analysis program",
+              "supparparagraph": []
+            },
+            {
+              "paragraph": "Preparing product quality program",
+              "supparparagraph": []
+            },
+            {
+              "paragraph": "Preparing Egyptian specification sales program through branches",
+              "supparparagraph": []
+            },
+            {
+              "paragraph": "Renewing accreditation of service and maintenance centers",
+              "supparparagraph": []
+            },
+            {
+              "paragraph": "Establishing external licenses",
+              "supparparagraph": []
+            },
+            {
+              "paragraph": "Establishing internal licenses",
+              "supparparagraph": []
+            },
+            {
+              "paragraph": "Registering factories qualified to export their products to Egypt",
+              "supparparagraph": []
+            },
+            {
+              "paragraph": "Providing training, qualification programs, consultancy, and certification for individuals",
+              "supparparagraph": []
+            },
+            {
+              "paragraph": "Developing export awareness",
+              "supparparagraph": []
+            },
+            {
+              "paragraph": "Providing commercial and economic data and information",
+              "supparparagraph": []
+            },
+            {
+              "paragraph": "Providing business and investment opportunities",
+              "supparparagraph": []
+            },
+            {
+              "paragraph": "Providing trade facilitation information",
+              "supparparagraph": []
+            },
+            {
+              "paragraph": "Promotional tours",
+              "supparparagraph": []
+            },
+            {
+              "paragraph": "Consumer protection",
+              "supparparagraph": []
+            },
+            {
+              "paragraph": "Analysis and testing services",
+              "supparparagraph": []
+            },
+            {
+              "paragraph": "Export services and calculation of local content ratios",
+              "supparparagraph": []
+            },
+            {
+              "paragraph": "Information services",
+              "supparparagraph": []
+            },
+            {
+              "paragraph": "Selling authority products services",
+              "supparparagraph": []
+            },
+            {
+              "paragraph": "Purchasing government requirements services",
+              "supparparagraph": []
+            },
+            {
+              "paragraph": "Experimental Amiriya Center services",
+              "supparparagraph": []
+            },
+            {
+              "paragraph": "Sufaga Port Mining services",
+              "supparparagraph": []
+            },
+            {
+              "paragraph": "Subscription service for Official Gazette and Egyptian Official Gazette (paper/electronic)",
+              "supparparagraph": []
+            },
+            {
+              "paragraph": "Print service from the archive of Official Gazette editions",
+              "supparparagraph": []
+            },
+            {
+              "paragraph": "Registration service for quality certificates issuers EOS-RU-F-01",
+              "supparparagraph": []
+            },
+            {
+              "paragraph": "Registration service for quality certificates EOS-RU-F-06",
+              "supparparagraph": []
+            },
+            {
+              "paragraph": "Training request service at the General Authority for Specifications and Quality",
+              "supparparagraph": []
+            },
+            {
+              "paragraph": "Request for Halal certification license",
+              "supparparagraph": []
+            },
+            {
+              "paragraph": "Request for Egyptian conformity certificate",
+              "supparparagraph": []
+            },
+            {
+              "paragraph": "Request for Egyptian conformity mark",
+              "supparparagraph": []
+            },
+            {
+              "paragraph": "Request for studying boiler documents",
+              "supparparagraph": []
+            },
+            {
+              "paragraph": "Studies and consultations",
+              "supparparagraph": []
+            },
+            {
+              "paragraph": "Egyptian exporter guide",
+              "supparparagraph": []
+            },
+            {
+              "paragraph": "Specifications guide",
+              "supparparagraph": []
+            },
+            {
+              "paragraph": "Building and operating permits",
+              "supparparagraph": []
+            },
+            {
+              "paragraph": "Government, private sector, and investor relationship network",
+              "supparparagraph": []
+            },
+            {
+              "paragraph": "Inspection and auditing companies",
+              "supparparagraph": []
+            },
+            {
+              "paragraph": "Request for basic model accreditation",
+              "supparparagraph": []
+            },
+            {
+              "paragraph": "Request for quality mark use license EOS C4/1",
+              "supparparagraph": []
+            },
+            {
+              "paragraph": "Request for obtaining quality marks for trailers (all types)",
+              "supparparagraph": []
+            },
+            {
+              "paragraph": "Request for list of the latest releases for Egyptian, international, and foreign standards",
+              "supparparagraph": []
+            },
+            {
+              "paragraph": "Industrial activity sectors",
+              "supparparagraph": []
+            },
+            {
+              "paragraph": "How to register in the unified export statistics form",
+              "supparparagraph": []
+            },
+            {
+              "paragraph": "Tracking incoming messages",
+              "supparparagraph": []
+            },
+            {
+              "paragraph": "Assisting business institutions with trade agreement aspects",
+              "supparparagraph": []
+            },
+            {
+              "paragraph": "Electronic export file",
+              "supparparagraph": []
+            },
+            {
+              "paragraph": "Granting export permission",
+              "supparparagraph": []
+            },
+            {
+              "paragraph": "Business management system",
+              "supparparagraph": []
             }
           ]
-        }
-      ]
+        }]
+      }]
     },
 
     {
-      "headtitle": "الهيئه القوميه لسلامه الغذاء",
+      "headtitle": "National Food Safety Authority",
       "src": "assets/images/service/salamtel8eza.png",
-      "service": [
-        {
-          "servicetitle": " تسجيل المنشات الغذائيه",
-          "info": [
-            {
-              "title": [""],
-              "info": [
-                {
-                  "paragraph": "تسجيل المصانع ",
-                  "supparagraph": []
-                },
-                {
-                  "paragraph": "تسجيل البيانات الاساسيه للمنشات السياحيه  ",
-                  "supparagraph": []
-                },
-                {
-                  "paragraph": "تسجيل البيانات الاساسيه للمحالب ومراكز تجميع الالبان  ",
-                  "supparagraph": []
-                },
-                {
-                  "paragraph": "تسجيل البيانات الاساسيه للمنشات التخزينيه  ",
-                  "supparagraph": []
-                },
-                {
-                  "paragraph": "تسجيل البيانات الاساسيه لمستوردي الغذاء  ",
-                  "supparagraph": []
-                },
-                {
-                  "paragraph": "تسجيل البيانات الاساسيه لعربات الطعام المتنقله  ",
-                  "supparagraph": []
-                },
-                {
-                  "paragraph": "تسجيل البيانات الاساسيه لعربات للموردين  ",
-                  "supparagraph": []
-                }
-              ]
-            }
-          ]
+      "service": [{
+          "servicetitle": "Registration of Food Establishments",
+          "info": [{
+            "title": [""],
+            "info": [{
+                "paragraph": "Factory registration",
+                "supparagraph": []
+              },
+              {
+                "paragraph": "Registration of basic data for tourist establishments",
+                "supparagraph": []
+              },
+              {
+                "paragraph": "Registration of basic data for dairies and milk collection centers",
+                "supparagraph": []
+              },
+              {
+                "paragraph": "Registration of basic data for storage establishments",
+                "supparagraph": []
+              },
+              {
+                "paragraph": "Registration of basic data for food importers",
+                "supparagraph": []
+              },
+              {
+                "paragraph": "Registration of basic data for mobile food vehicles",
+                "supparagraph": []
+              },
+              {
+                "paragraph": "Registration of basic data for supplier vehicles",
+                "supparagraph": []
+              }
+            ]
+          }]
         },
         {
           "servicetitle": "",
-          "info": [
-            {
-              "title": [""],
-              "info": [
-                {
-                  "paragraph": " تسجيل الاغذيه الخاصه",
-                  "supparagraph": []
-                },
-                {
-                  "paragraph": " تسجيل المصانع",
-                  "supparagraph": []
-                },
-                {
-                  "paragraph": " تسجيل في المحطات ومراكز التعبئه",
-                  "supparagraph": []
-                },
-                {
-                  "paragraph": " استخراج شهادات صلاحيه",
-                  "supparagraph": []
-                },
-                {
-                  "paragraph": " تسجيل في الشركات المانحه للشهادات الدوليه",
-                  "supparagraph": []
-                },
-                {
-                  "paragraph": " تسجيل المخازن في المنشات",
-                  "supparagraph": []
-                },
-                {
-                  "paragraph": " التسجبل في اداره الرقابه على الاسماك ومنتجات الاحياء المائيه",
-                  "supparagraph": []
-                },
-                {
-                  "paragraph": " تسجيل شركات الفحص والمطابفه للرسائل الغذائيه المستورده",
-                  "supparagraph": []
-                },
-                {
-                  "paragraph": " تسجيل سلاسل المحال التجاريه",
-                  "supparagraph": []
-                },
-                {
-                  "paragraph": " تسجيل عربات الطعام المتنقله",
-                  "supparagraph": []
-                },
-                {
-                  "paragraph": " اداره التراخيص والرقابه على المنشات السياحيه",
-                  "supparagraph": []
-                },
-                {
-                  "paragraph": " تسجيل المحالب",
-                  "supparagraph": []
-                },
-                {
-                  "paragraph": " اداره وتسجيل السلع الاستراتيجيه",
-                  "supparagraph": []
-                },
-                {
-                  "paragraph": " التسجيل بالاداره العامه للرقابه على الواردات",
-                  "supparagraph": []
-                },
-                {
-                  "paragraph": " التسجيل بالاداره العامه للرقابه على الصادرات",
-                  "supparagraph": []
-                },
-                {
-                  "paragraph": " اجراء تسجيل ومنح شهادات الفحص والمطابقه على الرسائل الغذائيه المصدره",
-                  "supparagraph": []
-                }
-              ]
-            }
-          ]
+          "info": [{
+            "title": [""],
+            "info": [{
+                "paragraph": "Registration of special foods",
+                "supparagraph": []
+              },
+              {
+                "paragraph": "Factory registration",
+                "supparagraph": []
+              },
+              {
+                "paragraph": "Registration in filling stations and centers",
+                "supparagraph": []
+              },
+              {
+                "paragraph": "Issuance of certificates of fitness",
+                "supparagraph": []
+              },
+              {
+                "paragraph": "Registration with companies issuing international certificates",
+                "supparagraph": []
+              },
+              {
+                "paragraph": "Registration of warehouses in establishments",
+                "supparagraph": []
+              },
+              {
+                "paragraph": "Registration with the Fish and Aquatic Products Control Department",
+                "supparagraph": []
+              },
+              {
+                "paragraph": "Registration of inspection companies and conformity for imported food consignments",
+                "supparagraph": []
+              },
+              {
+                "paragraph": "Registration of retail chain stores",
+                "supparagraph": []
+              },
+              {
+                "paragraph": "Registration of mobile food vehicles",
+                "supparagraph": []
+              },
+              {
+                "paragraph": "Management of licensing and supervision of tourist establishments",
+                "supparagraph": []
+              },
+              {
+                "paragraph": "Registration of dairies",
+                "supparparagraph": []
+              },
+              {
+                "paragraph": "Management and registration of strategic commodities",
+                "supparparagraph": []
+              },
+              {
+                "paragraph": "Registration with the General Administration of Import Control",
+                "supparparagraph": []
+              },
+              {
+                "paragraph": "Registration with the General Administration of Export Control",
+                "supparparagraph": []
+              },
+              {
+                "paragraph": "Conducting registration and issuing certificates of inspection and conformity for exported food consignments",
+                "supparparagraph": []
+              }
+            ]
+          }]
         }
       ]
     },
-
     {
-      "headtitle": "الشهر العقاري",
+      "headtitle": "Real Estate Registration",
       "src": "assets/images/service/shar.jpg",
-      "service": [
-        {
-          "servicetitle": "شهر شخصي",
-          "info": [
-            {
-              "title": [""],
-              "info": [
-                {
-                  "paragraph": "بيع رضائى ",
-                  "supparagraph": []
-                },
-                {
-                  "paragraph": " تسجيل حكم صحة ونفاذ واشهار ارث",
-                  "supparagraph": []
-                },
-                {
-                  "paragraph": " إنهاء منفعة",
-                  "supparagraph": []
-                },
-                {
-                  "paragraph": "بيع شقة أو وحدة من وحدات اي عقار ",
-                  "supparagraph": []
-                },
-                {
-                  "paragraph": "إنهاء وقف ",
-                  "supparagraph": []
-                },
-                {
-                  "paragraph": " تسجيل حكم مرسى مزاد",
-                  "supparagraph": []
-                },
-                {
-                  "paragraph": "تسجيل حكم تثبيت ملكية ",
-                  "supparagraph": []
-                },
-                {
-                  "paragraph": "تسجيل حكم الشفعة ",
-                  "supparagraph": []
-                },
-                {
-                  "paragraph": "تنبيه نزع الملكية ",
-                  "supparagraph": []
-                },
-                {
-                  "paragraph": " انذار الاخذ بالشفعة (اعلان الرغبة فى الاخذ بالشفعة",
-                  "supparagraph": []
-                },
-                {
-                  "paragraph": "تسجيل قسمة رضائية ",
-                  "supparagraph": []
-                },
-                {
-                  "paragraph": "طلبات التسجيل التى تستند بها ملكية صاحب الشأن إلى وضع اليد ",
-                  "supparagraph": []
-                },
-                {
-                  "paragraph": "قسمة قضائية ",
-                  "supparagraph": []
-                },
-                {
-                  "paragraph": "بيع رضائى لحق الرقابة مع حفظ حق المنفعة ",
-                  "supparagraph": []
-                },
-                {
-                  "paragraph": " اشهار هبة فى الشكل الرسمى",
-                  "supparagraph": []
-                },
-                {
-                  "paragraph": "اشهار تركات شاغرة ",
-                  "supparagraph": []
-                },
-                {
-                  "paragraph": "بيع ضائع تنظيم ",
-                  "supparagraph": []
-                },
-                {
-                  "paragraph": "تسجيل حكم اشهار افلاس ",
-                  "supparagraph": []
-                },
-                {
-                  "paragraph": "عقد ايجار ",
-                  "supparagraph": []
-                },
-                {
-                  "paragraph": "صورة رسمية من المحرر ",
-                  "supparagraph": []
-                }
-              ]
-            }
-          ]
+      "service": [{
+          "servicetitle": "Personal Registration",
+          "info": [{
+            "title": [""],
+            "info": [{
+                "paragraph": "Voluntary sale",
+                "supparagraph": []
+              },
+              {
+                "paragraph": "Registration of a ruling on the validity and enforceability and declaration of inheritance",
+                "supparagraph": []
+              },
+              {
+                "paragraph": "Termination of usufruct",
+                "supparagraph": []
+              },
+              {
+                "paragraph": "Sale of an apartment or unit of any real estate",
+                "supparagraph": []
+              },
+              {
+                "paragraph": "Termination of a waqf (endowment)",
+                "supparagraph": []
+              },
+              {
+                "paragraph": "Registration of a ruling on auction results",
+                "supparparagraph": []
+              },
+              {
+                "paragraph": "Registration of a ruling confirming ownership",
+                "supparparagraph": []
+              },
+              {
+                "paragraph": "Registration of a ruling on the right of pre-emption",
+                "supparparagraph": []
+              },
+              {
+                "paragraph": "Notification of expropriation",
+                "supparparagraph": []
+              },
+              {
+                "paragraph": "Notice of the right of pre-emption (announcement of intent to exercise the right of pre-emption)",
+                "supparparagraph": []
+              },
+              {
+                "paragraph": "Registration of voluntary partition",
+                "supparparagraph": []
+              },
+              {
+                "paragraph": "Requests for registration based on ownership by possession",
+                "supparparagraph": []
+              },
+              {
+                "paragraph": "Judicial partition",
+                "supparparagraph": []
+              },
+              {
+                "paragraph": "Voluntary sale of the right of control with the preservation of the usufruct",
+                "supparparagraph": []
+              },
+              {
+                "paragraph": "Declaration of a gift in the official format",
+                "supparparagraph": []
+              },
+              {
+                "paragraph": "Declaration of vacant estates",
+                "supparparagraph": []
+              },
+              {
+                "paragraph": "Disorganized sale",
+                "supparparagraph": []
+              },
+              {
+                "paragraph": "Registration of a ruling declaring bankruptcy",
+                "supparparagraph": []
+              },
+              {
+                "paragraph": "Lease contract",
+                "supparparagraph": []
+              },
+              {
+                "paragraph": "Official copy of the document",
+                "supparparagraph": []
+              }
+            ]
+          }]
         },
         {
-          "servicetitle": "التوثيق",
-          "info": [
-            {
-              "title": [""],
-              "info": [
-                {
-                  "paragraph": "تحرير توكيل رسمى عام شامل (عام + بنوك) ",
-                  "supparagraph": []
-                },
-                {
-                  "paragraph": " تحرير توكيل رسمى عام",
-                  "supparagraph": []
-                },
-                {
-                  "paragraph": "تحرير توكيل رسمى عام فى القضايا ",
-                  "supparagraph": []
-                },
-                {
-                  "paragraph": "تحرير توكيل رسمى عام فى الضرائب ",
-                  "supparagraph": []
-                },
-                {
-                  "paragraph": "تحرير توكيل رسمى عام فى الرهن العقارى ",
-                  "supparagraph": []
-                },
-                {
-                  "paragraph": "تحرير  توكيل رسمى عام فى صرف المعاش",
-                  "supparagraph": []
-                },
-                {
-                  "paragraph": "تحرير توكيل فى الامور الزوجية ",
-                  "supparagraph": []
-                },
-                {
-                  "paragraph": "تحرير توكيل عام مخصص ",
-                  "supparagraph": []
-                },
-                {
-                  "paragraph": "تحرير عقد ايجار رسمى فى الشكل الرسمى ",
-                  "supparagraph": []
-                },
-                {
-                  "paragraph": "تحرير  محضر ايداع رسمى",
-                  "supparagraph": []
-                },
-                {
-                  "paragraph": "تحرير عقد بيع سيارة ",
-                  "supparagraph": []
-                },
-                {
-                  "paragraph": "تحرير توكيل خاص بادارة سيارة ",
-                  "supparagraph": []
-                },
-                {
-                  "paragraph": "تحرير توكيل خاص بيع سيارة ",
-                  "supparagraph": []
-                },
-                {
-                  "paragraph": "تحرير  محضر تصالح",
-                  "supparagraph": []
-                },
-                {
-                  "paragraph": "تحرير شهادة خبرة ",
-                  "supparagraph": []
-                },
-                {
-                  "paragraph": "تحرير اثبات تاريخ ",
-                  "supparagraph": []
-                },
-                {
-                  "paragraph": "تحرير شهادة من محضر التصديق ",
-                  "supparagraph": []
-                },
-                {
-                  "paragraph": "تحرير  شهادة من دفتر ايصال سداد الرسوم",
-                  "supparagraph": []
-                },
-                {
-                  "paragraph": "تحرير اقرار بالشهادة ",
-                  "supparagraph": []
-                },
-                {
-                  "paragraph": "تحرير  طلب اطلاع",
-                  "supparagraph": []
-                },
-                {
-                  "paragraph": " التأشير على السجلات التجارية ",
-                  "supparagraph": []
-                },
-                {
-                  "paragraph": "تحرير  توكيل رسمى عام بالصفة من سجل تجارى",
-                  "supparagraph": []
-                },
-                {
-                  "paragraph": "تحرير  توكيل رسمى عام بالصفة من توكيل رسمى عام",
-                  "supparagraph": []
-                },
-                {
-                  "paragraph": "تحرير توكيل خاص بالصفة من توكيل رسمى عام ",
-                  "supparagraph": []
-                },
-                {
-                  "paragraph": "تحرير  اقرار بالتصالح",
-                  "supparagraph": []
-                }
-              ]
-            }
-          ]
+          "servicetitle": "Documentation",
+          "info": [{
+            "title": [""],
+            "info": [{
+                "paragraph": "Drafting a general power of attorney (General + Banks)",
+                "supparparagraph": []
+              },
+              {
+                "paragraph": "Drafting a general power of attorney",
+                "supparparagraph": []
+              },
+              {
+                "paragraph": "Drafting a general power of attorney for litigation",
+                "supparparagraph": []
+              },
+              {
+                "paragraph": "Drafting a general power of attorney for taxes",
+                "supparparagraph": []
+              },
+              {
+                "paragraph": "Drafting a general power of attorney for real estate mortgages",
+                "supparparagraph": []
+              },
+              {
+                "paragraph": "Drafting a general power of attorney for pension withdrawal",
+                "supparparagraph": []
+              },
+              {
+                "paragraph": "Drafting a power of attorney for marital matters",
+                "supparparagraph": []
+              },
+              {
+                "paragraph": "Drafting a specific power of attorney",
+                "supparparagraph": []
+              },
+              {
+                "paragraph": "Drafting an official lease contract",
+                "supparparagraph": []
+              },
+              {
+                "paragraph": "Drafting an official deposit report",
+                "supparparagraph": []
+              },
+              {
+                "paragraph": "Drafting a car sale contract",
+                "supparparagraph": []
+              },
+              {
+                "paragraph": "Drafting a power of attorney for car management",
+                "supparparagraph": []
+              },
+              {
+                "paragraph": "Drafting a power of attorney for car sale",
+                "supparparagraph": []
+              },
+              {
+                "paragraph": "Drafting a reconciliation report",
+                "supparparagraph": []
+              },
+              {
+                "paragraph": "Drafting a certificate of experience",
+                "supparparagraph": []
+              },
+              {
+                "paragraph": "Drafting a historical evidence document",
+                "supparparagraph": []
+              },
+              {
+                "paragraph": "Drafting a certificate from the notary public",
+                "supparparagraph": []
+              },
+              {
+                "paragraph": "Drafting a certificate from the payment receipt book",
+                "supparparagraph": []
+              },
+              {
+                "paragraph": "Drafting an affidavit",
+                "supparparagraph": []
+              },
+              {
+                "paragraph": "Drafting a request for access",
+                "supparparagraph": []
+              },
+              {
+                "paragraph": "Making annotations on commercial registers",
+                "supparparagraph": []
+              },
+              {
+                "paragraph": "Drafting a general power of attorney from a commercial register",
+                "supparparagraph": []
+              },
+              {
+                "paragraph": "Drafting a general power of attorney from a general power of attorney",
+                "supparparagraph": []
+              },
+              {
+                "paragraph": "Drafting a specific power of attorney from a general power of attorney",
+                "supparparagraph": []
+              },
+              {
+                "paragraph": "Drafting an acknowledgment of reconciliation",
+                "supparparagraph": []
+              }
+            ]
+          }]
         },
         {
-          "servicetitle": "سجل عيني زراعي",
-          "info": [
-            {
-              "title": [""],
-              "info": [
-                {
-                  "paragraph": "تسجيل و توثيق سجل عيني زراعي ",
-                  "supparagraph": []
-                }
-              ]
-            }
-          ]
+          "servicetitle": "Agricultural Land Registration",
+          "info": [{
+            "title": [""],
+            "info": [{
+              "paragraph": "Registration and documentation of agricultural land records",
+              "supparparagraph": []
+            }]
+          }]
         },
         {
-          "servicetitle": "سجل عيني حضري",
-          "info": [
-            {
-              "title": [""],
-              "info": [
-                {
-                  "paragraph": "تسجيل و توثيق سجل عيني حضري ",
-                  "supparagraph": []
-                }
-              ]
-            }
-          ]
+          "servicetitle": "Urban Land Registration",
+          "info": [{
+            "title": [""],
+            "info": [{
+              "paragraph": "Registration and documentation of urban land records",
+              "supparparagraph": []
+            }]
+          }]
         },
         {
-          "servicetitle": "المستخرجات ",
-          "info": [
-            {
-              "title": [""],
-              "info": [
-                {
-                  "paragraph": "استخراج صوره رسميه من مشهر  ",
-                  "supparagraph": []
-                },
-                {
-                  "paragraph": "استخراج صوره رسميه من كتاب دوري ",
-                  "supparagraph": []
-                },
-                {
-                  "paragraph": "استخراج صوره رسميه من شهاده عقاريه  ",
-                  "supparagraph": []
-                },
-                {
-                  "paragraph": "استخراج صوره رسميه من منشور مالي  ",
-                  "supparagraph": []
-                },
-                {
-                  "paragraph": "استخراج صوره رسميه من منشور فني  ",
-                  "supparagraph": []
-                },
-                {
-                  "paragraph": "استخراج صوره رسميه من طلب شهر عقاري - نوع التعامل بيع  ",
-                  "supparagraph": []
-                },
-                {
-                  "paragraph": "الاستعلام عن موقف طلب   ",
-                  "supparagraph": []
-                }
-              ]
-            }
-          ]
+          "servicetitle": "Extracts",
+          "info": [{
+            "title": [""],
+            "info": [{
+                "paragraph": "Extract an official copy of the declaration",
+                "supparparagraph": []
+              },
+              {
+                "paragraph": "Extract an official copy of a circular",
+                "supparparagraph": []
+              },
+              {
+                "paragraph": "Extract an official copy of a real estate certificate",
+                "supparparagraph": []
+              },
+              {
+                "paragraph": "Extract an official copy of a financial bulletin",
+                "supparparagraph": []
+              },
+              {
+                "paragraph": "Extract an official copy of a technical bulletin",
+                "supparparagraph": []
+              },
+              {
+                "paragraph": "Extract an official copy of a real estate registration request - type of transaction: Sale",
+                "supparparagraph": []
+              },
+              {
+                "paragraph": "Inquire about the status of a request",
+                "supparparagraph": []
+              }
+            ]
+          }]
         }
       ]
     },
-
     {
-      "headtitle": "الهيئة العامة للرقابه على الصادارات والواردات",
+      "headtitle": "General Authority for Export and Import Control",
       "src": "assets/images/service/goe.png",
-      "service": [
-        {
-          "servicetitle": " خدمات التسجبل التجاريه",
-          "info": [
-            {
-              "title": [""],
-              "info": [
-                {
-                  "paragraph": " تسجيل المصدرين ",
-                  "supparagraph": []
-                },
-                {
-                  "paragraph": " تسجيل المستوردين ",
-                  "supparagraph": []
-                },
-                {
-                  "paragraph": " تسجيل الوكلاء",
-                  "supparagraph": []
-                },
-                {
-                  "paragraph": " تسجيل المكاتب الاجنبيه",
-                  "supparagraph": []
-                },
-                {
-                  "paragraph": " تسجيل مستلزمات الانتاج",
-                  "supparagraph": []
-                },
-                {
-                  "paragraph": "  تسجيل وكالات الدعايه والاعلان والتسويق",
-                  "supparagraph": []
-                },
-                {
-                  "paragraph": " تسجيل الوسطاء العقارين ",
-                  "supparagraph": []
-                },
-                {
-                  "paragraph": " تسجيل في الواردات الصناعيه ",
-                  "supparagraph": []
-                },
-                {
-                  "paragraph": " تسجيل في الواردات الغير صناعيه ",
-                  "supparagraph": []
-                },
-                {
-                  "paragraph": " تسجيل المصانع ",
-                  "supparagraph": []
-                }
-              ]
-            }
-          ]
+      "service": [{
+          "servicetitle": "Commercial Registration Services",
+          "info": [{
+            "title": [""],
+            "info": [{
+                "paragraph": "Registration of exporters",
+                "supparparagraph": []
+              },
+              {
+                "paragraph": "Registration of importers",
+                "supparparagraph": []
+              },
+              {
+                "paragraph": "Registration of agents",
+                "supparparagraph": []
+              },
+              {
+                "paragraph": "Registration of foreign offices",
+                "supparparagraph": []
+              },
+              {
+                "paragraph": "Registration of production requirements",
+                "supparparagraph": []
+              },
+              {
+                "paragraph": "Registration of advertising, marketing, and promotion agencies",
+                "supparparagraph": []
+              },
+              {
+                "paragraph": "Registration of real estate brokers",
+                "supparparagraph": []
+              },
+              {
+                "paragraph": "Registration in industrial imports",
+                "supparparagraph": []
+              },
+              {
+                "paragraph": "Registration in non-industrial imports",
+                "supparparagraph": []
+              },
+              {
+                "paragraph": "Registration of factories",
+                "supparparagraph": []
+              }
+            ]
+          }]
         },
         {
-          "servicetitle": "المساعده في منح شهادات المطابقه",
-          "info": [
-            {
-              "title": [""],
-              "info": [
-                {
-                  "paragraph": " GCTC",
-                  "supparagraph": []
-                },
-                {
-                  "paragraph": " TCR for Gas appliances ",
-                  "supparagraph": []
-                },
-                {
-                  "paragraph": " TCR for Textile products",
-                  "supparagraph": []
-                },
-                {
-                  "paragraph": " TCR for Shoes and their accessories",
-                  "supparagraph": []
-                },
-                {
-                  "paragraph": " TCR for Leather products",
-                  "supparagraph": []
-                },
-                {
-                  "paragraph": " TCR for Degradable plastics",
-                  "supparagraph": []
-                },
-                {
-                  "paragraph": " TCR for Electric Batteries",
-                  "supparagraph": []
-                },
-                {
-                  "paragraph": " TCR for food safety tools",
-                  "supparagraph": []
-                },
-                {
-                  "paragraph": " TCR for paper system",
-                  "supparagraph": []
-                }
-              ]
-            }
-          ]
+          "servicetitle": "Assistance in Issuing Compliance Certificates",
+          "info": [{
+            "title": [""],
+            "info": [{
+                "paragraph": "GCTC",
+                "supparparagraph": []
+              },
+              {
+                "paragraph": "TCR for Gas appliances",
+                "supparparagraph": []
+              },
+              {
+                "paragraph": "TCR for Textile products",
+                "supparparagraph": []
+              },
+              {
+                "paragraph": "TCR for Shoes and their accessories",
+                "supparparagraph": []
+              },
+              {
+                "paragraph": "TCR for Leather products",
+                "supparparagraph": []
+              },
+              {
+                "paragraph": "TCR for Degradable plastics",
+                "supparparagraph": []
+              },
+              {
+                "paragraph": "TCR for Electric Batteries",
+                "supparparagraph": []
+              },
+              {
+                "paragraph": "TCR for food safety tools",
+                "supparparagraph": []
+              },
+              {
+                "paragraph": "TCR for paper system",
+                "supparparagraph": []
+              }
+            ]
+          }]
         }
       ]
     },
 
     {
-      "headtitle": "الاداره العامه للدفاع المدني",
+      "headtitle": "General Administration of Civil Defense",
       "src": "assets/images/service/defaa.jpg",
-      "service": [
-        {
-          "servicetitle": "",
-          "info": [
-            {
-              "title": [""],
-              "info": [
-                {
-                  "paragraph": "استخراج كافه التصاريح و موافقات الدفاع المدني",
-                  "supparagraph": []
-                }
-              ]
-            }
-          ]
-        }
-      ]
+      "service": [{
+        "servicetitle": "",
+        "info": [{
+          "title": [""],
+          "info": [{
+            "paragraph": "Issuance of all Civil Defense permits and approvals",
+            "supparparagraph": []
+          }]
+        }]
+      }]
     },
-
     {
-      "headtitle": "وزاره البيئه",
+      "headtitle": "Ministry of Environment",
       "src": "assets/images/service/beaa.png",
-      "service": [
-        {
-          "servicetitle": " تقيم التاثير البيئي",
-          "info": [
-            {
-              "title": [""],
-              "info": [
-                {
-                  "paragraph": "التقديم من خلال هيئه العامه للاستثمار",
-                  "supparagraph": []
-                }
-              ]
-            }
-          ]
+      "service": [{
+          "servicetitle": "Environmental Impact Assessment",
+          "info": [{
+            "title": [""],
+            "info": [{
+              "paragraph": "Submission through the General Investment Authority",
+              "supparagraph": []
+            }]
+          }]
         },
         {
-          "servicetitle": "التمويل والدعم",
-          "info": [
-            {
-              "title": [""],
-              "info": [
-                {
-                  "paragraph": "التقديم علي دعم صندوق حمايه البيئه",
-                  "supparagraph": []
-                },
-                {
-                  "paragraph": "التقديم على دعم مشروع التحكم في التلوث الصناعي",
-                  "supparagraph": []
-                }
-              ]
-            }
-          ]
+          "servicetitle": "Funding and Support",
+          "info": [{
+            "title": [""],
+            "info": [{
+                "paragraph": "Apply for support from the Environmental Protection Fund",
+                "supparagraph": []
+              },
+              {
+                "paragraph": "Apply for support for the Industrial Pollution Control Project",
+                "supparparagraph": []
+              }
+            ]
+          }]
         },
         {
-          "servicetitle": "التفتيش والالتزام البيئي",
-          "info": [
-            {
-              "title": [""],
-              "info": [
-                {
-                  "paragraph": "التقديم على اجراءات التصالح",
-                  "supparagraph": []
-                },
-                {
-                  "paragraph": "التقديم على خطه الاصحاح البيئي",
-                  "supparagraph": []
-                },
-                {
-                  "paragraph": " متابعه لمخالفات القانون",
-                  "supparagraph": []
-                }
-              ]
-            }
-          ]
+          "servicetitle": "Environmental Inspection and Compliance",
+          "info": [{
+            "title": [""],
+            "info": [{
+                "paragraph": "Apply for settlement procedures",
+                "supparparagraph": []
+              },
+              {
+                "paragraph": "Apply for the environmental sanitation plan",
+                "supparparagraph": []
+              },
+              {
+                "paragraph": "Follow up on legal violations",
+                "supparparagraph": []
+              }
+            ]
+          }]
         },
         {
-          "servicetitle": "تراخيص الاعمال البيئيه",
-          "info": [
-            {
-              "title": [""],
-              "info": [
-                {
-                  "paragraph": "التقديم واستخراج كافه التراخيص البيئيه",
-                  "supparagraph": []
-                }
-              ]
-            }
-          ]
+          "servicetitle": "Environmental Activity Licenses",
+          "info": [{
+            "title": [""],
+            "info": [{
+              "paragraph": "Apply for and issue all environmental licenses",
+              "supparparagraph": []
+            }]
+          }]
         },
         {
-          "servicetitle": " تداول الفحم",
-          "info": [
-            {
-              "title": [""],
-              "info": [
-                {
-                  "paragraph": "التقديم على اجراءات تداول الفحم الحجري",
-                  "supparagraph": []
-                },
-                {
-                  "paragraph": "التقديم على اجراءات تداول الفحم البترولي",
-                  "supparagraph": []
-                },
-                {
-                  "paragraph": "التقديم على اجراءات تداول الفحم النباتي",
-                  "supparagraph": []
-                }
-              ]
-            }
-          ]
+          "servicetitle": "Coal Handling",
+          "info": [{
+            "title": [""],
+            "info": [{
+                "paragraph": "Apply for procedures for handling coal",
+                "supparparagraph": []
+              },
+              {
+                "paragraph": "Apply for procedures for handling petroleum coke",
+                "supparparagraph": []
+              },
+              {
+                "paragraph": "Apply for procedures for handling charcoal",
+                "supparparagraph": []
+              }
+            ]
+          }]
         },
         {
-          "servicetitle": " المحميات",
-          "info": [
-            {
-              "title": [""],
-              "info": [
-                {
-                  "paragraph": "تقديم على طلب تصريح ممارسه نشاط داخل المحميات",
-                  "supparagraph": []
-                }
-              ]
-            }
-          ]
+          "servicetitle": "Protected Areas",
+          "info": [{
+            "title": [""],
+            "info": [{
+              "paragraph": "Apply for a permit to conduct activities inside protected areas",
+              "supparparagraph": []
+            }]
+          }]
         },
         {
-          "servicetitle": "المخلفات",
-          "info": [
-            {
-              "title": [""],
-              "info": [
-                {
-                  "paragraph": "التقديم على تراخيص انشطه ومخلفات المواد الخطره",
-                  "supparagraph": []
-                },
-                {
-                  "paragraph": "تسجيل بيانات العاملين بمنظومه تدوير المخلفات",
-                  "supparagraph": []
-                }
-              ]
-            }
-          ]
+          "servicetitle": "Waste Management",
+          "info": [{
+            "title": [""],
+            "info": [{
+                "paragraph": "Apply for licenses for hazardous material waste activities",
+                "supparparagraph": []
+              },
+              {
+                "paragraph": "Register workers' data in the waste recycling system",
+                "supparparagraph": []
+              }
+            ]
+          }]
         }
       ]
     },
 
     {
-      "headtitle": "الهيئه العامه للرقابه الماليه",
+      "headtitle": "General Authority for Financial Supervision",
       "src": "assets/images/service/money.jpg",
-      "service": [
-        {
-          "servicetitle": " التسجيل و التراخيص",
-          "info": [
-            {
-              "title": [""],
-              "info": [
-                {
-                  "paragraph": "تسجيل و ترخيص شركات سوق المال",
-                  "supparagraph": []
-                },
-                {
-                  "paragraph": "تسجيل و ترخيص في مجالات التمويل",
-                  "supparagraph": []
-                },
-                {
-                  "paragraph": "تسجيل و ترخيصفي مجالات التامين",
-                  "supparagraph": []
-                },
-                {
-                  "paragraph": "تسجيل و ترخيص مراقبي الحسابات",
-                  "supparagraph": []
-                },
-                {
-                  "paragraph": "تسجيل و ترخيص اعضاء لجان الرقابه الشرعيه",
-                  "supparagraph": []
-                },
-                {
-                  "paragraph": "تسجيل و ترخيص مهنين سوق المال",
-                  "supparagraph": []
-                },
-                {
-                  "paragraph": "تسجيل و ترخيص اعضاء مجلس الاداره",
-                  "supparagraph": []
-                },
-                {
-                  "paragraph": "تسجيل الشركات العامله",
-                  "supparagraph": []
-                },
-                {
-                  "paragraph": "تسجيل صناديق التامين الخاصه",
-                  "supparagraph": []
-                },
-                {
-                  "paragraph": "لدينا خبراء في اعاده تقييم الاصول",
-                  "supparagraph": []
-                },
-                {
-                  "paragraph": "تسجيل و ترخيص مزاوله الانشطه الغير مصرفيه",
-                  "supparagraph": []
-                }
-              ]
-            }
-          ]
+      "service": [{
+          "servicetitle": "Registration and Licensing",
+          "info": [{
+            "title": [""],
+            "info": [{
+                "paragraph": "Register and license capital market companies",
+                "supparparagraph": []
+              },
+              {
+                "paragraph": "Register and license in the finance sector",
+                "supparparagraph": []
+              },
+              {
+                "paragraph": "Register and license in the insurance sector",
+                "supparparagraph": []
+              },
+              {
+                "paragraph": "Register and license auditors",
+                "supparparagraph": []
+              },
+              {
+                "paragraph": "Register and license members of Shariah compliance committees",
+                "supparparagraph": []
+              },
+              {
+                "paragraph": "Register and license financial market professionals",
+                "supparparagraph": []
+              },
+              {
+                "paragraph": "Register and license board members",
+                "supparparagraph": []
+              },
+              {
+                "paragraph": "Register operating companies",
+                "supparparagraph": []
+              },
+              {
+                "paragraph": "Register private insurance funds",
+                "supparparagraph": []
+              },
+              {
+                "paragraph": "We have experts in asset revaluation",
+                "supparparagraph": []
+              },
+              {
+                "paragraph": "Register and license non-banking activities",
+                "supparparagraph": []
+              }
+            ]
+          }]
         },
         {
-          "servicetitle": "سجلات وتحديث بيانات شركات و جهات",
-          "info": [
-            {
-              "title": [""],
-              "info": [
-                {
-                  "paragraph": "سجلات لشركات سوق المال",
-                  "supparagraph": []
-                },
-                {
-                  "paragraph": "سجلات لشركات التمويل",
-                  "supparagraph": []
-                },
-                {
-                  "paragraph": "سجلات صناديق وشركات التامين",
-                  "supparagraph": []
-                }
-              ]
-            }
-          ]
+          "servicetitle": "Company and Entity Record and Data Updates",
+          "info": [{
+            "title": [""],
+            "info": [{
+                "paragraph": "Capital market company records",
+                "supparparagraph": []
+              },
+              {
+                "paragraph": "Finance company records",
+                "supparparagraph": []
+              },
+              {
+                "paragraph": "Insurance funds and company records",
+                "supparparagraph": []
+              }
+            ]
+          }]
         },
         {
-          "servicetitle": "سجلات وتحديث بيانات سجلات مهنيين",
-          "info": [
-            {
-              "title": [""],
-              "info": [
-                {
-                  "paragraph": "سجلات مراقبي الحسابات",
-                  "supparagraph": []
-                },
-                {
-                  "paragraph": "سجلات اعضاء لجان الرقابه الشرعيه",
-                  "supparagraph": []
-                },
-                {
-                  "paragraph": "سجلات في مجالات سوق المال",
-                  "supparagraph": []
-                },
-                {
-                  "paragraph": "سجلات في مجالات التامين",
-                  "supparagraph": []
-                },
-                {
-                  "paragraph": "سجلات في مجالات التمويل",
-                  "supparagraph": []
-                }
-              ]
-            }
-          ]
+          "servicetitle": "Professional Records and Data Updates",
+          "info": [{
+            "title": [""],
+            "info": [{
+                "paragraph": "Auditors records",
+                "supparparagraph": []
+              },
+              {
+                "paragraph": "Shariah compliance committee members' records",
+                "supparparagraph": []
+              },
+              {
+                "paragraph": "Capital market sector records",
+                "supparparagraph": []
+              },
+              {
+                "paragraph": "Insurance sector records",
+                "supparparagraph": []
+              },
+              {
+                "paragraph": "Finance sector records",
+                "supparparagraph": []
+              }
+            ]
+          }]
         },
         {
-          "servicetitle": "تراخيص الاعمال البيئيه",
-          "info": [
-            {
-              "title": [""],
-              "info": [
-                {
-                  "paragraph": "التقديم واستخراج كافه التراخيص البيئيه",
-                  "supparagraph": []
-                }
-              ]
-            }
-          ]
+          "servicetitle": "Environmental Business Licenses",
+          "info": [{
+            "title": [""],
+            "info": [{
+              "paragraph": "Apply for and issue all environmental licenses",
+              "supparparagraph": []
+            }]
+          }]
         }
       ]
     },
 
     {
-      "headtitle": "اتحاد الصناعات المصريه",
+      "headtitle": "Egyptian Federation of Industries",
       "src": "assets/images/service/ethad.png",
-      "service": [
-        {
-          "servicetitle": " تسجيل الشركات و المنشات في الغرف التاليه ",
-          "info": [
+      "service": [{
+        "servicetitle": "Registering companies and establishments in the following chambers",
+        "info": [{
+          "title": [""],
+          "info": [{
+              "paragraph": "Register factories and establishments in the Food Industries Chamber",
+              "supparparagraph": []
+            },
             {
-              "title": [""],
-              "info": [
-                {
-                  "paragraph": "تسجيل المصانع والمنشاه في غرفه الصناعات الغذائيه ",
-                  "supparagraph": []
-                },
-                {
-                  "paragraph": "تسجيل المصانع والمنشاه في غرفه صناعه الاخشاب والاثاث",
-                  "supparagraph": []
-                },
-                {
-                  "paragraph": "تسجيل المصانع والمنشاه في غرفه صناعات الادويه ومستحضرات التجميل",
-                  "supparagraph": []
-                },
-                {
-                  "paragraph": "تسجيل المصانع والمنشاه في غرفه صناعات البترول والتعدين",
-                  "supparagraph": []
-                },
-                {
-                  "paragraph": "تسجيل المصانع والمنشاه في غرفه صناعات الطباعه والتغليف",
-                  "supparagraph": []
-                },
-                {
-                  "paragraph": "تسجيل المصانع والمنشاه في غرفه صناعه تكنولوجيا المعلومات",
-                  "supparagraph": []
-                },
-                {
-                  "paragraph": "تسجيل المصانع والمنشاه في غرفه دباغه الجلود",
-                  "supparagraph": []
-                },
-                {
-                  "paragraph": "تسجيل المصانع والمنشاه في غرفه صناعه السينما",
-                  "supparagraph": []
-                },
-                {
-                  "paragraph": "تسجيل المصانع والمنشاه في غرفه الرعايه الصحيه",
-                  "supparagraph": []
-                },
-                {
-                  "paragraph": "تسجيل المصانع والمنشاه في غرفه الصناعات الكيماويه",
-                  "supparagraph": []
-                },
-                {
-                  "paragraph": "تسجيل المصانع والمنشاه في غرفه الصناعات المعدنيه",
-                  "supparagraph": []
-                },
-                {
-                  "paragraph": "تسجيل المصانع والمنشاه في غرفه الصناعات الهندسيه",
-                  "supparagraph": []
-                },
-                {
-                  "paragraph": "تسجيل المصانع والمنشاه في غرفه الصناعات النسجيه",
-                  "supparagraph": []
-                },
-                {
-                  "paragraph": "تسجيل المصانع والمنشاه في غرفه صناعه الملابس الجاهزه",
-                  "supparagraph": []
-                },
-                {
-                  "paragraph": "تسجيل المصانع والمنشاه في غرفه صناعت الجلود",
-                  "supparagraph": []
-                },
-                {
-                  "paragraph": "تسجيل المصانع والمنشاه في غرفه صناعه الحبوب ومنتجاتها",
-                  "supparagraph": []
-                },
-                {
-                  "paragraph": "تسجيل المصانع والمنشاه في غرفه صناعه موادالبناء",
-                  "supparagraph": []
-                },
-                {
-                  "paragraph": "تسجيل المصانع والمنشاه في غرفه التطوير العقاري",
-                  "supparagraph": []
-                },
-                {
-                  "paragraph": "تسجيل المصانع والمنشاه في غرفه صناعه الحرف اليدويه",
-                  "supparagraph": []
-                }
-              ]
+              "paragraph": "Register factories and establishments in the Wood and Furniture Industries Chamber",
+              "supparparagraph": []
+            },
+            {
+              "paragraph": "Register factories and establishments in the Pharmaceutical and Cosmetics Industries Chamber",
+              "supparparagraph": []
+            },
+            {
+              "paragraph": "Register factories and establishments in the Petroleum and Mining Industries Chamber",
+              "supparparagraph": []
+            },
+            {
+              "paragraph": "Register factories and establishments in the Printing and Packaging Industries Chamber",
+              "supparparagraph": []
+            },
+            {
+              "paragraph": "Register factories and establishments in the Information Technology Industries Chamber",
+              "supparparagraph": []
+            },
+            {
+              "paragraph": "Register factories and establishments in the Leather Tanning Chamber",
+              "supparparagraph": []
+            },
+            {
+              "paragraph": "Register factories and establishments in the Cinema Industries Chamber",
+              "supparparagraph": []
+            },
+            {
+              "paragraph": "Register factories and establishments in the Healthcare Chamber",
+              "supparparagraph": []
+            },
+            {
+              "paragraph": "Register factories and establishments in the Chemical Industries Chamber",
+              "supparparagraph": []
+            },
+            {
+              "paragraph": "Register factories and establishments in the Metal Industries Chamber",
+              "supparparagraph": []
+            },
+            {
+              "paragraph": "Register factories and establishments in the Engineering Industries Chamber",
+              "supparparagraph": []
+            },
+            {
+              "paragraph": "Register factories and establishments in the Textile Industries Chamber",
+              "supparparagraph": []
+            },
+            {
+              "paragraph": "Register factories and establishments in the Ready-made Garments Industries Chamber",
+              "supparparagraph": []
+            },
+            {
+              "paragraph": "Register factories and establishments in the Leather Industries Chamber",
+              "supparparagraph": []
+            },
+            {
+              "paragraph": "Register factories and establishments in the Grain and Its Products Industries Chamber",
+              "supparparagraph": []
+            },
+            {
+              "paragraph": "Register factories and establishments in the Construction Materials Industries Chamber",
+              "supparparagraph": []
+            },
+            {
+              "paragraph": "Register factories and establishments in the Real Estate Development Chamber",
+              "supparparagraph": []
+            },
+            {
+              "paragraph": "Register factories and establishments in the Handicrafts Industries Chamber",
+              "supparparagraph": []
             }
           ]
-        }
-      ]
+        }]
+      }]
     },
 
     {
-      "headtitle": "شهادات الايزو",
+      "headtitle": "ISO Certifications",
       "src": "assets/images/service/iso.jpg",
-      "service": [
-        {
-          "servicetitle": "استخراج جميع شهادات الايزو ",
-          "info": [
+      "service": [{
+        "servicetitle": "Issuing all ISO certifications",
+        "info": [{
+          "title": [""],
+          "info": [{
+              "paragraph": "Quality Management System (QMS) according to ISO 9001",
+              "supparparagraph": []
+            },
             {
-              "title": [""],
-              "info": [
-                {
-                  "paragraph": " مواصفة إدارة الجودة QMS طبقاً للمواصفة  ISO 9001",
-                  "supparagraph": []
-                },
-                {
-                  "paragraph": "مواصفة إدارة البيئة EMS طبقاً للمواصفة  ISO 14001 ",
-                  "supparagraph": []
-                },
-                {
-                  "paragraph": "مواصفة إدارة سلامة الغذاء FSMS طبقاً للمواصفة  ISO 22000 ",
-                  "supparagraph": []
-                },
-                {
-                  "paragraph": " مواصفة إدارة السلامة والصحة المهنية OH&S  طبقاً للمواصفة ISO 45001",
-                  "supparagraph": []
-                },
-                {
-                  "paragraph": " مواصفة إدارة السلامة والصحة المهنية OH&S  طبقاً للمواصفة  OHSAS 18001",
-                  "supparagraph": []
-                },
-                {
-                  "paragraph": " مواصفة إدارة الطاقة EnMS طبقاً للمواصفة  ISO 50001",
-                  "supparagraph": []
-                },
-                {
-                  "paragraph": " مواصفة إدارة أمن المعلومات ISMS طبقاً للمواصفة  ISO 27001",
-                  "supparagraph": []
-                },
-                {
-                  "paragraph": "مواصفة إدارة الجودة للصناعات والأجهزة الطبية طبقاً للمواصفة  ISO 13485 ",
-                  "supparagraph": []
-                },
-                {
-                  "paragraph": " مواصفة إدارة إستمرارية الأعمال BCMS طبقاً للمواصفة  ISO 22301",
-                  "supparagraph": []
-                },
-                {
-                  "paragraph": " مواصفة إدارة مخاطر الاعمال طبقاً للمواصفة  ISO 31000",
-                  "supparagraph": []
-                },
-                {
-                  "paragraph": "مواصفة إدارة المنظمات التعليمية طبقاً للمواصفة  ISO 21001 ",
-                  "supparagraph": []
-                },
-                {
-                  "paragraph": "مواصفة إدارة رضاء العملاء طبقاً للمواصفة ISO 10002 ",
-                  "supparagraph": []
-                },
-                {
-                  "paragraph": "مواصفة إدارة المسؤولية المجتمعية طبقاً للمواصفة  ISO 26000 ",
-                  "supparagraph": []
-                },
-                {
-                  "paragraph": "مواصفة إدارة المسؤولية الإجتماعية طبقاً للمواصفة  SA 8000 ",
-                  "supparagraph": []
-                },
-                {
-                  "paragraph": "مواصفة إدارة الجودة فى المشاريع طبقاً للمواصفة ISO 10006 ",
-                  "supparagraph": []
-                },
-                {
-                  "paragraph": "مواصفة تطبيق مواصفة ISO 9001 فى الإدارات المحلية “البلديات، الأمانات … الخ” طبقاً للمواصفة ISO 18091 ",
-                  "supparagraph": []
-                },
-                {
-                  "paragraph": " مواصفة ادارة المرافق ISO 41001",
-                  "supparagraph": []
-                },
-                {
-                  "paragraph": " مواصفة ادارة مكافحة الفسادة والرشوة ISO 37001",
-                  "supparagraph": []
-                },
-                {
-                  "paragraph": " مواصفة ادارة مقدمي خدمات التعليم والتدريب ISO 29990",
-                  "supparagraph": []
-                },
-                {
-                  "paragraph": "مواصفة نظام جودة وكفاءة المختبرات ISO 17025 ",
-                  "supparagraph": []
-                },
-                {
-                  "paragraph": "مواصفة تقويم المطابقة لجهات الفحص والتفتيش ISO 17020 ",
-                  "supparagraph": []
-                },
-                {
-                  "paragraph": " مواصفة نظام إدارة الامتثال ISO 37301",
-                  "supparagraph": []
-                },
-                {
-                  "paragraph": " مواصفة تقويم المطابقة لجهات منح شهادات الأفراد ISO 17024",
-                  "supparagraph": []
-                }
-              ]
+              "paragraph": "Environmental Management System (EMS) according to ISO 14001",
+              "supparparagraph": []
+            },
+            {
+              "paragraph": "Food Safety Management System (FSMS) according to ISO 22000",
+              "supparparagraph": []
+            },
+            {
+              "paragraph": "Occupational Health & Safety Management (OH&S) according to ISO 45001",
+              "supparparagraph": []
+            },
+            {
+              "paragraph": "Occupational Health & Safety Management (OH&S) according to OHSAS 18001",
+              "supparparagraph": []
+            },
+            {
+              "paragraph": "Energy Management System (EnMS) according to ISO 50001",
+              "supparparagraph": []
+            },
+            {
+              "paragraph": "Information Security Management System (ISMS) according to ISO 27001",
+              "supparparagraph": []
+            },
+            {
+              "paragraph": "Quality Management System for Medical Devices according to ISO 13485",
+              "supparparagraph": []
+            },
+            {
+              "paragraph": "Business Continuity Management System (BCMS) according to ISO 22301",
+              "supparparagraph": []
+            },
+            {
+              "paragraph": "Business Risk Management according to ISO 31000",
+              "supparparagraph": []
+            },
+            {
+              "paragraph": "Educational Organization Management System according to ISO 21001",
+              "supparparagraph": []
+            },
+            {
+              "paragraph": "Customer Satisfaction Management System according to ISO 10002",
+              "supparparagraph": []
+            },
+            {
+              "paragraph": "Social Responsibility Management System according to ISO 26000",
+              "supparparagraph": []
+            },
+            {
+              "paragraph": "Social Responsibility Management System according to SA 8000",
+              "supparparagraph": []
+            },
+            {
+              "paragraph": "Project Quality Management System according to ISO 10006",
+              "supparparagraph": []
+            },
+            {
+              "paragraph": "Application of ISO 9001 in Local Administrations (municipalities, councils, etc.) according to ISO 18091",
+              "supparparagraph": []
+            },
+            {
+              "paragraph": "Facility Management System according to ISO 41001",
+              "supparparagraph": []
+            },
+            {
+              "paragraph": "Anti-Bribery and Corruption Management System according to ISO 37001",
+              "supparparagraph": []
+            },
+            {
+              "paragraph": "Management System for Education and Training Service Providers according to ISO 29990",
+              "supparparagraph": []
+            },
+            {
+              "paragraph": "Laboratory Quality and Competence System according to ISO 17025",
+              "supparparagraph": []
+            },
+            {
+              "paragraph": "Conformity Assessment for Inspection and Testing Bodies according to ISO 17020",
+              "supparparagraph": []
+            },
+            {
+              "paragraph": "Compliance Management System according to ISO 37301",
+              "supparparagraph": []
+            },
+            {
+              "paragraph": "Conformity Assessment for Certification Bodies for Personnel according to ISO 17024",
+              "supparparagraph": []
             }
           ]
-        }
-      ]
+        }]
+      }]
     },
 
     {
-      "headtitle": "الهيئه المصريه العامه للمواصفات و الجودة",
+      "headtitle": "Egyptian Organization for Standards and Quality",
       "src": "assets/images/service/gawda.png",
-      "service": [
-        {
-          "servicetitle": "المواصفات ",
-          "info": [
-            {
-              "title": [""],
-              "info": [
-                {
-                  "paragraph": "شراء والبحث عن المواصفات القياسيه المصريه",
-                  "supparagraph": []
-                },
-                {
-                  "paragraph": "شراء ادله المواصفات القياسيه المصريه",
-                  "supparagraph": []
-                },
-                {
-                  "paragraph": "التقديم في الاداره العامه للمقاييس وتشمل",
-                  "supparagraph": []
-                },
-                {
-                  "paragraph": "1- التقديم في قطاع المواصفات الهندسيه",
-                  "supparagraph": []
-                },
-                {
-                  "paragraph": "2- التقديم في قطاع المواصفات الغذائيه",
-                  "supparagraph": []
-                },
-                {
-                  "paragraph": "3- التقديم في قطاع المواصفات الكيماويه",
-                  "supparagraph": []
-                },
-                {
-                  "paragraph": "4- التقديم في قطاع الغزل والنسيج",
-                  "supparagraph": []
-                },
-                {
-                  "paragraph": "التقديم في اللجان الفنيه",
-                  "supparagraph": []
-                },
-                {
-                  "paragraph": "التقديم في التصنيف الدولي للمواصفات ICS",
-                  "supparagraph": []
-                },
-                {
-                  "paragraph": "تسجيل السائل الالكتروني والسجائر الالكترونيه",
-                  "supparagraph": []
-                }
-              ]
-            }
-          ]
+      "service": [{
+          "servicetitle": "Specifications",
+          "info": [{
+            "title": [""],
+            "info": [{
+                "paragraph": "Purchase and search for Egyptian standard specifications",
+                "supparparagraph": []
+              },
+              {
+                "paragraph": "Purchase Egyptian standard specification guides",
+                "supparparagraph": []
+              },
+              {
+                "paragraph": "Application to the General Administration of Metrology, including",
+                "supparparagraph": []
+              },
+              {
+                "paragraph": "1- Application to the Engineering Specifications Sector",
+                "supparparagraph": []
+              },
+              {
+                "paragraph": "2- Application to the Food Specifications Sector",
+                "supparparagraph": []
+              },
+              {
+                "paragraph": "3- Application to the Chemical Specifications Sector",
+                "supparparagraph": []
+              },
+              {
+                "paragraph": "4- Application to the Textile Sector",
+                "supparparagraph": []
+              },
+              {
+                "paragraph": "Application to the Technical Committees",
+                "supparparagraph": []
+              },
+              {
+                "paragraph": "Application to the International Classification of Specifications (ICS)",
+                "supparparagraph": []
+              },
+              {
+                "paragraph": "Registering electronic cigarettes and e-liquids",
+                "supparparagraph": []
+              }
+            ]
+          }]
         },
         {
-          "servicetitle": "الجودة ",
-          "info": [
-            {
-              "title": [""],
-              "info": [
-                {
-                  "paragraph": "التقديم على علامه الجوده",
-                  "supparagraph": []
-                },
-                {
-                  "paragraph": "التقديم على شهادة المطابقه",
-                  "supparagraph": []
-                },
-                {
-                  "paragraph": "التقديم على علامه حلال",
-                  "supparagraph": []
-                },
-                {
-                  "paragraph": "التقديم و طلب الترخيص لمنتج الاسمنت",
-                  "supparagraph": []
-                },
-                {
-                  "paragraph": "التقديم وطلب الترخيص لمنتج السيراميك",
-                  "supparagraph": []
-                },
-                {
-                  "paragraph": "طلب و تجديد التراخيص",
-                  "supparagraph": []
-                },
-                {
-                  "paragraph": "التقديم على الترخيص باستخدام علامه الجودة",
-                  "supparagraph": []
-                }
-              ]
-            }
-          ]
+          "servicetitle": "Quality",
+          "info": [{
+            "title": [""],
+            "info": [{
+                "paragraph": "Apply for the Quality Mark",
+                "supparparagraph": []
+              },
+              {
+                "paragraph": "Apply for the Certificate of Conformity",
+                "supparparagraph": []
+              },
+              {
+                "paragraph": "Apply for the Halal Mark",
+                "supparparagraph": []
+              },
+              {
+                "paragraph": "Apply and request licensing for cement product",
+                "supparparagraph": []
+              },
+              {
+                "paragraph": "Apply and request licensing for ceramic product",
+                "supparparagraph": []
+              },
+              {
+                "paragraph": "Request and renew licenses",
+                "supparparagraph": []
+              },
+              {
+                "paragraph": "Apply for a license to use the quality mark",
+                "supparparagraph": []
+              }
+            ]
+          }]
         }
       ]
     },
 
     {
-      "headtitle": "الهيئه القوميه للتامين الاجتماعي",
+      "headtitle": "The National Organization for Social Insurance",
       "src": "assets/images/service/tamen.png",
-      "service": [
-        {
-          "servicetitle": " خدمات المؤمن عليهم",
-          "info": [
-            {
-              "title": [""],
-              "info": [
-                {
-                  "paragraph": "الاستعلام عن الرقم التاميني ",
-                  "supparagraph": []
-                },
-                {
-                  "paragraph": " تسجيل رقم تاميني",
-                  "supparagraph": []
-                },
-                {
-                  "paragraph": " اخطار العامل بمكتب الهيئه عند الالتحاق بالعمل",
-                  "supparagraph": []
-                },
-                {
-                  "paragraph": " التامين على العماله الغير منتظمه",
-                  "supparagraph": []
-                },
-                {
-                  "paragraph": " الاستعلام عن مدد الاشتراك في التامين الاجتماعي والاجور الخاصه بكل مده ",
-                  "supparagraph": []
-                },
-                {
-                  "paragraph": " عرض السيارات المملوكه للمالك",
-                  "supparagraph": []
-                },
-                {
-                  "paragraph": " كشف حساب السيارات المملوكه للمالك",
-                  "supparagraph": []
-                },
-                {
-                  "paragraph": "استعلام عن البيانات الاساسيه لعمليات المقاولات المستمره ",
-                  "supparagraph": []
-                },
-                {
-                  "paragraph": " الاستعلام عن العمليات المستمره التابعه للمقاول",
-                  "supparagraph": []
-                },
-                {
-                  "paragraph": " عرض السداد عن عمليات المقاول (مستخلصات)",
-                  "supparagraph": []
-                }
-              ]
-            }
-          ]
+      "service": [{
+          "servicetitle": "Services for Insured Persons",
+          "info": [{
+            "title": [""],
+            "info": [{
+                "paragraph": "Inquire about the insurance number",
+                "supparparagraph": []
+              },
+              {
+                "paragraph": "Register insurance number",
+                "supparparagraph": []
+              },
+              {
+                "paragraph": "Notify the worker at the agency office when joining work",
+                "supparparagraph": []
+              },
+              {
+                "paragraph": "Insurance for irregular workers",
+                "supparparagraph": []
+              },
+              {
+                "paragraph": "Inquire about the subscription periods in social insurance and the wages for each period",
+                "supparparagraph": []
+              },
+              {
+                "paragraph": "View the vehicles owned by the owner",
+                "supparparagraph": []
+              },
+              {
+                "paragraph": "Account statement for vehicles owned by the owner",
+                "supparparagraph": []
+              },
+              {
+                "paragraph": "Inquire about the basic data for ongoing contracting operations",
+                "supparparagraph": []
+              },
+              {
+                "paragraph": "Inquire about the ongoing operations of the contractor",
+                "supparparagraph": []
+              },
+              {
+                "paragraph": "Display payments for contractor operations (receivables)",
+                "supparparagraph": []
+              }
+            ]
+          }]
         },
         {
-          "servicetitle": "خدمات اصحاب الاعمال",
-          "info": [
-            {
-              "title": [""],
-              "info": [
-                {
-                  "paragraph": "التامين على العامل بالقطاع الخاص",
-                  "supparagraph": []
-                },
-                {
-                  "paragraph": " عرض السيارات المملوكه للمالك",
-                  "supparagraph": []
-                },
-                {
-                  "paragraph": " كشف حساب السيارات المملوكه للمالك",
-                  "supparagraph": []
-                },
-                {
-                  "paragraph": " الاستعلام عن العماله المستمره",
-                  "supparagraph": []
-                },
-                {
-                  "paragraph": "الاستعلام عن العماله المنتهيه",
-                  "supparagraph": []
-                },
-                {
-                  "paragraph": " الاستعلام عن رصيد المنشاه بالتفاصيل",
-                  "supparagraph": []
-                },
-                {
-                  "paragraph": "الاستعلام عن ديون العماله المدرجه على المنشاه",
-                  "supparagraph": []
-                },
-                {
-                  "paragraph": "عرض كشف حساب المنشاه",
-                  "supparagraph": []
-                },
-                {
-                  "paragraph": " الاستعلام عن اوعيه الاجور",
-                  "supparagraph": []
-                },
-                {
-                  "paragraph": "الاستعلام عنالبيانات الاساسيه للمنشاه",
-                  "supparagraph": []
-                },
-                {
-                  "paragraph": "التامين على عمال المخابز البلديه",
-                  "supparagraph": []
-                },
-                {
-                  "paragraph": " طلب ترخيص للمنشاه بانشاء جهاز التامين الاجتماعي",
-                  "supparagraph": []
-                },
-                {
-                  "paragraph": " فتح ملف اشتراك منشاه جديده",
-                  "supparagraph": []
-                },
-                {
-                  "paragraph": "طلب اشتراك صاحب وسيله نقل اليه (سياره)",
-                  "supparagraph": []
-                },
-                {
-                  "paragraph": " طلب تعديل اشتراك صاحب العمل",
-                  "supparagraph": []
-                },
-                {
-                  "paragraph": "توحيد التعامب النمطي للمنشات ذات الفروع داخل المحافظة ",
-                  "supparagraph": []
-                },
-                {
-                  "paragraph": "طلب اشتراك مؤمن عليه طبقا للقانون 148 لسنه 2019 لعمال النشاط  ",
-                  "supparagraph": []
-                },
-                {
-                  "paragraph": " انهاء نشاط منشاه نمطيه",
-                  "supparagraph": []
-                },
-                {
-                  "paragraph": " تغيير في بيانات منشاه",
-                  "supparagraph": []
-                },
-                {
-                  "paragraph": "  تعديل بيانات المؤمن عليه و اجوره",
-                  "supparagraph": []
-                },
-                {
-                  "paragraph": " انهاء اشتراك مؤمن عليه (استماره 6)",
-                  "supparagraph": []
-                },
-                {
-                  "paragraph": "تخفيض نسب اشتراكات تامين اصابه العمال ",
-                  "supparagraph": []
-                },
-                {
-                  "paragraph": " طلب انهاء اشتراك السياره",
-                  "supparagraph": []
-                },
-                {
-                  "paragraph": "دمج منشاتين او اكثر ",
-                  "supparagraph": []
-                },
-                {
-                  "paragraph": "شراء مدد سابقه لاصحاب الاعمال ",
-                  "supparagraph": []
-                },
-                {
-                  "paragraph": "خدمه تقسيط المبالغ المستحقه على صاحب العمل ",
-                  "supparagraph": []
-                }
-              ]
-            }
-          ]
+          "servicetitle": "Services for Employers",
+          "info": [{
+            "title": [""],
+            "info": [{
+                "paragraph": "Insurance for workers in the private sector",
+                "supparparagraph": []
+              },
+              {
+                "paragraph": "View the vehicles owned by the owner",
+                "supparparagraph": []
+              },
+              {
+                "paragraph": "Account statement for vehicles owned by the owner",
+                "supparparagraph": []
+              },
+              {
+                "paragraph": "Inquire about ongoing labor",
+                "supparparagraph": []
+              },
+              {
+                "paragraph": "Inquire about terminated labor",
+                "supparparagraph": []
+              },
+              {
+                "paragraph": "Inquire about the establishment's balance in detail",
+                "supparparagraph": []
+              },
+              {
+                "paragraph": "Inquire about the debts of labor listed on the establishment",
+                "supparparagraph": []
+              },
+              {
+                "paragraph": "Display account statement for the establishment",
+                "supparparagraph": []
+              },
+              {
+                "paragraph": "Inquire about wage baskets",
+                "supparparagraph": []
+              },
+              {
+                "paragraph": "Inquire about the basic data of the establishment",
+                "supparparagraph": []
+              },
+              {
+                "paragraph": "Insurance for bakery workers",
+                "supparparagraph": []
+              },
+              {
+                "paragraph": "Request licensing for the establishment to create a social insurance system",
+                "supparparagraph": []
+              },
+              {
+                "paragraph": "Open a new establishment subscription file",
+                "supparparagraph": []
+              },
+              {
+                "paragraph": "Request subscription for the owner of a vehicle (car)",
+                "supparparagraph": []
+              },
+              {
+                "paragraph": "Request modification of employer's subscription",
+                "supparparagraph": []
+              },
+              {
+                "paragraph": "Unify the typical dealings for establishments with branches within the governorate",
+                "supparparagraph": []
+              },
+              {
+                "paragraph": "Request subscription for insured persons according to Law 148 of 2019 for activity workers",
+                "supparparagraph": []
+              },
+              {
+                "paragraph": "Terminate a typical establishment's activity",
+                "supparparagraph": []
+              },
+              {
+                "paragraph": "Change establishment data",
+                "supparparagraph": []
+              },
+              {
+                "paragraph": "Modify the insured person's data and wages",
+                "supparparagraph": []
+              },
+              {
+                "paragraph": "End insured person's subscription (Form 6)",
+                "supparparagraph": []
+              },
+              {
+                "paragraph": "Reduce worker injury insurance subscription rates",
+                "supparparagraph": []
+              },
+              {
+                "paragraph": "Request to terminate vehicle subscription",
+                "supparparagraph": []
+              },
+              {
+                "paragraph": "Merge two or more establishments",
+                "supparparagraph": []
+              },
+              {
+                "paragraph": "Purchase previous periods for employers",
+                "supparparagraph": []
+              },
+              {
+                "paragraph": "Installment service for amounts due to the employer",
+                "supparparagraph": []
+              }
+            ]
+          }]
         },
         {
-          "servicetitle": "خدمات اصحاب المعاشات",
-          "info": [
-            {
-              "title": [""],
-              "info": [
-                {
-                  "paragraph": "استعلام عن البيانات الاساسيه لملف المعاش",
-                  "supparagraph": []
-                },
-                {
-                  "paragraph": "عرض تطور زيادات المعاش",
-                  "supparagraph": []
-                },
-                {
-                  "paragraph": "طلب معاش استثنائي",
-                  "supparagraph": []
-                }
-              ]
-            }
-          ]
+          "servicetitle": "Services for Pensioners",
+          "info": [{
+            "title": [""],
+            "info": [{
+                "paragraph": "Inquire about the basic data for the pension file",
+                "supparparagraph": []
+              },
+              {
+                "paragraph": "View the developments in pension increases",
+                "supparparagraph": []
+              },
+              {
+                "paragraph": "Request an exceptional pension",
+                "supparparagraph": []
+              }
+            ]
+          }]
         },
         {
-          "servicetitle": "خدمات المستفيدين",
-          "info": [
-            {
-              "title": [""],
-              "info": [
-                {
-                  "paragraph": "التقديم على صرف منحه زواج",
-                  "supparagraph": []
-                },
-                {
-                  "paragraph": "عرض المعاشات المستحقه للمستفيد",
-                  "supparagraph": []
-                },
-                {
-                  "paragraph": "التقديم على صرف منحه القطع",
-                  "supparagraph": []
-                },
-                {
-                  "paragraph": "التقديم على صرف مصاريف الجنازه",
-                  "supparagraph": []
-                },
-                {
-                  "paragraph": "التقديم على صرف منحه الوفاه",
-                  "supparagraph": []
-                },
-                {
-                  "paragraph": "التقديم على صرف معاش للمستحق للوفاه",
-                  "supparagraph": []
-                }
-              ]
-            }
-          ]
+          "servicetitle": "Services for Beneficiaries",
+          "info": [{
+            "title": [""],
+            "info": [{
+                "paragraph": "Apply for marriage grant",
+                "supparparagraph": []
+              },
+              {
+                "paragraph": "View the pensions due to the beneficiary",
+                "supparparagraph": []
+              },
+              {
+                "paragraph": "Apply for a grant for the separation",
+                "supparparagraph": []
+              },
+              {
+                "paragraph": "Apply for funeral expenses",
+                "supparparagraph": []
+              },
+              {
+                "paragraph": "Apply for death grant",
+                "supparparagraph": []
+              },
+              {
+                "paragraph": "Apply for pension for the death beneficiary",
+                "supparparagraph": []
+              }
+            ]
+          }]
         },
         {
-          "servicetitle": "خدمات القائم بالصرف",
-          "info": [
-            {
-              "title": [""],
-              "info": [
-                {
-                  "paragraph": "الاستعلام عن المعاش المنصرف للقائم بالصرف",
-                  "supparagraph": []
-                },
-                {
-                  "paragraph": "الاستعلام عن الاستقطاعات للقائمين بالصرف",
-                  "supparagraph": []
-                },
-                {
-                  "paragraph": "طلب تعديل جهة صرف المعاش",
-                  "supparagraph": []
-                }
-              ]
-            }
-          ]
+          "servicetitle": "Services for Disbursement Personnel",
+          "info": [{
+            "title": [""],
+            "info": [{
+                "paragraph": "Inquire about the pension disbursed to the disbursement person",
+                "supparparagraph": []
+              },
+              {
+                "paragraph": "Inquire about the deductions for the disbursement personnel",
+                "supparparagraph": []
+              },
+              {
+                "paragraph": "Request modification of pension disbursement entity",
+                "supparparagraph": []
+              }
+            ]
+          }]
         },
         {
-          "servicetitle": "خدمات غير المصريين",
-          "info": [
-            {
-              "title": [""],
-              "info": [
-                {
-                  "paragraph": "خدمه التحاق عامل اجبني بخدمه صاحب العمل قطاع خاص نمطي",
-                  "supparagraph": []
-                },
-                {
-                  "paragraph": "الاستعلام عن رصيد الاجنبي المؤمن عليه",
-                  "supparagraph": []
-                }
-              ]
-            }
-          ]
+          "servicetitle": "Services for Non-Egyptians",
+          "info": [{
+            "title": [""],
+            "info": [{
+                "paragraph": "Service for the registration of a foreign worker under a typical private sector employer",
+                "supparparagraph": []
+              },
+              {
+                "paragraph": "Inquire about the foreign insured person's balance",
+                "supparparagraph": []
+              }
+            ]
+          }]
         }
       ]
     },
 
     {
-      "headtitle": "الهيئه العامه للسلامه البحريه",
+      "headtitle": "The General Authority for Maritime Safety",
       "src": "assets/images/service/slama.png",
-      "service": [
-        {
-          "servicetitle": "",
-          "info": [
+      "service": [{
+        "servicetitle": "",
+        "info": [{
+          "title": [""],
+          "info": [{
+              "paragraph": "Application and completion of the maritime passport procedures",
+              "supparparagraph": []
+            },
             {
-              "title": [""],
-              "info": [
-                {
-                  "paragraph": " التقديم وانهاء اجراءات الجواز البحري",
-                  "supparagraph": []
-                },
-                {
-                  "paragraph": " التقديم وانهاء اجراءات الشهادات الاهليه",
-                  "supparagraph": []
-                },
-                {
-                  "paragraph": "التقديم وانهاء اجراءات التراخيص ",
-                  "supparagraph": []
-                },
-                {
-                  "paragraph": " التقديم و انهاء من تمكين السفر للسفن الاجنبيه والمصريه",
-                  "supparagraph": []
-                },
-                {
-                  "paragraph": "التقديموانهاء اجراءات عقود العمل البحريه ",
-                  "supparagraph": []
-                },
-                {
-                  "paragraph": "استخراج شهاده تعديل ملكيه - استبدال اله لسفينه او وحده بحريه ",
-                  "supparagraph": []
-                },
-                {
-                  "paragraph": "استخراج شهاده تغير اسم سفينه - وحده بحريه ",
-                  "supparagraph": []
-                }
-              ]
+              "paragraph": "Application and completion of competency certificates procedures",
+              "supparparagraph": []
+            },
+            {
+              "paragraph": "Application and completion of licensing procedures",
+              "supparparagraph": []
+            },
+            {
+              "paragraph": "Application and completion of travel authorization procedures for foreign and Egyptian vessels",
+              "supparparagraph": []
+            },
+            {
+              "paragraph": "Application and completion of maritime labor contract procedures",
+              "supparparagraph": []
+            },
+            {
+              "paragraph": "Issuance of a certificate of ownership transfer - replacement of a vessel or maritime unit",
+              "supparparagraph": []
+            },
+            {
+              "paragraph": "Issuance of a certificate for changing the name of a vessel or maritime unit",
+              "supparparagraph": []
             }
           ]
-        }
-      ]
+        }]
+      }]
     },
 
     {
-      "headtitle": "الاداره العامه لنظم معلومات المرور",
+      "headtitle": "General Administration of Traffic Information Systems",
       "src": "assets/images/service/meror.jpg",
-      "service": [
-        {
-          "servicetitle": "",
-          "info": [
+      "service": [{
+        "servicetitle": "",
+        "info": [{
+          "title": [""],
+          "info": [{
+              "paragraph": "Application for vehicle license issuance",
+              "supparparagraph": []
+            },
             {
-              "title": [""],
-              "info": [
-                {
-                  "paragraph": "التقديم على استخراج رخصه مركبه",
-                  "supparagraph": []
-                },
-                {
-                  "paragraph": "التقديم على اصدار ملصق الكتروني ",
-                  "supparagraph": []
-                },
-                {
-                  "paragraph": "التقديم على استخراج بدل تالف من رخصه مركبه",
-                  "supparagraph": []
-                },
-                {
-                  "paragraph": "التقديم على استخراج بدل فاقد من رخصه مركبه",
-                  "supparagraph": []
-                },
-                {
-                  "paragraph": "التاكد من صحه بيانات رخصه تسير مركبه",
-                  "supparagraph": []
-                },
-                {
-                  "paragraph": "التقديم واستخراج بدل تالف رخصه قياده",
-                  "supparagraph": []
-                },
-                {
-                  "paragraph": "التقديم واستخراج بدل فاقد رخصه قياده",
-                  "supparagraph": []
-                },
-                {
-                  "paragraph": "نقل قيد او ملكيه مركبه",
-                  "supparagraph": []
-                },
-                {
-                  "paragraph": "التقديم على استخراج رخصه تسيير مركبه لاول مره",
-                  "supparagraph": []
-                },
-                {
-                  "paragraph": "التقديم والحصول على اجراءات الحصول على ترخيص تجاري",
-                  "supparagraph": []
-                },
-                {
-                  "paragraph": "التقديم واستخراج شهادة بيانات للمركبات تقدم لاحد اقسام المرور او الشهر العقاري",
-                  "supparagraph": []
-                }
-              ]
+              "paragraph": "Application for issuing an electronic sticker",
+              "supparparagraph": []
+            },
+            {
+              "paragraph": "Application for issuing a replacement for a damaged vehicle license",
+              "supparparagraph": []
+            },
+            {
+              "paragraph": "Application for issuing a replacement for a lost vehicle license",
+              "supparparagraph": []
+            },
+            {
+              "paragraph": "Verification of the accuracy of vehicle license data",
+              "supparparagraph": []
+            },
+            {
+              "paragraph": "Application and issuance of a replacement for a damaged driver’s license",
+              "supparparagraph": []
+            },
+            {
+              "paragraph": "Application and issuance of a replacement for a lost driver’s license",
+              "supparparagraph": []
+            },
+            {
+              "paragraph": "Transfer of vehicle registration or ownership",
+              "supparparagraph": []
+            },
+            {
+              "paragraph": "Application for issuing a first-time vehicle operating license",
+              "supparparagraph": []
+            },
+            {
+              "paragraph": "Application and procedure for obtaining a commercial license",
+              "supparparagraph": []
+            },
+            {
+              "paragraph": "Application and issuance of a vehicle data certificate for submission to a traffic department or notary public",
+              "supparparagraph": []
             }
           ]
-        }
-      ]
+        }]
+      }]
     }
+
   ],
   "copySuccessMessage": "Text copied to clipboard"
 }
